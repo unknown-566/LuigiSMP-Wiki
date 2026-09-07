@@ -26,8 +26,12 @@
 * [Obsah a komunita](rock-bottom/obsah-a-komunita.md)
 * [Seznam příkazů](rock-bottom/prikazy.md)
 
+## Komunitní funkce
+* [Přehled](komunitni-funkce/prehled.md)
+* [Bloky a nástroje](komunitni-funkce/bloky-a-nastroje.md)
+* [Herní mechaniky](komunitni-funkce/mechaniky.md)
+
 ## Zábava
-* [Zábavné předměty](zabava/predmety.md)
 * [Plyšáci](zabava/plysaci.md)
 * [Nameplaty](zabava/nameplaty.md)
 

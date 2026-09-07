@@ -21,7 +21,7 @@ Nic nemusíš stahovat ani instalovat, stačí se připojit a hrát. Tahle wiki 
 | Zkontrolovat poštu | [Pošta](posta/posta.md) |
 | Zjistit, co dostanu za aktivitu na Discordu | [Odměny za aktivitu](odmeny/aktivita.md) |
 | Začít těžit v Rock Bottomu | [Rock Bottom, základy](rock-bottom/zaklady.md) |
-| Najít zábavné/vzácné itemy | [Zábavné věci](zabava/predmety.md), [Plyšáci](zabava/plysaci.md) |
+| Najít zábavné/vzácné itemy | [Komunitní funkce](komunitni-funkce/prehled.md), [Plyšáci](zabava/plysaci.md) |
 | Vybrat si vlastní jmenovku | [Nameplaty](zabava/nameplaty.md) |
 | Upravit si nastavení serveru | [Nastavení](nastaveni/nastaveni.md) |
 
