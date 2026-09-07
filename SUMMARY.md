@@ -34,7 +34,6 @@
 ## Zábava
 * [Plyšáci](zabava/plysaci.md)
 * [Nameplaty](zabava/nameplaty.md)
-* [Skryté easter eggy](zabava/easter-eggy.md)
 
 ## Nastavení
 * [Osobní nastavení](nastaveni/nastaveni.md)
