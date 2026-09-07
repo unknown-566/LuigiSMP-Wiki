@@ -9,6 +9,50 @@ Vzácné sběratelské plyšáky, každý má svůj vlastní způsob, jak ho zí
 | **Goatfrey** | Malá šance z kozy zabité hráčem |
 | **Sans** | Velmi malá šance ze skeletona zabitého **kostí** |
 
+## Craftitelní
+
+Tyhle si vyrobíš rovnou v craftovacím stole, žádná náhoda ani výzva.
+
+### Plyšová liška
+
+| | | |
+|---|---|---|
+| Kamenné tlačítko | Provázek | Kamenné tlačítko |
+| Oranžová vlna | Kůže | Oranžová vlna |
+| Bílá vlna | Oranžová vlna | Bílá vlna |
+
+### Plyšový Lambert
+
+| | | |
+|---|---|---|
+| Bílá vlna | Provázek | Bílá vlna |
+| Červená vlna | Zlatý nugget | Červená vlna |
+| Šedá vlna | Šedá vlna | Šedá vlna |
+
+### Plyšový Creeper
+
+| | | |
+|---|---|---|
+| Zelená vlna | Provázek | Zelená vlna |
+| Světle zelená vlna | TNT | Světle zelená vlna |
+| Zelená vlna | Světle zelená vlna | Zelená vlna |
+
+### Plyšový BTD6 Monkey
+
+| | | |
+|---|---|---|
+| Hnědá vlna | Provázek | Hnědá vlna |
+| Hnědá vlna | Šíp | Hnědá vlna |
+| Hnědá vlna | Vodítko | Hnědá vlna |
+
+### Plyšový Steve
+
+| | | |
+|---|---|---|
+| Hnědá vlna | Provázek | Hnědá vlna |
+| Světle modrá vlna | Železný krumpáč | Světle modrá vlna |
+| Modrá vlna | Modrá vlna | Modrá vlna |
+
 ## Výzvy
 
 ### Herobrine
