@@ -13,12 +13,9 @@
 | `/loadout` | Equip Schopnosti + Ultimátu |
 | `/gacha` | Gacha tahy |
 | `/miningcontract` | Denní úkoly |
-| `/muzeum` | Collection log |
 | `/miningparty` | Skupinový nástroj |
 | `/waystones` | Rychlé cestování |
-| `/zakladna` | Osobní pozemek |
-| `/visit <hráč>` | Návštěva cizí základny |
-| `/mboss` | Boss dungeon |
+| `/mboss` | Boss Dungeon (Tower Skeleton) |
 | `/miningprofile` (`/mp`) | Tvůj profil a statistiky |
 | `/miningbook` | Znovu otevře úvodní knihu s tipy |
 | `/miningtop` | Žebříček |
