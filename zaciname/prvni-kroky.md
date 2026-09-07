@@ -11,7 +11,7 @@ Jazyk můžeš kdykoliv později změnit příkazem:
 ```
 (nebo jen `/lang` pro nabídku)
 
-Skoro všechny hlášky na serveru (claimy, pošta, mining...) respektují tenhle výběr.
+Skoro všechny hlášky na serveru (claimy, pošta, Rock Bottom...) respektují tenhle výběr.
 
 ## 2. Pravidla serveru
 

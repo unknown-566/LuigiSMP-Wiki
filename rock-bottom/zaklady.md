@@ -1,6 +1,6 @@
 # Rock Bottom, základy
 
-**Rock Bottom** je náš vlastní hlubinný mining gamemode. Samostatný svět s vlastní ekonomikou, nástroji a odměnami, oddělený od hlavní SMP mapy.
+**Rock Bottom** (česky "Na dně") je náš vlastní hlubinný důlní gamemode. Samostatný svět s vlastní ekonomikou, nástroji a odměnami, oddělený od hlavní SMP mapy.
 
 ```
 /miningspawn

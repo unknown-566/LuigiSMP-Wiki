@@ -1,6 +1,6 @@
 # Vítej na LuigiSMP! 👋
 
-LuigiSMP je **forever world**: server, co se nikdy neresetuje, vyvíjený jedním člověkem s láskou k detailu. Kromě klasického přežívání tu najdeš spoustu vlastních systémů: hlubinný mining gamemode, chunk-based claimy na ochranu stavby, a různé drobnosti a komunitní nápady, co v čisté vanille nenajdeš.
+LuigiSMP je **forever world**: server, co se nikdy neresetuje, vyvíjený jedním člověkem s láskou k detailu. Kromě klasického přežívání tu najdeš spoustu vlastních systémů: hlubinný gamemode Rock Bottom, chunk-based claimy na ochranu stavby, a různé drobnosti a komunitní nápady, co v čisté vanille nenajdeš.
 
 Nic nemusíš stahovat ani instalovat, stačí se připojit a hrát. Tahle wiki ti pomůže se v tom všem zorientovat.
 
