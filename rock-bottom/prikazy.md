@@ -1,4 +1,4 @@
-# Rock Bottom — seznam příkazů
+# Rock Bottom, seznam příkazů
 
 | Příkaz | Co dělá |
 |---|---|

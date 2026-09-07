@@ -19,7 +19,7 @@
 ## Odměny za aktivitu
 * [Discord aktivita → odměny](odmeny/aktivita.md)
 
-## Rock Bottom — důl
+## Rock Bottom, důl
 * [Základy těžby](rock-bottom/zaklady.md)
 * [Postup a odměny](rock-bottom/postup.md)
 * [Boj a eventy](rock-bottom/boj-a-eventy.md)
@@ -29,6 +29,7 @@
 ## Zábava
 * [Zábavné předměty](zabava/predmety.md)
 * [Plyšáci](zabava/plysaci.md)
+* [Nameplaty](zabava/nameplaty.md)
 
 ## Nastavení
 * [Osobní nastavení](nastaveni/nastaveni.md)

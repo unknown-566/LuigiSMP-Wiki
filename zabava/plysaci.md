@@ -1,4 +1,4 @@
-# Plyšáci — sběratelské výzvy
+# Plyšáci, sběratelské výzvy
 
 Vzácné sběratelské plyšáky, každý má svůj vlastní způsob, jak ho získat. Některé jsou čistá náhoda, jiné jsou skutečné výzvy/hádanky.
 
@@ -17,7 +17,7 @@ Postav rituál: **netherrack na zlatém bloku**, uprostřed kompletní 3×3 zák
 
 ### Hollow Knight
 
-Přibliž se k Wardenovi (aktivuje se sledování), pak ho **ty sám/sama** musíš zabít — nesmí to udělat jiný hráč.
+Přibliž se k Wardenovi (aktivuje se sledování), pak ho **ty sám/sama** musíš zabít, nesmí to udělat jiný hráč.
 
 ### Sonic
 
@@ -28,7 +28,7 @@ Uběhni stanovenou vzdálenost **po zemi** (let/elytra se nepočítá) v časov�
 
 ### Bandage Girl
 
-Vylič zombie vesničana zlatým jablkem (musí mít efekt slabosti) — klasický vanilla postup na vyléčení, jen s odměnou navíc.
+Vylič zombie vesničana zlatým jablkem (musí mít efekt slabosti), klasický vanilla postup na vyléčení, jen s odměnou navíc.
 
 ### Meat Boy
 
@@ -38,5 +38,5 @@ Malá šance po smrti (musíš mít dostatečný level), odměna přijde poštou
 
 Rozestavěné plyšáky ve správné konfiguraci ti dají i vanilla advancement:
 
-- **Bandage Girl v kleci** — obklop ji ze všech 8 stran (mřížka 3×3 mínus střed) železnými mřížemi
-- **Lambert + Goatfrey u vody** — postav je pár bloků od sebe s vodou mezi nimi
+* **Bandage Girl v kleci**: obklop ji ze všech 8 stran (mřížka 3×3 mínus střed) železnými mřížemi.
+* **Lambert + Goatfrey u vody**: postav je pár bloků od sebe s vodou mezi nimi.

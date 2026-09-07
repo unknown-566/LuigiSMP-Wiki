@@ -5,11 +5,11 @@
 ```
 (nebo `/settings`)
 
-Otevře menu s osobním nastavením — přepínáš klikem, uloží se automaticky.
+Otevře menu s osobním nastavením, přepínáš klikem, uloží se automaticky.
 
 | Nastavení | Co dělá |
 |---|---|
-| **Můj nameplate** | Vidíš svůj vlastní equipnutý nameplate, nebo ne |
+| **Můj nameplate** | Vidíš svůj vlastní equipnutý [nameplate](../zabava/nameplaty.md), nebo ne |
 | **Oznámení o úmrtí** | Zobrazuje se ti, když někdo zemře |
 | **Advancement oznámení** | Zobrazuje se ti, když někdo splní advancement |
 | **TPA požadavky** | Jestli ti ostatní můžou posílat TPA žádosti |

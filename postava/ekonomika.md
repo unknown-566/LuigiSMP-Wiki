@@ -1,6 +1,6 @@
 # Ekonomika a peníze
 
-Server má vlastní měnu (na SMP mapě — Rock Bottom má [svoje vlastní peníze](../rock-bottom/zaklady.md), samostatné).
+Server má vlastní měnu na SMP mapě (Rock Bottom má [svoje vlastní peníze](../rock-bottom/zaklady.md), úplně samostatné).
 
 | Příkaz | Co dělá |
 |---|---|
@@ -10,4 +10,4 @@ Server má vlastní měnu (na SMP mapě — Rock Bottom má [svoje vlastní pen�
 
 ## Webshop
 
-Server má i webshop pro reálné nákupy (kosmetika, VIP a podobně) — odkaz najdeš na webu serveru (`/web`).
+Server má i webshop pro reálné nákupy (kosmetika, VIP a podobně). Odkaz najdeš na webu serveru (`/web`).

@@ -11,8 +11,8 @@ Vlastní systém domovů (nahrazuje klasický Essentials `/sethome`).
 
 ## Kolik domovů můžu mít?
 
-Záleží na tvojí aktivitě na Discordu — čím vyšší úroveň, tím víc domovů. Kompletní tabulka je v [Odměny za aktivitu](../odmeny/aktivita.md).
+Záleží na tvojí aktivitě na Discordu. Čím vyšší úroveň, tím víc domovů. Kompletní tabulka je v [Odměny za aktivitu](../odmeny/aktivita.md).
 
 ## Import ze staršího serveru
 
-Pokud jsi hrál/a na serveru předtím (éra Essentials), tvoje staré domovy a peníze se **automaticky naimportují** při prvním připojení po přechodu na nový systém — nemusíš dělat nic navíc, dostaneš o tom zprávu v chatu.
+Pokud jsi hrál/a na serveru předtím (éra Essentials), tvoje staré domovy a peníze se **automaticky naimportují** při prvním připojení po přechodu na nový systém. Nemusíš dělat nic navíc, dostaneš o tom zprávu v chatu.

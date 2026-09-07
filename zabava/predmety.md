@@ -1,43 +1,51 @@
 # Zábavné předměty a mechaniky
 
-Věci, co v čisté vanille nenajdeš — server na ně používá custom itemy, co ale vypadají a fungují jako obyčejné vanilla bloky/předměty.
+Věci, co v čisté vanille nenajdeš. Většina z nich vznikla jako **komunitní nápady**, návrhy hráčů z Discordu, které se pak proměnily ve vlastní itemy. Vypadají a fungují jako obyčejné vanilla bloky/předměty, ale mají něco navíc.
 
-## Autoplacer
+## Bloky a nástroje
 
-Vypadá jako obyčejný dispenser, ale místo vystřelování **pokládá bloky** při redstone signálu — šikovné na automatizované stavby. Má vlastní úložiště (pravý klik ho otevře). Rozbiješ-li ho, dostaneš ho zpátky i s obsahem.
+### Autoplacer
 
-## Vylepšené truhly
+Vypadá jako obyčejný dispenser, ale místo vystřelování **pokládá bloky** při redstone signálu, šikovné na automatizované stavby. Má vlastní úložiště (pravý klik ho otevře). Rozbiješ-li ho, dostaneš ho zpátky i s obsahem.
 
-5 tierů vlastních truhel (měděná → železná → zlatá → diamantová → obsidiánová), každá s víc sloty než vanilla truhla. Postav dvě stejného tieru vedle sebe a spojí se do double chestu s dvojnásobnou kapacitou. Nejvyšší tier (obsidiánová) je odolná proti výbuchům. Upgradovat tier truhly jde postupně pomocí upgrade modulů.
+### Vylepšené truhly
 
-## Mušketa Brown Bess
+5 tierů vlastních truhel (měděná, železná, zlatá, diamantová, obsidiánová), každá s víc sloty než vanilla truhla. Postav dvě stejného tieru vedle sebe a spojí se do double chestu s dvojnásobnou kapacitou. Nejvyšší tier (obsidiánová) je odolná proti výbuchům. Upgradovat tier truhly jde postupně pomocí upgrade modulů.
 
-Historická palná zbraň — nabíjí se ve dvou krocích (nejdřív Prachový pytlík, pak Kulička), pak vystřelíš pravým klikem. Slušné poškození, ale dlouhý cooldown mezi výstřely a omezená výdrž.
+### Mušketa Brown Bess
 
-## Vrhací cihla
+Historická palná zbraň, nabíjí se ve dvou krocích (nejdřív Prachový pytlík, pak Kulička), pak vystřelíš pravým klikem. Slušné poškození, ale dlouhý cooldown mezi výstřely a omezená výdrž.
 
-Házecí předmět (na bázi sněhové koule) — zasáhne poškozením a šancí na zpomalení, a má malou šanci rozbít poblíž skleněnou tabuli.
+### Vrhací cihla
 
-## Double Jump
+Házecí předmět (na bázi sněhové koule), zasáhne poškozením a šancí na zpomalení, a má malou šanci rozbít poblíž skleněnou tabuli.
+
+## Herní mechaniky
+
+### Double Jump
 
 ```
 /doublejump
 ```
-Zapne/vypne dvojitý skok — druhý skok tě posune dopředu podle toho, kam se díváš.
+Zapne/vypne dvojitý skok, druhý skok tě posune dopředu podle toho, kam se díváš.
 
-## Rychlé vozíky
+### Rychlé vozíky
 
 Vyrob si vozík se zvýšenou rychlostí kombinací vozíku a lektvaru rychlosti v craftingu.
 
-## Ochočená liška
+### Ochočená liška
 
-Nakrm divokou lišku bobulemi a se štěstím se ochočí — pak tě následuje, loví drobnou kořist a dá se posadit/uspat prázdnou rukou.
+Nakrm divokou lišku bobulemi a se štěstím se ochočí. Pak tě následuje, loví drobnou kořist a dá se posadit/uspat prázdnou rukou.
 
-## Neviditelné armor standy a item framy
+### Neviditelné armor standy a item framy
 
-- Splash/lingering lektvar neviditelnosti na armor stand ho zneviditelní (výbava zůstane vidět)
-- Shift + klik skleněnou tabulí na item frame ho zneviditelní
+* Splash/lingering lektvar neviditelnosti na armor stand ho zneviditelní (výbava zůstane vidět).
+* Shift + klik skleněnou tabulí na item frame ho zneviditelní.
 
-## Těžitelné spawnery
+### Těžitelné spawnery
 
-Rozbití spawneru krumpáčem se Silk Touch má šanci na drop celého spawneru se zachovaným typem moba — polož ho jinde a spawner funguje dál.
+Rozbití spawneru krumpáčem se Silk Touch má šanci na drop celého spawneru se zachovaným typem moba, polož ho jinde a spawner funguje dál.
+
+## Máš vlastní nápad?
+
+Napiš ho na Discordu, klidně se z něj časem stane další item na serveru.
