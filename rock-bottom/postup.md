@@ -38,6 +38,11 @@ Bojový systém navrch nad mečem, **funguje jen proti mobům**, na těžbu nem�
 
 ## Gacha
 
+```
+/gacha
+```
+(nebo tlačítko Gacha v `/mp`)
+
 Jediné místo v Rock Bottomu se záměrnou náhodou, otevírá se přes menu s bannery (vždy dostupný standardní banner a čas od času omezený banner s vyšší šancí na něco konkrétního).
 
 * Tah stojí peníze (1× nebo výhodněji 10×).
