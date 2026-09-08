@@ -9,7 +9,7 @@ U Kováře (`/miningupgrades`) si za peníze kupuješ vylepšení, každé má v
 ```
 /miningrebirth
 ```
-"Znovuzrození": musíš mít v ruce nejvyšší krumpáč a mít nakoupenou většinu upgradů. Za to:
+"Znovuzrození": musíš mít odemčený nejvyšší krumpáč i meč (nemusí být zrovna v ruce) a mít nakoupenou většinu upgradů. Za to:
 
 * **Ztratíš**: všechny upgrady, tier krumpáče (zpátky na dřevěný), všechny peníze.
 * **Zachováš**: statistiky, počet rebirthů a **trvalý bonus k odměnám**, který s každým rebirthem roste.
