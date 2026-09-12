@@ -13,6 +13,7 @@
 | `/loadout` | Equip Schopnosti + Ultimátu |
 | `/gacha` | Gacha tahy |
 | `/miningcontract` | Denní úkoly |
+| `/cile` (`/goals`) | Týdenní globální cíle a tvůj podíl |
 | `/miningparty` | Skupinový nástroj |
 | `/waystones` | Rychlé cestování |
 | `/mboss` | Boss Dungeon (Tower Skeleton) |
