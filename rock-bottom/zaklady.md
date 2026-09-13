@@ -44,7 +44,8 @@ Ať už tě zabije mob, dojde ti kyslík, nebo cokoliv jiného, vždycky tě to 
 
 ## Co dál
 
-* [Postup a odměny](postup.md): upgrady, rebirth, artefakty, gacha
+* [Postup a odměny](postup.md): upgrady, rebirth, artefakty, Schopnosti a Ultimáty
+* [Gacha a bannery](gacha.md): jak získat Ultimáty, pity, 50/50 a eventové bannery
 * [Boj a eventy](boj-a-eventy.md): mobové, Boss Dungeon, globální cíle
 * [Obsah a komunita](obsah-a-komunita.md): žebříček, party, waystony
 * [Seznam příkazů](prikazy.md)

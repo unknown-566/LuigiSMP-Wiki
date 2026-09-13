@@ -11,7 +11,7 @@
 | `/artefakty` | Equip artefaktů |
 | `/miningpasak` | Koupě/craft artefaktů (Pašerák) |
 | `/loadout` | Equip Schopnosti + Ultimátu |
-| `/gacha` | Gacha tahy |
+| `/gacha` | Gacha tahy a bannery ([jak fungují](gacha.md)) |
 | `/miningcontract` | Denní úkoly |
 | `/cile` (`/goals`) | Týdenní globální cíle a tvůj podíl |
 | `/miningparty` | Skupinový nástroj |

@@ -43,14 +43,9 @@ Bojový systém navrch nad mečem, **funguje jen proti mobům**, na těžbu nem�
 ```
 (nebo tlačítko Gacha v `/mp`)
 
-Jediné místo v Rock Bottomu se záměrnou náhodou, otevírá se přes menu s bannery (vždy dostupný standardní banner a čas od času omezený banner s vyšší šancí na něco konkrétního).
+Jediný způsob, jak získat **Ultimáty**. Stálý banner je pořád dostupný, eventové bannery propagují limitované Ultimáty, které jinde nedostaneš. Každý tah bez Ultimátu tě posouvá blíž ke garanci.
 
-* Tah stojí peníze (1× nebo výhodněji 10×).
-* **Běžný výsledek**: hromada rudy.
-* **Vzácný**: Schopnost nebo vzácnější ruda.
-* **Legendární** (nízká šance): Ultimát, **jediný způsob, jak Ultimáty vůbec získat**.
-* Systém má **pity**: čím déle nepadne legendární, tím vyšší šance, a po určitém počtu tahů je garantovaná.
-* Duplicitní tah ti vrátí část ceny zpátky.
+Celé vysvětlení — bannery, pity, 50/50 a garance — najdeš na samostatné stránce **[Gacha a bannery](gacha.md)**.
 
 ## Denní úkoly
 
