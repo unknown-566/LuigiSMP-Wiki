@@ -41,7 +41,7 @@ Záleží na tvojí aktivitě na Discordu, viz [Odměny za aktivitu](../odmeny/a
 | `/claim list` | Seznam tvých claimů |
 | `/claim tp <název>` | Teleport do claimu (tvého nebo kam tě pozvali) |
 | `/claim setspawn` | Nastaví přesný bod, kam tě `/claim tp` doteleportuje |
-| `/claim transfer <hráč>` | Převede claim na jiného hráče (musí být online, po převodu už do claimu přístup nemáš) |
+| `/claim transfer <hráč>` | Převede claim na jiného hráče (musí být online, po převodu už do claimu přístup nemáš). Pro potvrzení musíš opsat název claimu. |
 | `/claim see` | Vizuálně ti ukáže hranice claimu (jen ty to vidíš) |
 
 ## Kamarádi a přístup
