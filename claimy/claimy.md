@@ -27,7 +27,7 @@ Odebere chunk, na kterém stojíš, z claimu (claim musí mít aspoň 2 chunky).
 ```
 /claim unclaim
 ```
-Smaže celý claim, ve kterém stojíš (s potvrzením).
+Smaže celý claim, ve kterém stojíš. Nejde to vrátit, proto musíš pro potvrzení přesně opsat název claimu (i velká a malá písmena).
 
 ## Kolik claimů/chunků můžu mít?
 
@@ -37,11 +37,11 @@ Záleží na tvojí aktivitě na Discordu, viz [Odměny za aktivitu](../odmeny/a
 
 | Příkaz | Co dělá |
 |---|---|
-| `/claim rename <nový_název>` | Přejmenuje claim |
+| `/claim rename <nový_název>` | Přejmenuje claim (bez mezer, max. 32 znaků) |
 | `/claim list` | Seznam tvých claimů |
 | `/claim tp <název>` | Teleport do claimu (tvého nebo kam tě pozvali) |
 | `/claim setspawn` | Nastaví přesný bod, kam tě `/claim tp` doteleportuje |
-| `/claim transfer <hráč>` | Převede claim na jiného hráče (musí být online, po převodu už do claimu přístup nemáš). Pro potvrzení musíš opsat název claimu. |
+| `/claim transfer <hráč>` | Převede claim na jiného hráče (musí být online, po převodu už do claimu přístup nemáš). Pro potvrzení musíš přesně opsat název claimu. |
 | `/claim see` | Vizuálně ti ukáže hranice claimu (jen ty to vidíš) |
 
 ## Kamarádi a přístup
