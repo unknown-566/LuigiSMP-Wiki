@@ -35,7 +35,17 @@ Prvním eventovým bannerem je **💰 Zlatá horečka** — Ultimát pro horník
 
 Další limitované Ultimáty přibudou s dalšími eventy.
 
-> Co přesně z banneru padá, uvidíš přímo v menu: u každého banneru je ikonka hlavní výhry a po rozkliknutí celý přehled s popisy. Když na ikonku najedeš myší, ukáže se ti celý popis věci.
+## Menu
+
+`/gacha` tě hodí rovnou na aktuální event (když žádný neběží, na stálý banner). Na jedné obrazovce vidíš:
+
+* obrázek banneru a kolik času eventu zbývá,
+* **limitovaný Ultimát** s ikonkou a hlavními čísly,
+* **propagované Schopnosti**,
+* svůj **pity** (jak daleko jsi od garance) a jestli je příští Ultimát garantovaný,
+* zůstatek a cenu tahu — když na tah nemáš, tlačítko zčervená a ukáže, kolik chybí.
+
+Dole jsou tlačítka **Táhnout 1×** a **Táhnout 10×**, přepnutí na druhý banner a **Detaily a šance**. V detailech najdeš všechno, co z banneru může padnout (po najetí myší na ikonku celý popis s čísly), přesné šance a vysvětlení 50/50.
 
 ## Pity — nic není promarněné
 
@@ -80,11 +90,10 @@ Všechny eventové bannery ale **sdílí jeden čítač** a ten se **nese dál d
 
 ## Kde vidím svůj stav
 
-Po rozkliknutí banneru v `/gacha` vidíš:
+Pity a garanci vidíš rovnou na hlavní obrazovce banneru. V **Detailech a šancích** je navíc:
 
-* kolik tahů máš bez Ultimátu a jaká je šance v příštím tahu,
+* jaká je šance na Ultimát v příštím tahu,
 * za kolik tahů nejpozději padne Schopnost,
-* jestli je tvůj příští Ultimát **garantovaný**, nebo jde o 50/50,
 * jestli máš připravené Zachycení záře.
 
-Po tahu ti výsledkové okno ukáže u každého Ultimátu, jestli jsi 50/50 vyhrál, prohrál, nebo šlo o garanci.
+Po tahu ti výsledkové okno nahoře shrne, co padlo, a u každého Ultimátu ukáže, jestli jsi 50/50 vyhrál, prohrál, nebo šlo o garanci. **Táhnout znovu** tě vrátí na stejný banner.
