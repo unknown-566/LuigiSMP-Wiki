@@ -36,6 +36,8 @@ Bojový systém navrch nad mečem, **funguje jen proti mobům**, na těžbu nem�
 * Sneak + pravý klik spustí **Ultimát** (silnější, dlouhý cooldown).
 * 2 sloty (jedna Schopnost a jeden Ultimát), permanentní, rebirth se jich netýká.
 
+Přesná čísla všech Schopností a Ultimátů najdeš na stránce **[Schopnosti a Ultimáty](schopnosti.md)**.
+
 ## Gacha
 
 ```

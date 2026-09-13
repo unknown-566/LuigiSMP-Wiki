@@ -9,19 +9,21 @@ Jediné místo v Rock Bottomu se záměrnou náhodou — a **jediný způsob, ja
 
 ## Co může padnout
 
-| Rarita | Co dostaneš |
+| Výhra | Co dostaneš |
 |---|---|
-| ★★★★★ **Legendární** | **Ultimát** |
-| ★★★★ **Vzácná** | Schopnost (nebo truhla vzácnějších rud, když už máš všechny Schopnosti) |
-| ★★★ **Běžná** | hromada rud |
+| **Ultimát** | nejvzácnější výhra |
+| **Schopnost** | nebo truhla vzácnějších rud, když už máš všechny Schopnosti |
+| **Rudy** | hromada rud |
 
 Když ti padne něco, co už máš, dostaneš část ceny tahu zpátky.
+
+Co přesně která Schopnost a který Ultimát dělá — damage, dosah, léčení, cooldown — najdeš na stránce **[Schopnosti a Ultimáty](schopnosti.md)**. Stejná čísla vidíš i ve hře v popisku itemu.
 
 ## Dva druhy bannerů
 
 ### Stálý banner
 
-Je tu pořád a nic nečekaného na něm není. Ultimáty z něj padají jen ze **standardního poolu** — to jsou ty základní. Hodí se, když chceš klidně táhnout Schopnosti.
+Je tu pořád a nic nečekaného na něm není. Ultimáty z něj padají jen ze **standardního poolu** — to jsou ty základní: **Poslední úder** a **Drž se!** Hodí se, když chceš klidně táhnout Schopnosti.
 
 ### Eventový banner
 
@@ -29,7 +31,9 @@ Běží jen omezenou dobu a propaguje **jeden limitovaný Ultimát**. Limitovan�
 
 Vedle Ultimátu propaguje banner i **tři Schopnosti**, které z něj padají častěji.
 
-Prvním eventovým bannerem na startu je **⚡ Kamenný hřmot** — nejsilnější Ultimát ve hře: plné vyléčení, tři sekundy nezranitelnosti a drtivý úder kolem tebe.
+Prvním eventovým bannerem je **💰 Zlatá horečka** — Ultimát pro horníky: na 12 sekund ti výrazně zvedne šanci na dvojitou rudu a každý zásah Schopnosti nebo Ultimátu dá navíc 6 ❤. Propaguje Schopnosti Rychlý úskok, Otřes a Průraz.
+
+Další limitované Ultimáty přibudou s dalšími eventy.
 
 > Co přesně z banneru padá, uvidíš přímo v menu: u každého banneru je ikonka hlavní výhry a po rozkliknutí celý přehled s popisy. Když na ikonku najedeš myší, ukáže se ti celý popis věci.
 
