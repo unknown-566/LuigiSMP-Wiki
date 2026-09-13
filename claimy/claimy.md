@@ -50,7 +50,9 @@ Záleží na tvojí aktivitě na Discordu, viz [Odměny za aktivitu](../odmeny/a
 /claim trust <hráč>
 /claim untrust <hráč>
 ```
-Přidá/odebere hráče do "trusted" skupiny. Trusted hráči mají v tvém claimu víc práv než cizí (podle nastavení flagů).
+Přidá/odebere hráče do "trusted" skupiny. Trusted hráči mají v tvém claimu víc práv než cizí (podle nastavení flagů). Trusted hráčů může být v jednom claimu kolik chceš.
+
+Kdo je v claimu trusted, uvidíš v `/claim list` → klik na claim (řádek **Trusted hráči**).
 
 ```
 /claim settings
