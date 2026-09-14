@@ -21,9 +21,9 @@ Je to prestižní systém, jde o dlouhodobý postup, ne jednorázový risk.
 ```
 /artefakty
 ```
-5 slotů na equip, 9 rodin artefaktů, každá má 3 stupně vylepšení. Rodiny: Dosah, Kyslík, Štěstí, Přežití, Pohyb, Utilita, Regenerace žil, Osvětlení, Lovec. Nejnižší stupeň získáš buď splněním advancementu, nebo koupí u **Pašeráka** (`/miningpasak`), vyšší stupně tam craftíš z nižšího artefaktu, peněz a vzácné rudy.
+Artefakty jsou **pasivní schopnosti**, které si skládáš ze **3 úlomků**: **Spouštěč** (kdy), **Účinek** (co) a **Pečeť** (jak). Úlomky padají z gachy a spojují se v Kovárně. Chybějící úlomek ti **Pašerák** (`/miningpasak`) vymění za 3 jiné. Vybavit můžeš až 5 artefaktů, sloty se odemykají lepším krumpáčem a zůstávají i po rebirthu.
 
-Kolik slotů máš odemčených, závisí na tvém nejvyšším dosaženém krumpáči. Tohle zůstává i po rebirthu.
+Všechny spouštěče, účinky, pečetě a čísla najdeš na samostatné stránce **[Artefakty](artefakty.md)**.
 
 ## Schopnosti a Ultimáty
 

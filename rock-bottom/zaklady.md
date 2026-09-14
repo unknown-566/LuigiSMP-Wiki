@@ -40,11 +40,12 @@ Ať už tě zabije mob, dojde ti kyslík, nebo cokoliv jiného, vždycky tě to 
 | **Black Market** | Prodej rudy za víc peněz, ale s rizikem |
 | **Kovář** | Krumpáče, meče, [upgrady](postup.md) |
 | **Kuchař** | Jídlo (v dole se hlad ubírá normálně, venku ne) |
-| **Pašerák** | [Artefakty](postup.md) |
+| **Pašerák** | Výměna úlomků [artefaktů](artefakty.md), Schopnost Otřes |
 
 ## Co dál
 
 * [Postup a odměny](postup.md): upgrady, rebirth, artefakty, Schopnosti a Ultimáty
+* [Artefakty](artefakty.md): pasivní schopnosti ze 3 úlomků, Kovárna, sady
 * [Gacha a bannery](gacha.md): jak získat Ultimáty, pity, 50/50 a eventové bannery
 * [Boj a eventy](boj-a-eventy.md): mobové, Boss Dungeon, globální cíle
 * [Obsah a komunita](obsah-a-komunita.md): žebříček, party, waystony

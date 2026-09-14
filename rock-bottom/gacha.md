@@ -12,8 +12,10 @@ Jediné místo v Rock Bottomu se záměrnou náhodou — a **jediný způsob, ja
 | Výhra | Co dostaneš |
 |---|---|
 | **Ultimát** | nejvzácnější výhra |
-| **Schopnost** | nebo truhla vzácnějších rud, když už máš všechny Schopnosti |
-| **Rudy** | hromada rud |
+| **Vzácná výhra** | Schopnost (50 %), 4★ úlomek artefaktu (30 %) nebo truhla vzácnějších rud (20 %). Když už máš všechny Schopnosti, dostaneš místo ní úlomek. |
+| **Běžná výhra** | hromada rud, nebo s šancí 25 % 3★ úlomek artefaktu |
+
+Z úlomků si skládáš **artefakty**, tedy pasivní schopnosti. Víc na stránce **[Artefakty](artefakty.md)**.
 
 Když ti padne něco, co už máš, dostaneš část ceny tahu zpátky.
 
@@ -55,7 +57,7 @@ Každý tah, ve kterém nepadne Ultimát, tě k němu posune blíž.
 
 * Šance na Ultimát je **5 %**, ale po delší sérii bez něj začne **prudce růst** — většina Ultimátů padne mezi 13. a 17. tahem.
 * **20. tah bez Ultimátu je garantovaný.**
-* **Schopnost nebo lepší** padne nejpozději **každý 10. tah**.
+* **Vzácná výhra nebo lepší** (Schopnost, 4★ úlomek nebo truhla rud) padne nejpozději **každý 10. tah**.
 
 Průměrně vychází jeden Ultimát zhruba na **11 tahů**.
 
@@ -95,7 +97,7 @@ Všechny eventové bannery ale **sdílí jeden čítač** a ten se **nese dál d
 Pity a garanci vidíš rovnou na hlavní obrazovce banneru. V **Detailech a šancích** je navíc:
 
 * jaká je šance na Ultimát v příštím tahu,
-* za kolik tahů nejpozději padne Schopnost,
+* za kolik tahů nejpozději padne vzácná výhra,
 * jestli máš připravené Zachycení záře.
 
 Po tahu ti výsledkové okno nahoře shrne, co padlo, a u každého Ultimátu ukáže, jestli jsi 50/50 vyhrál, prohrál, nebo šlo o garanci. **Táhnout znovu** tě vrátí na stejný banner.

@@ -8,8 +8,8 @@
 | `/miningmarket` | Nákup jídla (Kuchař) |
 | `/miningupgrades` | Menu upgradů |
 | `/miningrebirth` | Znovuzrození |
-| `/artefakty` | Equip artefaktů |
-| `/miningpasak` | Koupě/craft artefaktů (Pašerák) |
+| `/artefakty` | Artefakty: vybavení, Kovárna, úlomky ([více](artefakty.md)) |
+| `/miningpasak` | Pašerák: výměna úlomků 3 → 1, Schopnost Otřes |
 | `/loadout` | Equip Schopnosti + Ultimátu |
 | `/gacha` | Gacha tahy a bannery ([jak fungují](gacha.md)) |
 | `/miningcontract` | Denní úkoly |

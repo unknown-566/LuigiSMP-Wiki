@@ -17,7 +17,7 @@ Schopnosti i Ultimáty získáš z **[gachy](gacha.md)**.
 * **❤ = jedno srdíčko = 2 životy.** Zombík má 10 ❤.
 * **Bloky (bl.)** — dosah nebo okruh efektu.
 * Hvězdičky v popisku ukazují **sílu**: ★★★ běžná, ★★★★ vzácná, ★★★★★ legendární. Čím vzácnější, tím víc damage, větší dosah a kratší cooldown.
-* K damage se navíc přičítá upgrade **Bojová síla** (+5 % za úroveň, max. +25 %) a artefakt **Lovec** (+10 / +18 / +25 %). V tabulkách níž je základ bez nich.
+* K damage se navíc přičítá upgrade **Bojová síla** (+5 % za úroveň, max. +25 %) a účinek artefaktů **Síla útoku** (viz [Artefakty](artefakty.md)). V tabulkách níž je základ bez nich.
 
 Všechna čísla vidíš i ve hře — stačí najet myší na item.
 

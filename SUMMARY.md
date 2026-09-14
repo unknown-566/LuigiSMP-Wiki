@@ -24,6 +24,7 @@
 * [Postup a odměny](rock-bottom/postup.md)
 * [Gacha a bannery](rock-bottom/gacha.md)
 * [Schopnosti a Ultimáty](rock-bottom/schopnosti.md)
+* [Artefakty](rock-bottom/artefakty.md)
 * [Boj a eventy](rock-bottom/boj-a-eventy.md)
 * [Obsah a komunita](rock-bottom/obsah-a-komunita.md)
 * [Seznam příkazů](rock-bottom/prikazy.md)
