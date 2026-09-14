@@ -9,7 +9,7 @@ Vypadá jako obyčejný dispenser, ale místo vystřelování **pokládá bloky*
 * Bloky do něj dáš **pravým klikem** jako do dispenseru, nebo ho **napojíš na hopper**. Komparátor ukazuje, jak je plný.
 * Pokládá jen **bloky**. Když v něm žádný není (nebo je před ním překážka), jen cvakne. Neumí bloky, které by přišly o obsah nebo jsou dvoublokové (shulker boxy, bannery, hlavy, postele, dveře, vysoké květiny). Umí i custom bloky ze serveru.
 * Bloky se směrem (kmeny, schody, pozorovatele, písty…) natočí stejně jako autoplacer.
-* **Shift + pravý klik prázdnou rukou** přepíná, ze kterého slotu bere:
+* **Shift + pravý klik prázdnou rukou** otevře menu, kde vybereš, ze kterého slotu bere (aktuální režim ukáže i lišta nad hotbarem, když autoplacer otevřeš):
 
 | Režim | Co dělá |
 |---|---|
