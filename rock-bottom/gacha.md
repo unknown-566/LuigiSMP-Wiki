@@ -17,6 +17,8 @@ Jediné místo v Rock Bottomu se záměrnou náhodou — a **jediný způsob, ja
 
 Když ti padne něco, co už máš, dostaneš část ceny tahu zpátky.
 
+**Táhnout se dá jen na povrchu** — v dole (pod zemí) tah nejde, menu si ale prohlédnout můžeš. Po tahu se přehraje animace s dopadem meteoritu; když na ni nemáš náladu, **podrž Shift** a hned dostaneš výsledek.
+
 Co přesně která Schopnost a který Ultimát dělá — damage, dosah, léčení, cooldown — najdeš na stránce **[Schopnosti a Ultimáty](schopnosti.md)**. Stejná čísla vidíš i ve hře v popisku itemu.
 
 ## Dva druhy bannerů
