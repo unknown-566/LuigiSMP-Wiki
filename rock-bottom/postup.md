@@ -21,7 +21,7 @@ Je to prestižní systém, jde o dlouhodobý postup, ne jednorázový risk.
 ```
 /artefakty
 ```
-Artefakty jsou **pasivní schopnosti**, které si skládáš ze **3 úlomků**: **Spouštěč** (kdy), **Účinek** (co) a **Pečeť** (jak). Úlomky padají z gachy a spojují se v Kovárně. Chybějící úlomek ti **Pašerák** (`/miningpasak`) vymění za 3 jiné. Vybavit můžeš až 5 artefaktů, sloty se odemykají lepším krumpáčem a zůstávají i po rebirthu.
+Artefakty jsou **pasivní schopnosti, které sbírají náboje**. Skládáš je ze **3 úlomků**: **Spouštěč** (kdy náboje přibudou), **Účinek** (co udělá jeden náboj) a **Pečeť** (jak se to upraví). Náboj se použije sám, když má efekt, a nevyprší. Úlomky padají z gachy a spojují se v Kovárně. Chybějící úlomek ti **Pašerák** (`/miningpasak`) vymění za 3 jiné. Vybavit můžeš až 5 artefaktů, sloty se odemykají lepším krumpáčem a zůstávají i po rebirthu.
 
 Všechny spouštěče, účinky, pečetě a čísla najdeš na samostatné stránce **[Artefakty](artefakty.md)**.
 
