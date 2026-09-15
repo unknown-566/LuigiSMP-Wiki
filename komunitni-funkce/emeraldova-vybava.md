@@ -1,6 +1,6 @@
 # Emeraldová výbava
 
-Vylepšená železná výbava. Železný nástroj nebo kus brnění proměníš na **kovářském stole** v emeraldový a každý kus pak dává **vlastní bonus**.
+Vylepšená železná výbava. Železný nástroj nebo kus brnění proměníš na **kovářském stole** v emeraldový. Je **o něco silnější než železná, slabší než diamantová** a každý kus má navíc **vlastní bonus**, jaký diamant ani netherite nemají.
 
 ## Jak ji vyrobit
 
@@ -22,11 +22,11 @@ Na každý kus dáš do kovářského stolu (smithing table) tři věci:
 
 | | | |
 |---|---|---|
-| Diamant | Emerald Upgrade | Diamant |
-| Diamant | Blok smaragdu | Diamant |
-| Diamant | Diamant | Diamant |
+| Smaragd | Emerald Upgrade | Smaragd |
+| Smaragd | Blok smaragdu | Smaragd |
+| Smaragd | Smaragd | Smaragd |
 
-Z jedné šablony, 7 diamantů a bloku smaragdu dostaneš **2 šablony**.
+Z jedné šablony, 7 smaragdů a bloku smaragdu dostaneš **2 šablony**.
 
 ### Magic Core
 
@@ -38,29 +38,42 @@ Padá z **nabitého creepera** (toho, kterého zasáhl blesk), když ho **zabije
 
 ## Nástroje
 
-* Těží stejně jako železné (obsidián tedy nevytěžíš).
-* Vydrží **960 použití**, železné jen 250.
-* Na enchantovacím stole dostávají lepší enchanty než železné.
+* Vydrží **960 použití** (železné 250, diamantové 1561).
+* Těží rychleji než železné, ale pomaleji než diamantové. **Obsidián nevytěží**, na ten potřebuješ diamantový krumpáč.
+* Na enchantovacím stole dostávají lepší enchanty než železné i diamantové.
+* Opravíš je na kovadlině **smaragdy**.
 * Bonus platí, **dokud nástroj držíš v hlavní ruce**.
 
-| Předmět | Bonus v ruce | Oprava na kovadlině |
-|---|---|---|
-| **Emerald Sword** | +1 srdíčko | smaragdy |
-| **Emerald Axe** | +2 brnění | železné ingoty |
-| **Emerald Pickaxe** | o 10 % menší odhození | železné ingoty |
-| **Emerald Shovel** | +10 % rychlost chůze | železné ingoty |
-| **Emerald Hoe** | +30 % rychlost chůze | železné ingoty |
+| Předmět | Útok | Rychlost útoku | Bonus v ruce |
+|---|---|---|---|
+| **Emerald Sword** | 6,5 | 1,6 | +1 srdíčko |
+| **Emerald Axe** | 9 | 0,95 | +2 brnění |
+| **Emerald Pickaxe** | 4,5 | 1,2 | o 10 % menší odhození |
+| **Emerald Shovel** | 5 | 1,0 | +10 % rychlost chůze |
+| **Emerald Hoe** | 1 | 3,5 | +30 % rychlost chůze |
+
+Pro srovnání: železný meč má útok 6, diamantový 7 a netheritový 8.
 
 ## Brnění
 
-Emeraldové brnění **chrání méně než železné** (celkem 9 bodů brnění, železné 15), zato má každý kus bonus. Vydrží stejně jako železné, opravuje se železnými ingoty a jdou na něj armor trimy.
+* Chrání o něco víc než železné a méně než diamantové. Netherite je pořád nejsilnější: má víc odolnosti, snižuje odhození a nehoří.
+* Opravíš ho na kovadlině **smaragdy**, jdou na něj armor trimy a dobře se enchantuje.
 
-| Předmět | Brnění | Bonus |
+| Předmět | Brnění | Odolnost | Výdrž | Bonus |
+|---|---|---|---|---|
+| **Emerald Helmet** | 2 | 1 | 264 | +2 štěstí (lepší úlovky při rybaření) |
+| **Emerald Chestplate** | 7 | 1 | 384 | +1 srdíčko |
+| **Emerald Leggings** | 5 | 1 | 360 | vyšší krok: na celý blok vyjdeš bez skákání |
+| **Emerald Boots** | 2 | 1 | 312 | pád bez zranění až z 9 bloků (normálně ze 3) |
+
+| Celá sada | Brnění | Odolnost |
 |---|---|---|
-| **Emerald Helmet** | 1 | +2 štěstí (lepší úlovky při rybaření) |
-| **Emerald Chestplate** | 4 | +1 srdíčko |
-| **Emerald Leggings** | 3 | vyšší krok: na celý blok vyjdeš bez skákání |
-| **Emerald Boots** | 1 | pád bez zranění až z 9 bloků (normálně ze 3) |
+| Železná | 15 | 0 |
+| **Emeraldová** | **16** | **4** |
+| Diamantová | 20 | 8 |
+| Netheritová | 20 | 12 |
+
+Kusy můžeš i kombinovat: třeba netheritová zbroj a k ní emeraldové kalhoty, když chceš chodit do schodů bez skákání.
 
 ## Advancementy
 
