@@ -3,7 +3,7 @@
 ## Autoplacer
 💡 *Komunitní nápad.*
 
-Blok podobný dispenseru (poznáš ho podle dřevěného bloku v „puse"), který místo vystřelování **pokládá bloky**, šikovné na automatizované stavby.
+Položený vypadá jako obyčejný dispenser (v inventáři ho poznáš podle dřevěného bloku v „puse"), ale místo vystřelování **pokládá bloky**, šikovné na automatizované stavby.
 
 * **Každý redstone signál = 1 blok** před otvor (páka, tlačítko, redstone hodiny, observer…). Míří tam, kam míří otvor, i nahoru nebo dolů.
 * Bloky do něj dáš **pravým klikem** jako do dispenseru, nebo ho **napojíš na hopper**. Komparátor ukazuje, jak je plný.
