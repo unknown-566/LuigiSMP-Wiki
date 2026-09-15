@@ -32,6 +32,7 @@
 ## Komunitní funkce
 * [Přehled](komunitni-funkce/prehled.md)
 * [Bloky a nástroje](komunitni-funkce/bloky-a-nastroje.md)
+* [Emeraldová výbava](komunitni-funkce/emeraldova-vybava.md)
 * [Herní mechaniky](komunitni-funkce/mechaniky.md)
 
 ## Zábava
