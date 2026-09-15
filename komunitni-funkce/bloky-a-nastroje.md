@@ -3,7 +3,7 @@
 ## Autoplacer
 💡 *Komunitní nápad.*
 
-Vypadá jako obyčejný dispenser, ale místo vystřelování **pokládá bloky**, šikovné na automatizované stavby.
+Blok podobný dispenseru (poznáš ho podle dřevěného bloku v „puse"), který místo vystřelování **pokládá bloky**, šikovné na automatizované stavby.
 
 * **Každý redstone signál = 1 blok** před otvor (páka, tlačítko, redstone hodiny, observer…). Míří tam, kam míří otvor, i nahoru nebo dolů.
 * Bloky do něj dáš **pravým klikem** jako do dispenseru, nebo ho **napojíš na hopper**. Komparátor ukazuje, jak je plný.
@@ -18,7 +18,8 @@ Vypadá jako obyčejný dispenser, ale místo vystřelování **pokládá bloky*
 | **První slot** | vždy první blok zleva |
 
 * Nepoloží blok do **cizího claimu** ani do chráněného spawnu zvenku a v Rock Bottomu nefunguje.
-* Rozbiješ-li ho, **obsah vypadne na zem** a autoplacer dostaneš zpátky. Výbuch ho nezničí.
+* Rozbiješ-li ho, **obsah vypadne na zem** a autoplacer dostaneš zpátky.
+* Výbuch (creeper, TNT) ho zničí stejně jako dispenser: obsah vypadne celý, ale samotný autoplacer vypadne jen s běžnou šancí jako ostatní bloky (u creepera zhruba každý třetí). Pozor, když s ním pokládáš TNT.
 
 ## Vylepšené truhly
 💡 *Komunitní nápad.*
