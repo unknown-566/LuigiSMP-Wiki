@@ -15,7 +15,7 @@
 4. Prodáváš vytěženou rudu u **Bankéře** za peníze Rock Bottomu (samostatná měna, jiná než na SMP mapě).
 5. Za peníze si u dalších NPC kupuješ lepší vybavení a [postupuješ dál](postup.md).
 
-Rozbití žíly ti nedá peníze rovnou, musíš rudu donést a prodat.
+Rozbití žíly ti nedá peníze rovnou, musíš rudu donést a prodat. V popisu každé rudy vidíš, za kolik se prodá jeden kus. Ruda z těžby, z mobů i z gachy je stejný item, takže se ti v inventáři skládá dohromady.
 
 ## Nástroje
 
