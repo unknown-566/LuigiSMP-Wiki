@@ -59,6 +59,8 @@ Kdo je v claimu trusted, uvidíš v `/claim list` → klik na claim (řádek **T
 ```
 Otevře menu s podrobným nastavením, co smí dělat **trusted** hráči a co **ostatní**: stavět, bourat, otevírat truhly/dveře, sbírat/vyhazovat itemy, útočit na entity, a taky claim-wide nastavení jako PvP, exploze, mobové a šíření ohně.
 
+Pod „stavět" spadá i **vylití kbelíku** (voda, láva, prášek sněhu) a pod „stavět" nebo „bourat" jejich **nabrání zpátky**, takže ti nikdo cizí nemůže do claimu pustit vodu ani vypustit jezírko.
+
 ## Fly v claimu
 
 ```
