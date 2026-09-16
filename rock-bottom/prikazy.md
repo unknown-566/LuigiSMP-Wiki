@@ -18,7 +18,7 @@
 | `/waystones` | Rychlé cestování |
 | `/mboss` | Boss Dungeon (Tower Skeleton) |
 | `/miningprofile` (`/mp`) | Tvůj profil a statistiky, sbírka z gachy a historie tahů |
-| `/miningbook` | Znovu otevře úvodní knihu s tipy |
+| `/miningbook` | Znovu dá knihu Průvodce horníka (stručný přehled + odkazy na wiki) |
 | `/miningtop` | Žebříček |
 
 Podrobnosti ke každému systému viz [Základy](zaklady.md), [Postup](postup.md), [Boj a eventy](boj-a-eventy.md), [Obsah a komunita](obsah-a-komunita.md).

@@ -5,7 +5,7 @@
 ```
 /miningspawn
 ```
-(nebo `/mspawn`, `/miningjoin`) teleportuje tě na spawn Rock Bottomu. Při úplně prvním vstupu dostaneš uvítací zprávu a knihu s tipy.
+(nebo `/mspawn`, `/miningjoin`) teleportuje tě na spawn Rock Bottomu. Při úplně prvním vstupu dostaneš uvítací zprávu a knihu **Průvodce horníka**: na pár stránkách stručně všechno podstatné a na konci klikací odkazy na tuhle wiki. Je v jazyce, který máš nastavený přes `/lang`, a když se na serveru něco změní, vymění se ti v inventáři sama za novou. Ztratíš ji? Znovu ji dá `/miningbook`.
 
 ## Základní smyčka
 
