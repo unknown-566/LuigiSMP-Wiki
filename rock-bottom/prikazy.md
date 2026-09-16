@@ -17,7 +17,7 @@
 | `/miningparty` | Skupinový nástroj |
 | `/waystones` | Rychlé cestování |
 | `/mboss` | Boss Dungeon (Tower Skeleton) |
-| `/miningprofile` (`/mp`) | Tvůj profil a statistiky |
+| `/miningprofile` (`/mp`) | Tvůj profil a statistiky, sbírka z gachy a historie tahů |
 | `/miningbook` | Znovu otevře úvodní knihu s tipy |
 | `/miningtop` | Žebříček |
 

@@ -9,11 +9,13 @@ Jediné místo v Rock Bottomu se záměrnou náhodou — a **jediný způsob, ja
 
 ## Co může padnout
 
-| Výhra | Co dostaneš |
-|---|---|
-| **Ultimát** | nejvzácnější výhra |
-| **Vzácná výhra** | Schopnost (50 %), 4★ úlomek artefaktu (30 %) nebo truhla vzácnějších rud (20 %). Když už máš všechny Schopnosti, dostaneš místo ní úlomek. |
-| **Běžná výhra** | hromada rud, nebo s šancí 25 % 3★ úlomek artefaktu |
+| Výhra | Šance za tah | Co dostaneš |
+|---|---|---|
+| **★★★★★ Legendární** (zlatá) | 0,6 % | Ultimát, nejvzácnější výhra |
+| **★★★★ Vzácná** (fialová) | 5,1 % | Schopnost (50 %), 4★ úlomek artefaktu (30 %) nebo truhla vzácnějších rud (20 %). Když už máš všechny Schopnosti, dostaneš místo ní úlomek. |
+| **★★★ Běžná** (modrá) | zbytek | hromada rud, nebo s šancí 25 % 3★ úlomek artefaktu |
+
+Šance jsou stejné jako v Honkai: Star Rail. Barvy rarit uvidíš v animaci, v titulku, ve výsledkovém okně i ve sbírce.
 
 Z úlomků si skládáš **artefakty**, tedy pasivní schopnosti. Víc na stránce **[Artefakty](artefakty.md)**.
 
@@ -55,11 +57,11 @@ Dole jsou tlačítka **Táhnout 1×** a **Táhnout 10×**, přepnutí na druhý 
 
 Každý tah, ve kterém nepadne Ultimát, tě k němu posune blíž.
 
-* Šance na Ultimát je **5 %**, ale po delší sérii bez něj začne **prudce růst** — většina Ultimátů padne mezi 13. a 17. tahem.
-* **20. tah bez Ultimátu je garantovaný.**
-* **Vzácná výhra nebo lepší** (Schopnost, 4★ úlomek nebo truhla rud) padne nejpozději **každý 10. tah**.
+* Šance na Ultimát je **0,6 %**, ale od **74. tahu** bez něj začne **prudce růst** (o 6 procentních bodů za každý další tah) — většina Ultimátů padne mezi 74. a 80. tahem.
+* **90. tah bez Ultimátu je garantovaný.**
+* **Vzácná výhra nebo lepší** (Schopnost, 4★ úlomek nebo truhla rud) padne nejpozději **každý 10. tah**, průměrně zhruba každý 8.
 
-Průměrně vychází jeden Ultimát zhruba na **11 tahů**.
+Průměrně vychází jeden Ultimát zhruba na **62 tahů**.
 
 ## 50/50 — jak funguje eventový banner
 
@@ -74,17 +76,13 @@ Když na eventovém banneru padne Ultimát, **není jisté, že je to ten propag
 
 Stejně to funguje u propagovaných Schopností.
 
-### Zachycení záře
-
-Když prohraješ 50/50 **dvakrát po sobě**, třetí 50/50 **vyhraješ vždycky**. Delší smůla v řadě neexistuje. Díky tomu vyhráváš 50/50 dlouhodobě zhruba v 57 % případů, ne jen v polovině.
-
 ### Kolik to stojí
 
 | | Tahů |
 |---|---|
-| Nějaký Ultimát, průměrně | ~11 |
-| Propagovaný limitovaný Ultimát, průměrně | ~15 |
-| Propagovaný Ultimát, nejhorší možná smůla | 40 |
+| Nějaký Ultimát, průměrně | ~62 |
+| Propagovaný limitovaný Ultimát, průměrně | ~93 |
+| Propagovaný Ultimát, nejhorší možná smůla (prohraná 50/50 na 90. tahu, pak garance) | 180 |
 
 ## Čítače
 
@@ -97,7 +95,16 @@ Všechny eventové bannery ale **sdílí jeden čítač** a ten se **nese dál d
 Pity a garanci vidíš rovnou na hlavní obrazovce banneru. V **Detailech a šancích** je navíc:
 
 * jaká je šance na Ultimát v příštím tahu,
-* za kolik tahů nejpozději padne vzácná výhra,
-* jestli máš připravené Zachycení záře.
+* za kolik tahů nejpozději padne vzácná výhra.
 
 Po tahu ti výsledkové okno nahoře shrne, co padlo, a u každého Ultimátu ukáže, jestli jsi 50/50 vyhrál, prohrál, nebo šlo o garanci. **Táhnout znovu** tě vrátí na stejný banner.
+
+## Sbírka a historie tahů
+
+V `/mp` je tlačítko **Sbírka**:
+
+* všechny **Ultimáty a Schopnosti**, které jde z gachy získat — co už máš (✔) a co ti chybí (✖), u chybějících i **odkud padají** (stálý banner, nebo který event). Po najetí myší na ikonku uvidíš celý popis s čísly. Limitované Ultimáty z eventů, které ještě nevyšly, tu nejsou, ať se nic neprozradí dopředu.
+* kolik máš **úlomků** (3★ / 4★ / 5★) a **artefaktů**,
+* kolik jsi celkem táhl.
+
+Ve Sbírce je tlačítko **Historie tahů**: posledních **50 tahů**, nejnovější nahoře, po deseti na stránku. U každého vidíš raritu, co padlo, na jakém banneru a kdy, výsledek 50/50 a jestli šlo o duplikát. Historie se zapisuje od 16. 9. 2026, starší tahy v ní nejsou.
