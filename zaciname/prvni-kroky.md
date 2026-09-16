@@ -11,7 +11,7 @@ Jazyk můžeš kdykoliv později změnit příkazem:
 ```
 (nebo jen `/lang` pro nabídku)
 
-Skoro všechny hlášky na serveru (claimy, pošta, Rock Bottom...) respektují tenhle výběr. Když jazyk změníš, do pár vteřin se přepíšou i názvy a popisy tvého krumpáče, meče, Schopností, Ultimátů a rud v Rock Bottom — itemy zůstanou na svém místě.
+Skoro všechny hlášky na serveru (claimy, pošta, Rock Bottom...) respektují tenhle výběr. Když jazyk změníš, do pár vteřin se přepíšou i názvy a popisy tvého krumpáče, meče, Schopností a Ultimátů v Rock Bottom a popisy rud (názvy rud jsou vždy anglicky) — itemy zůstanou na svém místě.
 
 ## 2. Pravidla serveru
 
