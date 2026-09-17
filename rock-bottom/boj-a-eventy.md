@@ -9,17 +9,65 @@ Kolem žil se objevují vlastní mobové (s vlastními modely: pavouci, kostry a
 ```
 /mboss
 ```
-Samostatná instance pro skupinku hráčů (party), postavíš se v ní bossovi **Tower Skeleton**: obrněný skeletí bojovník se štítem, který musíš nejdřív rozbít, než na něj vůbec začneš pořádně dávat damage. Na nízkém zdraví odhodí štít a přejde do agresivnější fáze s prokletým mečem.
+Týdenní boss jako v Genshinu. Sám nebo až ve čtyřech se postavíš bossovi **Tower Skeleton**. Je to obrněný skeletí bojovník se štítem, který musíš nejdřív rozbít. Na nízkém zdraví odhodí štít a přejde do agresivnější fáze s prokletým mečem.
+
+`/mboss` otevře menu s obtížnostmi, odměnami, tvou party a tlačítkem **Start**.
+
+### Jak probíhá boj
+
+1. Leader party klikne na Start, všechny členy (musí být v Rock Bottomu) to přenese do arény.
+2. Máte **10 sekund na přípravu** a hned se ti otevře `/loadout`, můžeš si vyměnit Schopnost a Ultimát.
+3. Objeví se boss. Probudí se, až k němu dojdeš. Nahoře běží čas.
+4. Když ho porazíte, dostanete odměny a za 20 sekund se vrátíte tam, odkud jste přišli.
+
+V aréně máš **stejný inventář jako v dole**: meč, Schopnosti, Ultimáty, upgrady i artefakty fungují stejně. Rudu tam ale vyhodit nejde.
+
+### Obtížnosti
+
+Další obtížnost se odemkne, až porazíš tu předchozí.
+
+| | Obtížnost | Zdraví bosse | Síla útoků | Čas | Doporučený meč |
+|---|---|---|---|---|---|
+| I | Probuzení | ×1 | ×0,5 | 4 min | T3 |
+| II | Strážce věže | ×1,8 | ×0,8 | 4,5 min | T5 |
+| III | Pán duší | ×2,8 | ×1,1 | 5 min | T6 |
+| IV | Věčná noc | ×4 | ×1,4 | 6 min | T7 |
+
+Ve více lidech má boss víc zdraví: 2 hráči ×1,5, 3 hráči ×2, 4 hráči ×2,5.
+
+### Odměny
+
+| | Peníze | Úlomky artefaktů | Rafinovaná ruda | Navíc |
+|---|---|---|---|---|
+| I | 2 000 | 2× 3★ | 4× Diamond | |
+| II | 5 000 | 2× 3★, 1× 4★ | 5× Emerald | |
+| III | 9 000 | 2× 4★ | 6× Amethyst Shard | 10 % šance na novou Schopnost |
+| IV | 15 000 | 3× 4★ | 8× Netherite Scrap | 20 % šance na novou Schopnost |
+
+**Plné odměny dostaneš 3× za týden** (obnova v pondělí). Pak můžeš bojovat dál, ale dostaneš jen 10 % peněz.
+
+**Bonus za první poražení** každé obtížnosti (jednou navždy, i přes týdenní limit):
+
+* I: 3 000 peněz
+* II: 6 000 peněz a 1× 4★ úlomek
+* III: 12 000 peněz a nová Schopnost (když už máš všechny, tak 2× 4★ úlomek)
+* IV: 25 000 peněz a 3× 4★ úlomek
+
+Odměny dostane každý člen party, který je v aréně, i když zrovna leží mrtvý.
+
+### Smrt a respawn
+
+Když padneš, nic neztratíš a sleduješ boj jako divák. Máš **15 sekund** na `/mboss respawn` za peníze (1 000, pak pokaždé o 40 % dráž). Když padne celá party, nebo vyprší čas, boss vyhrál. Mezi dvěma boji je minuta pauza.
 
 | Příkaz | Co dělá |
 |---|---|
-| `/mboss invite <hráč>` | Pozve do party |
+| `/mboss` | Menu: obtížnosti, odměny, start |
+| `/mboss invite <hráč>` | Pozve do party (max. 4 hráči) |
 | `/mboss accept` | Přijme pozvánku |
-| `/mboss leave` | Opustí party |
-| `/mboss start [obtížnost]` | Spustí fight (jen leader party) |
-| `/mboss respawn` | Koupí respawn za peníze, když padneš uvnitř |
-
-Padneš-li v dungeonu, sleduješ zbytek party, dokud si nekoupíš respawn.
+| `/mboss leave` | Opustí party (leader ji tím rozpustí) |
+| `/mboss kick <hráč>` | Vyhodí hráče z party (jen leader) |
+| `/mboss start <1-4>` | Spustí boj bez menu (jen leader) |
+| `/mboss respawn` | Koupí respawn, když padneš |
 
 ## Globální cíle
 
