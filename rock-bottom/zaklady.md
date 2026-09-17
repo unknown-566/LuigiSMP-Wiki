@@ -17,12 +17,14 @@
 
 Rozbití žíly ti nedá peníze rovnou, musíš rudu donést a prodat. V popisu každé rudy vidíš, za kolik se prodá jeden kus. Ruda z těžby, z mobů i z gachy je stejný item, takže se ti v inventáři skládá dohromady.
 
+V Rock Bottomu (i v boss aréně) jde **vyhodit jen jídlo**. Rudu, nástroje ani nic jiného na zem nehodíš.
+
 ## Nástroje
 
-* **Krumpáče** (7 tierů, dřevěný až netheritový) **určují, jakou nejhlubší rudu vůbec smíš těžit.** Slabší krumpáč na vzácnější rudu prostě nestačí.
-* **Meče** (7 tierů), čistě bojové posílení proti mobům v dole, na těžbu nemají vliv.
+* **Krumpáče** (7 tierů, dřevěný až netheritový) **určují, jakou nejhlubší rudu vůbec smíš těžit.** Slabší krumpáč na vzácnější rudu prostě nestačí. V popisu krumpáče vidíš, po jakou rudu těží a co odemkne další úroveň.
+* **Meče** (7 tierů), čistě bojové posílení proti mobům v dole, na těžbu nemají vliv. V popisu je poškození a ovládání Schopnosti a Ultimátu.
 
-Oboje koupíš u **Kováře** (`/miningshop`).
+Oboje je nezničitelné a koupíš ho u **Kováře** (`/miningshop`). Když si přepneš jazyk (`/lang`), krumpáč i meč se ti samy vymění za verzi v novém jazyce.
 
 ## Kyslík
 

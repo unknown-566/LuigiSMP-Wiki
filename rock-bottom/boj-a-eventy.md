@@ -11,16 +11,35 @@ Kolem žil se objevují vlastní mobové (s vlastními modely: pavouci, kostry a
 ```
 Týdenní boss jako v Genshinu. Sám nebo až ve čtyřech se postavíš bossovi **Tower Skeleton**. Je to obrněný skeletí bojovník se štítem, který musíš nejdřív rozbít. Na nízkém zdraví odhodí štít a přejde do agresivnější fáze s prokletým mečem.
 
-`/mboss` otevře menu s obtížnostmi, odměnami, tvou party a tlačítkem **Start**.
+`/mboss` (nebo tlačítko **Boss** v `/mp`) otevře menu s obtížnostmi, odměnami, tvou party a tlačítkem **Start**.
 
 ### Jak probíhá boj
 
 1. Leader party klikne na Start, všechny členy (musí být v Rock Bottomu) to přenese do arény.
 2. Máte **10 sekund na přípravu** a hned se ti otevře `/loadout`, můžeš si vyměnit Schopnost a Ultimát.
-3. Objeví se boss. Probudí se, až k němu dojdeš. Nahoře běží čas.
-4. Když ho porazíte, dostanete odměny a za 20 sekund se vrátíte tam, odkud jste přišli.
+3. Objeví se boss, spí na trůnu. Probudí se, až k němu dojdeš. Nahoře v liště běží čas.
+4. Když ho porazíte, dostanete odměny a za 20 sekund se vrátíte tam, odkud jste přišli. Když prohrajete, vrátíte se po pár sekundách.
 
-V aréně máš **stejný inventář jako v dole**: meč, Schopnosti, Ultimáty, upgrady i artefakty fungují stejně. Rudu tam ale vyhodit nejde.
+Po každém boji (výhra i prohra) přijde do chatu **souhrn**: jak dlouho boj trval a za každého hráče poškození bossovi (i podíl v %), zabití kostlivci, smrti a respawny.
+
+V aréně máš **stejný inventář jako v dole**: meč, Schopnosti, Ultimáty, upgrady i artefakty fungují stejně. Vyhodit jde jen jídlo, stejně jako v dole.
+
+### Vlny kostlivců
+
+Boss si volá na pomoc **kostlivce z dolu**. Vlna přijde, když mu klesne zdraví pod **75 %, 50 % a 25 %**. Na obtížnosti III a IV chodí navíc menší vlny i průběžně. Kostlivci se objeví kolem hráčů a s obtížností jsou silnější a vydrží víc.
+
+| | Vlna při ztrátě zdraví | Průběžné vlny |
+|---|---|---|
+| I | 2× kostlivec | ne |
+| II | 2× kostlivec, 1× lučištník | ne |
+| III | 2× kostlivec, 1× lučištník, 1× mág | každou minutu |
+| IV | 2× elitní kostlivec, 1× mág, 1× lučištník | každých 45 s |
+
+Kostlivci v aréně nedávají rudu.
+
+### Dash bosse
+
+Se štítem se boss občas rozběhne proti tobě. Kdo mu stojí v cestě, dostane ránu a odletí. O zeď se zastaví.
 
 ### Obtížnosti
 
