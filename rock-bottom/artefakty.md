@@ -149,8 +149,3 @@ Vyzkoušené v simulátoru hraní (12★, hod 100 %), čísla jsou příjem rudy
 | **Lovec kořisti** | hodně bojuješ | Kořist · Při zabití moba · Síla, Rázová vlna · Při zásahu mečem · Rovnováha, Nabití Schopnosti · Po Schopnosti · Hazard, Štít · Když tě zasáhne mob · Zásoba, Léčení · V krizi · Rovnováha | z bojovníka, co skoro netěží, má příjem jako horník |
 | **Tank** | nebezpečné zóny | Štít · Když tě zasáhne mob · Rovnováha, Léčení · Když tě zasáhne mob · Zásoba, Léčení · V krizi · Hazard, Záchrana rudy · Trvale · Příprava, Kyslík · V hloubce · Rovnováha | poloviční počet smrtí, ~×2 rudy |
 | **Party podpora** | hraješ v partě | všechno s Ozvěnou: Léčení, Kyslík, Štít, Bohatá ruda, Záchrana rudy | pomáhá tobě i spoluhráčům kolem |
-
-## Staré artefakty
-
-* Artefakty z úplně prvního systému (rodiny Dosah, Štěstí, Lovec…) se ti při prvním vstupu do Rock Bottomu převedly na nové a staré itemy zmizely z inventáře.
-* Artefakty a úlomky s díly, které už neexistují (Magnet, Dosah, Noční vidění, Obnova nodu, Zkrácení cooldownu, Absorpce, Pohotovost, Vytrvalost), se převedly na nejbližší nové: Magnet → Kořist, Dosah a Obnova nodu → Bohatá ruda, Noční vidění → Kyslík, Zkrácení cooldownu → Nabití Schopnosti, Absorpce → Štít, Pohotovost → Příprava, Vytrvalost → Zásoba.
