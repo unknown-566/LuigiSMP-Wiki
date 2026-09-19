@@ -22,8 +22,3 @@ Nakrm divokou lišku bobulemi a se štěstím se ochočí. Pak tě následuje, l
 
 * Splash/lingering lektvar neviditelnosti na armor stand ho zneviditelní (výbava zůstane vidět).
 * Shift + klik skleněnou tabulí na item frame ho zneviditelní.
-
-## Těžitelné spawnery
-💡 *Komunitní nápad.*
-
-Rozbití spawneru krumpáčem se Silk Touch má šanci na drop celého spawneru se zachovaným typem moba, polož ho jinde a spawner funguje dál.
