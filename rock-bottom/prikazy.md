@@ -15,7 +15,6 @@
 | `/miningcontract` | Denní úkoly |
 | `/cile` (`/goals`) | Týdenní globální cíle a tvůj podíl |
 | `/miningparty` | Skupinový nástroj |
-| `/waystones` | Rychlé cestování |
 | `/mboss` | Boss Dungeon (Tower Skeleton) |
 | `/miningprofile` (`/mp`) | Tvůj profil a statistiky, sbírka z gachy a historie tahů |
 | `/miningbook` | Znovu dá knihu Průvodce horníka (stručný přehled + odkazy na wiki) |

@@ -22,9 +22,3 @@ Skupinový nástroj, sdílí jen viditelnost stavu bosse mezi členy. **Nesdíl�
 | `/miningparty kick <hráč>` | Vyhodí (jen leader) |
 | `/miningparty list` | Vypíše členy |
 
-## Waystones
-
-```
-/waystones
-```
-Fyzické struktury po dole. Pravým klikem si je trvale odemkneš, pak mezi nimi rychle cestuješ (s cooldownem).
