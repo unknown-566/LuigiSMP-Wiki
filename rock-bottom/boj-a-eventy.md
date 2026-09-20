@@ -90,7 +90,7 @@ Když padneš, nic neztratíš a sleduješ boj jako divák. Máš **15 sekund** 
 
 ## Globální cíle
 
-Nástěnka u spawnu, na které běží **tři společné cíle pro celý server** — třeba „vytěžte 2 500 rud" nebo „udělejte 50 gacha tahů". Nikdo je nezvládne sám, jde o to, co dokážete dohromady.
+Nástěnka u spawnu, na které běží **tři společné cíle pro celý server** — třeba „vytěžte 7 500 rud" nebo „udělejte 150 gacha tahů". Nikdo je nezvládne sám, jde o to, co dokážete dohromady.
 
 ```
 /cile
@@ -99,6 +99,8 @@ Nástěnka u spawnu, na které běží **tři společné cíle pro celý server*
 ### Jak to běží
 
 **Každé pondělí** se vylosují tři nové cíle. Máte na ně **pět dní** — v sobotu se kolo uzavře, vyhodnotí a rozdělí se peníze. Víkend je pauza, v pondělí se losuje znovu.
+
+**Splníte-li všechny tři cíle dřív**, kolo se vyhodnotí hned a rovnou se vylosují tři nové — nemusí se čekat do soboty.
 
 ### Jak se dostaneš k odměně
 
