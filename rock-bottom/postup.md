@@ -42,9 +42,9 @@ Každý rebirth přidá **+0,5×** k prodejní ceně rudy (Bankéř i Black Mark
 | 7. | 1 139 063 | ×4,5 | Zapřisáhlý | |
 | 8. | 1 708 594 | ×5 | Poslední co zbyl | |
 | 9. | 2 562 891 | ×5,5 | Nesmrtelný havíř | |
-| 10. | 3 844 336 | ×6 | Nesmrtelný havíř | advancement *Pán Krystalového jádra* (trvalý titul u jména) |
+| 10. | 3 844 336 | ×6 | Nesmrtelný havíř | advancement *Pán Krystalového jádra* |
 
-Cena každého dalšího rebirthu je vždy **1,5×** vyšší než předchozí (100 000 × 1,5^počet dosavadních rebirthů). Titul vidíš v `/mp`, počet rebirthů v žebříčku `/miningtop`.
+Cena každého dalšího rebirthu je vždy **1,5×** vyšší než předchozí (100 000 × 1,5^počet dosavadních rebirthů). Počet rebirthů vidíš v `/mp`, v horní liště (bossbaru) a v žebříčku `/miningtop`.
 
 Je to dlouhodobý cíl, ne jednorázový risk. Díky bonusu jsou další kola zpočátku rychlejší, později už ceny rostou rychleji než bonus.
 
