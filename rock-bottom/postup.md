@@ -9,7 +9,7 @@ U Kováře (`/miningupgrades`) si za peníze kupuješ vylepšení, každé má v
 ```
 /miningrebirth
 ```
-"Znovuzrození": začneš od nuly, ale za každý rebirth dostaneš **trvale vyšší cenu rudy při prodeji**, titul a odměny. Příkaz se potvrzuje (`/miningrebirth potvrdit`) a funguje jen v Rock Bottom.
+"Znovuzrození": začneš od nuly, ale za každý rebirth dostaneš **trvale vyšší cenu rudy při prodeji** a odměny. Příkaz se potvrzuje (`/miningrebirth potvrdit`) a funguje jen v Rock Bottom.
 
 ### Co k tomu potřebuješ
 
@@ -31,18 +31,18 @@ Statistiky a žebříčky, **artefakty a úlomky**, **Schopnosti a Ultimáty**, 
 
 Každý rebirth přidá **+0,5×** k prodejní ceně rudy (Bankéř i Black Market), do 10. rebirthu. Násobí se s upgradem Prodejní bonus. Nad 10. rebirth už je to jen +0,1× za rebirth, spíš pro prestiž.
 
-| Rebirth | Cena | Prodejní cena rudy | Titul | Odměna |
-|---|---|---|---|---|
-| 1. | 100 000 | ×1,5 | Mozolnatý | hudební disk **Chaos Reigns** (v `/mail`, vyzvedneš v SMP), advancement *Znovuzrozený* (+500 peněz) |
-| 2. | 150 000 | ×2 | Ten co nezhasl | |
-| 3. | 225 000 | ×2,5 | Krtek | advancement *Mrštný horník* → Schopnost **Úskok** |
-| 4. | 337 500 | ×3 | Starý kov | |
-| 5. | 506 250 | ×3,5 | Ten co viděl tmu | advancement *Mistr hlubin* → sada úlomků 4★ |
-| 6. | 759 375 | ×4 | Havíř na doživotí | |
-| 7. | 1 139 063 | ×4,5 | Zapřisáhlý | |
-| 8. | 1 708 594 | ×5 | Poslední co zbyl | |
-| 9. | 2 562 891 | ×5,5 | Nesmrtelný havíř | |
-| 10. | 3 844 336 | ×6 | Nesmrtelný havíř | advancement *Pán Krystalového jádra* |
+| Rebirth | Cena | Prodejní cena rudy | Odměna |
+|---|---|---|---|
+| 1. | 100 000 | ×1,5 | hudební disk **Chaos Reigns** (v `/mail`, vyzvedneš v SMP), advancement *Znovuzrozený* (+500 peněz) |
+| 2. | 150 000 | ×2 | |
+| 3. | 225 000 | ×2,5 | advancement *Mrštný horník* → Schopnost **Úskok** |
+| 4. | 337 500 | ×3 | |
+| 5. | 506 250 | ×3,5 | advancement *Mistr hlubin* → sada úlomků 4★ |
+| 6. | 759 375 | ×4 | |
+| 7. | 1 139 063 | ×4,5 | |
+| 8. | 1 708 594 | ×5 | |
+| 9. | 2 562 891 | ×5,5 | |
+| 10. | 3 844 336 | ×6 | advancement *Pán Krystalového jádra* |
 
 Cena každého dalšího rebirthu je vždy **1,5×** vyšší než předchozí (100 000 × 1,5^počet dosavadních rebirthů). Počet rebirthů vidíš v `/mp`, v horní liště (bossbaru) a v žebříčku `/miningtop`.
 
