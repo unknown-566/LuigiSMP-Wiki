@@ -53,7 +53,57 @@ Tyhle si vyrobíš rovnou v craftovacím stole, žádná náhoda ani výzva.
 | Světle modrá vlna | Železný krumpáč | Světle modrá vlna |
 | Modrá vlna | Modrá vlna | Modrá vlna |
 
+### Plyšový Gnome
+
+| | | |
+|---|---|---|
+| Červená terakota | Červená terakota | Červená terakota |
+| Modrá terakota | Bílá terakota | Modrá terakota |
+| Zelená terakota | Zelená terakota | Zelená terakota |
+
+### Plyšový Balloon
+
+| | | |
+|---|---|---|
+| Oranžový beton | Červený beton | Zelený beton |
+| Provázek | Provázek | Provázek |
+| | Provázek | |
+
+Balonek má i pasivní efekt: když ho **držíš v ruce nebo máš na hlavě**, dostaneš **Zvýšený skok** a **Pomalý pád**.
+
+### Plyšový Hello Kitty
+
+| | | |
+|---|---|---|
+| Bílá vlna | Mák | Bílá vlna |
+| Modrá vlna | Provázek | Modrá vlna |
+| Bílá vlna | Žlutá vlna | Bílá vlna |
+
+### Plyšový Isaac
+
+| | | |
+|---|---|---|
+| Bílá terakota | Bílá terakota | Bílá terakota |
+| Modrá vlna | Redstone | Modrá vlna |
+| Bílá terakota | Bílá terakota | Bílá terakota |
+
 ## Výzvy
+
+### Včela
+
+Odeber med **prázdnou skleněnou lahvičkou** z **plného** úlu nebo včelího hnízda, pod kterým **hoří táborák** (včely se pak nenaštvou, stejně jako ve vanille). Občas ti k medu spadne i plyšák. Bez táboráku nebo se zhasnutým táborákem šance není.
+
+### Papoušek
+
+Klikni na papouška **sušenkou**. Papoušek se jí naštěstí nic nestane a s trochou štěstí za tebou přiletí s plyšákem.
+
+### Hatsune Miku
+
+Na souřadnicích okolo **X −443, Z 470** v hlavním světě stojí Miku. Klikni na ni pravým tlačítkem a zkus štěstí, jednou za 30 minut. Většinou ti jen zazpívá, plyšák padne velmi zřídka.
+
+### Dr. Fetus
+
+Zabij **nabitého creepera** (toho, kterého zasáhl blesk). Občas po něm zůstane plyšák.
 
 ### Herobrine
 
