@@ -53,7 +53,7 @@ Tyhle si vyrobíš rovnou v craftovacím stole, žádná náhoda ani výzva.
 | Světle modrá vlna | Železný krumpáč | Světle modrá vlna |
 | Modrá vlna | Modrá vlna | Modrá vlna |
 
-### Plyšový Gnome
+### Gnome
 
 | | | |
 |---|---|---|
@@ -61,7 +61,7 @@ Tyhle si vyrobíš rovnou v craftovacím stole, žádná náhoda ani výzva.
 | Modrá terakota | Bílá terakota | Modrá terakota |
 | Zelená terakota | Zelená terakota | Zelená terakota |
 
-### Plyšový Balloon
+### Balloon
 
 | | | |
 |---|---|---|
@@ -71,7 +71,7 @@ Tyhle si vyrobíš rovnou v craftovacím stole, žádná náhoda ani výzva.
 
 Balonek má i pasivní efekt: když ho **držíš v ruce nebo máš na hlavě**, dostaneš **Zvýšený skok** a **Pomalý pád**.
 
-### Plyšový Hello Kitty
+### Hello Kitty
 
 | | | |
 |---|---|---|
@@ -79,7 +79,7 @@ Balonek má i pasivní efekt: když ho **držíš v ruce nebo máš na hlavě**,
 | Modrá vlna | Provázek | Modrá vlna |
 | Bílá vlna | Žlutá vlna | Bílá vlna |
 
-### Plyšový Isaac
+### Isaac
 
 | | | |
 |---|---|---|
