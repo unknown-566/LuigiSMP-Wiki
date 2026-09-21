@@ -47,6 +47,7 @@ Ať už tě zabije mob, dojde ti kyslík, nebo cokoliv jiného, vždycky tě to 
 ## Co dál
 
 * [Postup a odměny](postup.md): upgrady, rebirth, artefakty, Schopnosti a Ultimáty
+* [Advancementy](advancementy.md): co je za co a co za ně dostaneš
 * [Artefakty](artefakty.md): pasivní schopnosti ze 3 úlomků, které sbírají náboje; Kovárna, sady, ukázkové buildy
 * [Gacha a bannery](gacha.md): jak získat Ultimáty, pity, 50/50 a eventové bannery
 * [Boj a eventy](boj-a-eventy.md): mobové, Boss Dungeon, globální cíle

@@ -22,6 +22,7 @@
 ## Rock Bottom, důl
 * [Základy těžby](rock-bottom/zaklady.md)
 * [Postup a odměny](rock-bottom/postup.md)
+* [Advancementy](rock-bottom/advancementy.md)
 * [Gacha a bannery](rock-bottom/gacha.md)
 * [Schopnosti a Ultimáty](rock-bottom/schopnosti.md)
 * [Artefakty](rock-bottom/artefakty.md)
