@@ -2,7 +2,13 @@
 
 ## Mobové v dole
 
-Kolem žil se objevují vlastní mobové (s vlastními modely: pavouci, kostry a goblini v různých variantách). **PvP je v Rock Bottomu úplně vypnuté**, bojuješ jen proti mobům, ne proti ostatním hráčům. Zabití mobů má šanci dropnout bonus rudu.
+V dole žijí vlastní mobové s vlastními modely: pavouci, kostry a goblini v různých variantách. **PvP je v Rock Bottomu úplně vypnuté**, bojuješ jen proti mobům, ne proti ostatním hráčům. Zabití moba má šanci dropnout bonus rudu.
+
+**Kdy přijdou:** důl si tě všímá. Čím víc těžíš (a čím vzácnější rudu), tím dřív se něco ozve, ale ani bez těžby není v dole úplně bezpečno. Mobové přicházejí ve smíšených skupinách, většinou ze tmy za tvými zády.
+
+**Poznáš to předem:** ze stropu začnou padat kamínky a z toho místa uslyšíš šramot. Pak máš asi vteřinu a půl. Občas přijde **přepad**: větší skupina, ohlášená hučením jeskyně a nápisem nad hotbarem.
+
+**Čím hlouběji, tím hůř:** u vzácnějších rud potkáš silnější druhy (střelce, mága, rychlé gobliny, šamana, co léčí ostatní, a elitní moby) s víc životy. Ve skupině je vždycky nejvýš jeden elitní mob. Když těžíš s kamarády, skupiny jsou větší, ale chodí na vás společně, ne na každého zvlášť.
 
 ## Boss Dungeon: Tower Skeleton
 
