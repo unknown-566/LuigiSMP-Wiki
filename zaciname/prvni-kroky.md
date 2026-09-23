@@ -41,5 +41,6 @@ Propojení se ti připomene i přímo v dialogu s jazykem, pokud ještě nejsi p
 |---|---|
 | `/spawn` | Teleport na spawn |
 | `/nastaveni` | Osobní nastavení (zvuky, notifikace, nameplate...) |
-| `/playtime` | Kolik jsi toho odehrál/a |
+| `/playtime` (`/pt`) | Kolik jsi toho odehrál/a |
+| `/pttop` | Top 10 hráčů podle odehraného času a tvoje pořadí |
 | `/web` | Odkaz na web serveru |
