@@ -2,13 +2,91 @@
 
 ## Mobové v dole
 
-V dole žijí vlastní mobové s vlastními modely: pavouci, kostry a goblini v různých variantách. **PvP je v Rock Bottomu úplně vypnuté**, bojuješ jen proti mobům, ne proti ostatním hráčům. Zabití moba má šanci dropnout bonus rudu.
+V dole žijí vlastní mobové s vlastními modely: pavouci, kostry a goblini v různých variantách. **PvP je v Rock Bottomu úplně vypnuté**, bojuješ jen proti mobům, ne proti ostatním hráčům. Zabití moba má **10% šanci** na bonus rudu (upgrade Lovecké štěstí přidává +1 % za úroveň).
 
-**Kdy přijdou:** důl si tě všímá. Čím víc těžíš (a čím vzácnější rudu), tím dřív se něco ozve, ale ani bez těžby není v dole úplně bezpečno. Mobové přicházejí ve smíšených skupinách, většinou ze tmy za tvými zády.
+### Jak důl posílá moby
 
-**Poznáš to předem:** ze stropu začnou padat kamínky a z toho místa uslyšíš šramot. Pak máš asi vteřinu a půl. Občas přijde **přepad**: větší skupina, ohlášená hučením jeskyně a nápisem nad hotbarem.
+Důl nemá žádný budík, který by moby posílal všem naráz. Místo toho **si tě všímá**: každý hráč má vlastní neviditelný **měřič hrozby**.
 
-**Čím hlouběji, tím hůř:** u vzácnějších rud potkáš silnější druhy (střelce, mága, rychlé gobliny, šamana, co léčí ostatní, a elitní moby) s víc životy. Ve skupině je vždycky nejvýš jeden elitní mob. Když těžíš s kamarády, skupiny jsou větší, ale chodí na vás společně, ne na každého zvlášť.
+1. **Měřič se plní.** Za každou vytěženou rudu přibude **5 + 1,5 × tier rudy** (uhlí 6,5, tier 5 12,5, tier 9 18,5). A pomalu i jen tím, že jsi v dole: **+1,2 za sekundu**, i když zrovna netěžíš.
+2. **Když se naplní, přijde skupina.** Hranice je kolem **100 bodů**, pokaždé trochu jiná (80–120), takže se to nedá přesně odpočítat. Po skupině měřič začíná znovu skoro od nuly (0–20).
+3. **Minimálně 15 sekund pauza.** Dvě skupiny na tebe nikdy nepřijdou rychleji za sebou.
+4. **Měřič běží jen během výpravy**: od první vytěžené rudy do chvíle, kdy vylezeš na povrch. Na povrchu se vynuluje.
+
+**Jak často to zhruba vychází** (když těžíš jednu rudu každé ~4 sekundy):
+
+| Co těžíš | Skupina zhruba každých |
+|---|---|
+| nic, jen chodíš dolem | ~75 s |
+| tier 1 | ~32 s |
+| tier 3 | ~25 s |
+| tier 5 | ~21 s |
+| tier 7 | ~18 s |
+| tier 9 | ~15 s (strop pauzy) |
+
+### Odkud a jak přijdou
+
+- **Ze tmy, ne před nosem.** Skupina se objeví **9–15 bloků** od tebe a důl ji přednostně posílá **za tvoje záda** (mimo to, kam se díváš). Jen v úzké slepé chodbě, kde jinde místo není, může přijít blíž (4–9 bloků).
+- **Poznáš to předem.** Asi **1,5 sekundy** před příchodem začnou v tom místě padat ze stropu kamínky a ozve se odtud šramot. Podle zvuku poznáš, odkud jdou.
+- **Nikdy ne u obchodníků a spawnu.** U NPC, Kováře a na spawnu Rock Bottomu (5 bloků) se mobové neobjeví.
+
+### Velikost skupiny
+
+Velikost závisí na tieru rudy, kterou jsi **naposledy vytěžil**:
+
+| Tier rudy | Mobů ve skupině | Max. mobů kolem tebe (15 bloků) | Životy mobů |
+|---|---|---|---|
+| 1 | 2–4 | 8 | ×1,0 |
+| 2 | 2–4 | 8 | ×1,2 |
+| 3 | 3–5 | 9 | ×1,4 |
+| 4 | 3–5 | 9 | ×1,7 |
+| 5 | 4–6 | 10 | ×2,0 |
+| 6 | 4–6 | 10 | ×2,4 |
+| 7 | 5–7 | 11 | ×2,8 |
+| 8 | 5–7 | 11 | ×3,5 |
+| 9 | 6–8 | 12 | ×5,0 |
+
+- Když už je kolem tebe tolik mobů, kolik je v tabulce, další skupina nepřijde, dokud je neporazíš (nebo neutečeš).
+- **Přepad:** s šancí **6 %** je skupina o **3 moby větší**. Ohlásí ho hučení jeskyně a nápis **PŘEPAD!** nad hotbarem.
+- Na celém serveru je v dole najednou nejvýš **30** mobů.
+
+### S kamarády
+
+Každý další hráč do **16 bloků** od tebe přidá do skupiny **+1 moba**. Skupina ale přijde **na celou partu**: měřič všech, co jsou poblíž, zároveň spadne **na polovinu**. Takže ve čtyřech nepotkáte čtyřikrát víc skupin, ale větší skupiny o něco častěji.
+
+### Kdo přijde
+
+Podle tieru rudy, kterou jsi naposledy vytěžil, jsi v jednom ze čtyř pásem. Čísla jsou šance, že daný člen skupiny bude tenhle mob:
+
+| Pásmo | Tiery | Mobové a šance |
+|---|---|---|
+| **Starý důl** | 1–2 | Pavouk 40 % · Kostra 35 % · Pavouk s pastmi 25 % |
+| **Gigantická jeskyně** | 3–4 | Jedovatý pavouk 25 % · Kostra lučištník 25 % · Kostra mág 20 % · Goblin Warrior 20 % · Pavouk 10 % |
+| **Hlubší jeskyně** | 5–6 | Goblin Assassin 25 % · Goblin Archer 25 % · Kostra mág 20 % · Jedovatý pavouk 15 % · Elitní pavouk 15 % |
+| **Krystalové jádro** | 7–9 | Goblin Shaman 25 % · Goblin Warrior 20 % · Goblin Assassin 20 % · Elitní kostra 20 % · Elitní pavouk 15 % |
+
+Aby to nebyly pořád ti samí:
+
+- **Každý člen skupiny se losuje zvlášť.** Mob, který už ve skupině je, má pro dalšího člena jen **40 %** své šance. Proto většinou přijde směs, třeba bojovník, střelec a mág, ale dvojice stejných se stát může.
+- **Důl si pamatuje, co jsi potkal.** Tři typy, na které jsi narazil naposledy, mají v další skupině jen **35 %** své šance.
+- **Nejvýš jeden elitní mob** (Elitní pavouk, Elitní kostra) ve skupině.
+
+**Kdo je kdo:**
+
+| Mob | Co dělá |
+|---|---|
+| Pavouk | útočí na blízko, umí rychlý výpad |
+| Pavouk s pastmi | klade pasti |
+| Jedovatý pavouk | vytváří jedovatou oblast |
+| Elitní pavouk | dupnutí a výpad, silný |
+| Kostra | útočí na blízko |
+| Kostra lučištník | střílí z luku |
+| Kostra mág | sesílá kouzla na dálku |
+| Elitní kostra | silné útoky na blízko |
+| Goblin Warrior | tank, hodně vydrží |
+| Goblin Assassin | rychlý, rychle se dostane k tobě |
+| Goblin Archer | střílí z luku |
+| Goblin Shaman | léčí ostatní moby a hází ohnivé koule, zab ho první |
 
 ## Boss Dungeon: Tower Skeleton
 
