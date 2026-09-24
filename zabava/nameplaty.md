@@ -14,6 +14,7 @@ Otevře menu se všemi nameplaty:
 * **Starry Sky**: zdarma, odemkne se za splnění úplně všech advancementů (vanilla i vlastní LuigiSMP).
 * **Banner**: koupíš za $10 000.
 * **Oak Sign**: koupíš za $50 000.
+* **Donator**: jen pro VIP. Když VIP skončí, jmenovka se sama sundá.
 
 Ceny se platí z tvého SMP zůstatku, viz [Ekonomika](../postava/ekonomika.md). Klikem na koupenou/odemčenou jmenovku ji rovnou equipneš, tlačítko "Vypnout nameplate" ji zase sundá.
 
