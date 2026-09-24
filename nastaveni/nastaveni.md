@@ -17,5 +17,6 @@ Otevře menu s osobním nastavením, přepínáš klikem, uloží se automaticky
 | **Chat na Discord** | Jestli se tvoje zprávy posílají i na Discord |
 | **Chatové bubliny** | Zprávy se zobrazují i nad hlavou |
 | **WIT nástroj** | Zobrazuje info o bloku/entitě, na kterou se díváš |
+| **Itemy na cedulích** | Shift + pravý klik na ceduli položí na ni item z ruky (item ti zůstane, na ceduli je jen jeho obrázek). Shift + pravý klik prázdnou rukou ho zase sundá. Výchozí stav: vypnuto |
 
 Tip: pokud tě otravují časté zvukové efekty nebo notifikace, vypni si je tady místo abys je musel/a snášet.
