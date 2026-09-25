@@ -24,7 +24,31 @@ Položený vypadá jako obyčejný dispenser (v inventáři ho poznáš podle d�
 ## Vylepšené truhly
 💡 *Komunitní nápad.*
 
-5 tierů vlastních truhel (měděná, železná, zlatá, diamantová, obsidiánová), každá s víc sloty než vanilla truhla. Postav dvě stejného tieru vedle sebe a spojí se do double chestu s dvojnásobnou kapacitou. Nejvyšší tier (obsidiánová) je odolná proti výbuchům. Upgradovat tier truhly jde postupně pomocí upgrade modulů.
+Truhly s mnohem větší kapacitou. Obsah je rozdělený na **stránky po 45 místech**, mezi kterými listuješ šipkami dole v okně.
+
+| Truhla | Místa | Stránky |
+|---|---|---|
+| Měděná | 45 | 1 |
+| Železná | 90 | 2 |
+| Zlatá | 135 | 3 |
+| Diamantová | 180 | 4 |
+| Obsidiánová | 225 | 5, navíc **přežije výbuch** |
+
+**Jak ji získáš:** polož obyčejnou truhlu a klikni na ni pravým tlačítkem s **upgrade modulem**. Věci, co v ní už byly, zůstanou uvnitř. Vylepšuje se vždy o jednu úroveň (Měď → Železo → Zlato → Diamant → Obsidián). Dvojitou truhlu vylepšit nejde, nejdřív ji rozděl.
+
+| Modul | Recept (crafting table) |
+|---|---|
+| Měď | 8 bloků mědi + Magic Core uprostřed |
+| Železo | 8 železných bloků + Magic Core |
+| Zlato | 8 zlatých bloků + Magic Core |
+| Diamant | 8 diamantových bloků + Magic Core |
+| Obsidián | 4 crying obsidian + 4 Netherite Nuggety + Magic Core |
+
+* Otevřít ji může víc lidí najednou, všichni vidí stejný obsah.
+* Když ji rozbiješ, **obsah vypadne na zem** a truhlu dostaneš zpátky se stejnou úrovní.
+* **Hoppery s ní nefungují** (nic do ní ani z ní nepřesunou) a komparátor u ní ukazuje 0. Na automatizaci použij obyčejné truhly.
+* Nespojí se s truhlou vedle do dvojité.
+* V cizím claimu ji otevřeš jen s právem na kontejnery.
 
 ## Mušketa Brown Bess
 💡 *Komunitní nápad.*
