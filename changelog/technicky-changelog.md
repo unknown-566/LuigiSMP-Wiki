@@ -6,6 +6,20 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0002b · 26. 9. 2026
+
+### Změny
+* **Rock Bottom, moby:** životy a síla zásahu podle role moba a pásma místo tieru rudy. Role v 1. pásmu: pěšák 12 HP / 2,5, střelec 9–10 / 2, past a jed 10 / 1,5, léčitel 12 / 2, **Goblin Assassin 11 / 4** (rychlý, křehký), **Goblin Warrior 24 / 3,5** (tank), elity 36–40 / 4,5. Pásma: životy ×1,0 / 1,5 / 2,1 / 2,8, zásah ×1,0 / 1,2 / 1,45 / 1,7. Assassin má v každém pásmu méně životů než Warrior a elity jsou nejsilnější.
+* **Rock Bottom, meče:** poškození 4 · 4,5 · 5 · 6 · 6,5 · 7 · 8 (tier 1–7). Zlatý meč dřív dával jen 4 a byl slabší než železný. Meče se vymění samy, tier zůstává.
+* **Rock Bottom:** rámečky a obrazy nejde zbourat, vzít z nich item, vložit ho ani otočit.
+* **Vylepšené truhly:** z popisu zmizela věta „Polož a klikni pro otevření".
+
+### Opravy
+* **Vylepšené truhly:** obsah se po zavření ztrácel. Teď se ukládá správně. Upgrade modulem modul spotřebuje.
+* **Rock Bottom, žebříček „Peníze celkem":** započítává se i úrok (dřív jen prodej u Bankéře).
+
+---
+
 ## 2.8.0001b · 26. 9. 2026
 
 ### Nové
