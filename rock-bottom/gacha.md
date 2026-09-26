@@ -21,6 +21,8 @@ Z úlomků si skládáš **artefakty**, tedy pasivní schopnosti. Víc na strán
 
 Když ti padne něco, co už máš, dostaneš část ceny tahu zpátky.
 
+**Plný inventář?** Nic se neztratí: co se nevejde, přijde ti do pošty (`/mail`), vyzvednout si to můžeš v Rock Bottom. Stejně to funguje u odměn z bosse a nákupů u Pašeráka. Ruda z těžby a z mobů, která se nevejde, spadne k tvým nohám.
+
 **Táhnout se dá jen na povrchu** — v dole (pod zemí) tah nejde, menu si ale prohlédnout můžeš. Po tahu se přehraje animace s dopadem meteoritu; když na ni nemáš náladu, **podrž Shift** a hned dostaneš výsledek.
 
 Co přesně která Schopnost a který Ultimát dělá — damage, dosah, léčení, cooldown — najdeš na stránce **[Schopnosti a Ultimáty](schopnosti.md)**. Stejná čísla vidíš i ve hře v popisku itemu.
