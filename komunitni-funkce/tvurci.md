@@ -19,7 +19,10 @@ Oznámení mají jen tvůrci, které vybere admin. Pokud tvoříš a chceš ho, 
 | `/tvurce youtube <@kanál>` | Nastaví YouTube kanál (handle z adresy kanálu, např. `@luigismp`) |
 | `/tvurce twitch <kanál>` | Nastaví Twitch kanál (jméno z adresy twitch.tv/…) |
 | `/tvurce kick <kanál>` | Nastaví Kick kanál (jméno z adresy kick.com/…) |
+| `/tvurce popis <text>` | Krátký popis pod tvým jménem na webu (max. 120 znaků) |
 | `/tvurce off <youtube\|twitch\|kick>` | Vypne oznámení pro danou platformu |
+
+Tvůj profil se sám objeví na webu v sekci Tvůrci: kanály, LuigiSMP videa, záznamy streamů a štítek **● Živě**, když zrovna vysíláš.
 
 **Oznámí se jen obsah o serveru.** Video nebo stream musí mít v názvu, popisu nebo tagu slovo **LuigiSMP** (stačí i "Luigi SMP", velikost písmen nevadí). Ostatní videa a streamy se neoznamují a LIVE za jménem se neukáže.
 
