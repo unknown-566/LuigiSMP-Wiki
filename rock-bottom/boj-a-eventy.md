@@ -34,17 +34,13 @@ Důl nemá žádný budík, který by moby posílal všem naráz. Místo toho **
 
 Velikost závisí na tieru rudy, kterou jsi **naposledy vytěžil**:
 
-| Tier rudy | Mobů ve skupině | Max. mobů kolem tebe (15 bloků) | Životy mobů |
-|---|---|---|---|
-| 1 | 2–4 | 8 | ×1,0 |
-| 2 | 2–4 | 8 | ×1,2 |
-| 3 | 3–5 | 9 | ×1,4 |
-| 4 | 3–5 | 9 | ×1,7 |
-| 5 | 4–6 | 10 | ×2,0 |
-| 6 | 4–6 | 10 | ×2,4 |
-| 7 | 5–7 | 11 | ×2,8 |
-| 8 | 5–7 | 11 | ×3,5 |
-| 9 | 6–8 | 12 | ×5,0 |
+| Tier rudy | Mobů ve skupině | Max. mobů kolem tebe (15 bloků) |
+|---|---|---|
+| 1–2 | 2–4 | 8 |
+| 3–4 | 3–5 | 9 |
+| 5–6 | 4–6 | 10 |
+| 7–8 | 5–7 | 11 |
+| 9 | 6–8 | 12 |
 
 - Když už je kolem tebe tolik mobů, kolik je v tabulce, další skupina nepřijde, dokud je neporazíš (nebo neutečeš).
 - **Přepad:** s šancí **6 %** je skupina o **3 moby větší**. Ohlásí ho hučení jeskyně a nápis **PŘEPAD!** nad hotbarem.
@@ -71,22 +67,33 @@ Aby to nebyly pořád ti samí:
 - **Důl si pamatuje, co jsi potkal.** Tři typy, na které jsi narazil naposledy, mají v další skupině jen **35 %** své šance.
 - **Nejvýš jeden elitní mob** (Elitní pavouk, Elitní kostra) ve skupině.
 
-**Kdo je kdo:**
+### Jak jsou silní
 
-| Mob | Co dělá |
-|---|---|
-| Pavouk | útočí na blízko, umí rychlý výpad |
-| Pavouk s pastmi | klade pasti |
-| Jedovatý pavouk | vytváří jedovatou oblast |
-| Elitní pavouk | dupnutí a výpad, silný |
-| Kostra | útočí na blízko |
-| Kostra lučištník | střílí z luku |
-| Kostra mág | sesílá kouzla na dálku |
-| Elitní kostra | silné útoky na blízko |
-| Goblin Warrior | tank, hodně vydrží |
-| Goblin Assassin | rychlý, rychle se dostane k tobě |
-| Goblin Archer | střílí z luku |
-| Goblin Shaman | léčí ostatní moby a hází ohnivé koule, zab ho první |
+Každý mob má roli. Čísla níže platí v prvním pásmu. V hlubších pásmech mají víc životů i silnější zásahy:
+
+| Pásmo | Životy | Síla zásahu |
+|---|---|---|
+| Starý důl | ×1,0 | ×1,0 |
+| Gigantická jeskyně | ×1,5 | ×1,2 |
+| Hlubší jeskyně | ×2,1 | ×1,45 |
+| Krystalové jádro | ×2,8 | ×1,7 |
+
+| Mob | Role | Životy (1. pásmo) | Zásah (1. pásmo) | Co dělá |
+|---|---|---|---|---|
+| Pavouk | pěšák | 12 | 2,5 | útočí na blízko, umí rychlý výpad |
+| Kostra | pěšák | 12 | 2,5 | útočí na blízko |
+| Pavouk s pastmi | past | 10 | 1,5 | klade pasti |
+| Jedovatý pavouk | jed | 10 | 1,5 | vytváří jedovatou oblast |
+| Kostra lučištník | střelec | 9 | 2 | střílí z luku |
+| Kostra mág | střelec | 9 | 2 | sesílá kouzla na dálku |
+| Goblin Archer | střelec | 10 | 2 | střílí z luku, hází bomby |
+| Goblin Shaman | léčitel | 12 | 2 | léčí ostatní moby a hází ohnivé koule, zab ho první |
+| **Goblin Assassin** | zabiják | 11 | **4** | rychlý a bije nejvíc, ale snadno padne |
+| **Goblin Warrior** | tank | **24** | 3,5 | pomalý, hodně vydrží |
+| Elitní pavouk | elita | 36 | 4,5 | dupnutí a výpad |
+| Elitní kostra | elita | 40 | 4,5 | silné útoky na blízko |
+
+Útoky moba nejsou stejně silné: lehký útok dá asi polovinu zásahu, těžký až 1,5×. Třeba Goblin Assassin v Krystalovém jádru má **31 životů** a běžně ti vezme kolem **7 HP** (3,5 srdíčka), Goblin Warrior tam má **67 životů**.
 
 ## Boss Dungeon: Tower Skeleton
 

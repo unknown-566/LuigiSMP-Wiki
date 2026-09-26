@@ -22,7 +22,7 @@ V Rock Bottomu (i v boss aréně) jde **vyhodit jen jídlo**. Rudu, nástroje an
 ## Nástroje
 
 * **Krumpáče** (7 tierů, dřevěný až netheritový) **určují, jakou nejhlubší rudu vůbec smíš těžit.** Slabší krumpáč na vzácnější rudu prostě nestačí. V popisu krumpáče vidíš, po jakou rudu těží a co odemkne další úroveň.
-* **Meče** (7 tierů), čistě bojové posílení proti mobům v dole, na těžbu nemají vliv. V popisu je poškození a ovládání Schopnosti a Ultimátu.
+* **Meče** (7 tierů), čistě bojové posílení proti mobům v dole, na těžbu nemají vliv. Poškození: **4 · 4,5 · 5 · 6 · 6,5 · 7 · 8** (tier 1–7). V popisu je poškození a ovládání Schopnosti a Ultimátu.
 
 Oboje je nezničitelné a koupíš ho u **Kováře** (`/miningshop`). Když si přepneš jazyk (`/lang`), krumpáč i meč se ti samy vymění za verzi v novém jazyce.
 
