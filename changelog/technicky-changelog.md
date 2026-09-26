@@ -6,6 +6,23 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0003b · 26. 9. 2026
+
+### Nové
+* **Tvůrci.** Vybraní hráči s YouTube nebo Twitchem mají oznámení o novém videu a živém streamu ve hře i na Discordu (název, popis, náhled, tlačítko). Kdo nebyl online, uvidí po připojení běžící stream a nejnovější video (do 7 dní), max. 3 oznámení. Zpráva o streamu na Discordu se každé ~3 minuty aktualizuje (diváci, název, hra) a po konci ukáže délku a nejvíc diváků.
+* **● LIVE za jménem** v chatu i TABu po dobu streamu: YouTube červeně, Twitch fialově.
+
+### Změny
+* **Claimy:** `/claim tp` a `/claim setspawn` jen pro VIP. `/vip` to vypisuje mezi výhodami.
+* **Claimy, teleport z `/claim list`:** míří na bod z `/claim setspawn`, pokud je nastavený.
+
+### Opravy
+* **Claimy:** tlačítko Teleport v `/claim list` teleportovalo i bez oprávnění.
+* **Rock Bottom, moby:** životy podle rolí a pásem z 2.8.0002b se neuplatňovaly (elitní pavouk měl dál 8 HP). Teď platí.
+* **Chat:** barva suffixu už nepřetéká do zprávy.
+
+---
+
 ## 2.8.0002b · 26. 9. 2026
 
 ### Změny
