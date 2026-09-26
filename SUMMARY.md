@@ -35,6 +35,7 @@
 * [Bloky a nástroje](komunitni-funkce/bloky-a-nastroje.md)
 * [Emeraldová výbava](komunitni-funkce/emeraldova-vybava.md)
 * [Herní mechaniky](komunitni-funkce/mechaniky.md)
+* [Tvůrci](komunitni-funkce/tvurci.md)
 
 ## Zábava
 * [Plyšáci](zabava/plysaci.md)
