@@ -42,3 +42,6 @@
 
 ## Nastavení
 * [Osobní nastavení](nastaveni/nastaveni.md)
+
+## Changelog
+* [Technický changelog](changelog/technicky-changelog.md)
