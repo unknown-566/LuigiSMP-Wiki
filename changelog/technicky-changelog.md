@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0004b · 27. 9. 2026
+
+### Nové
+* **Tvůrci, Kick:** oznámení živého streamu na Kicku ve hře i na Discordu, za jménem zelené **● LIVE**.
+* **Tvůrci na webu:** profil tvůrce se na webu aktualizuje sám (kanály, sledující, právě živě, LuigiSMP videa se zhlédnutími a délkou, záznamy streamů z YouTube, Twitche i Kicku). Stav živě a videa do ~3 minut, sledující a zhlédnutí jednou za hodinu.
+* **`/tvurce popis <text>`:** popis tvůrce na webu (max. 120 znaků).
+
+### Změny
+* **Tvůrci:** oznámí se jen video nebo stream, který má v názvu, popisu nebo tagu **LuigiSMP** (i "Luigi SMP" nebo "#luigismp"). Video bez slova se ještě 24 h hlídá, stream se oznámí, jakmile slovo přibude do názvu.
+
+### Opravy
+* **Spawn:** blok položený v chráněné zóně zmizel z ruky. Teď v ruce zůstane.
+
+---
+
 ## 2.8.0003b · 26. 9. 2026
 
 ### Nové
