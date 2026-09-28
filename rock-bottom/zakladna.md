@@ -12,9 +12,9 @@ Na ostrově se nestaví ani nebourá z bloků. Dům se mění po částech a (br
 
 ## Menu Moje věci
 
-Na svém ostrově napiš `/zakladna menu`. Najdeš tu všechno, co pro Základnu máš:
+Na svém ostrově napiš `/zakladna menu`. Každý řádek je jedna kategorie, vlevo je kniha s jejím názvem:
 
-* **Styly domu:** klikni na styl a pak **pravým klikem** na okno, které chceš přestavět. **Shift + klik** na styl přestaví celý dům najednou.
+* **Okna** (a další části domu): klikni na styl a pak **pravým klikem** na okno, které chceš přestavět. **Shift + klik** na styl přestaví všechna okna najednou.
 * **Nábytek:** klikni na kus a začneš stavět (viz níž).
 
 ## Nábytek
