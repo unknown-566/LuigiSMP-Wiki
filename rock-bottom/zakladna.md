@@ -52,4 +52,4 @@ Nový styl se odemkne:
 * **při těžbě**: malá šance za každou vytěženou rudu,
 * **za první poražení bosse** na každé obtížnosti.
 
-Vždy dostaneš styl, který ještě nemáš. Další styly a díly domu přibudou.
+Styl se odemyká **pro jednu část domu**, třeba "Pouštní · Okna". Vždy dostaneš kombinaci, kterou ještě nemáš. Další styly a díly domu přibudou.
