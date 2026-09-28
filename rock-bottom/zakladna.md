@@ -28,6 +28,8 @@ Nábytek se nestaví z bloků, dostáváš ho hotový a máš ho uložený v men
 
 Nábytek musí stát na pevném bloku. Některý kus jde dát jen dovnitř domu, jiný jen ven (napsané v menu).
 
+Na židle a křesla si můžeš **sednout**: pravý klik na ně, **Shift** tě zvedne.
+
 Chceš ho přesunout? **Shift + pravý klik** prázdnou rukou na položený nábytek a dej **Sebrat**, vrátí se ti do menu.
 
 ## Přestavba domu
