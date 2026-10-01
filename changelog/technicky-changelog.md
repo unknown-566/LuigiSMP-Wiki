@@ -9,7 +9,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 ## 2.8.0006b · 1. 10. 2026
 
 ### Změny
-* **Zvířata se spawnují častěji** (pořád vzácně, hlavně v noci): medvědi, pandy a krokodýli 0,15 % → 0,4 %, krysy, veverky a kachny 0,15 % → 0,6 %, krabi na písku 0,5 % → 0,8 % a ve vodě 0,15 % → 0,4 %, světlušky 0,15 % → 1 % (šance při každém pokusu hry spawnout moba). Pořád nejvýš jedno zvíře na chunk.
+* **Zvířata se spawnují častěji**, hlavně v noci: medvědi a pandy 0,15 % → 1,5 %, krokodýli 0,15 % → 1,2 %, krysy, veverky a kachny 0,15 % → 2 %, krabi na písku 0,5 % → 2,5 % a ve vodě 0,15 % → 1,2 %, světlušky 0,15 % → 3 % (šance při každém pokusu hry spawnout moba). Zvíře se teď objeví i v chunku, kde už jsou 1–2 jiní mobové (dřív jen v úplně prázdném).
 
 ---
 
