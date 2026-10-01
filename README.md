@@ -9,6 +9,9 @@ Nic nemusíš stahovat ani instalovat, stačí se připojit a hrát. Tahle wiki 
 * 🆕 **Nový tady?** → [První kroky](zaciname/prvni-kroky.md)
 * 🏠 **Chceš vlastní domov?** → [Domovy a cestování](postava/domovy.md)
 * 🗺️ **Chceš si ochránit stavbu?** → [Claimy](claimy/claimy.md)
+* 💰 **Chceš vydělat peníze?** → [Ekonomika a peníze](postava/ekonomika.md)
+* 🧭 **Všechno na jednom místě?** → [`/profil`](postava/profil.md)
+* 🐻 **Potkal jsi medvěda nebo krokodýla?** → [Custom mobové](custom-mobove/prehled.md)
 * ⛏️ **Zajímá tě hlavní gamemode?** → [Rock Bottom](rock-bottom/zaklady.md)
 * 🎁 **Píšeš na našem Discordu?** → [Odměny za aktivitu](odmeny/aktivita.md)
 
@@ -18,6 +21,9 @@ Nic nemusíš stahovat ani instalovat, stačí se připojit a hrát. Tahle wiki 
 |---|---|
 | Nastavit si domov | [Domovy](postava/domovy.md) |
 | Ochránit svoji stavbu | [Claimy](claimy/claimy.md) |
+| Vydělat peníze, prodat věci | [Ekonomika a peníze](postava/ekonomika.md) |
+| Koupit domov/claim navíc, pojištění, warp, kosmetiku | [Za co utrácet](postava/utraceni.md) |
+| Ochočit si zvíře | [Zvířata](custom-mobove/zvirata.md) |
 | Zkontrolovat poštu | [Pošta](posta/posta.md) |
 | Zjistit, co dostanu za aktivitu na Discordu | [Odměny za aktivitu](odmeny/aktivita.md) |
 | Začít těžit v Rock Bottomu | [Rock Bottom, základy](rock-bottom/zaklady.md) |
