@@ -2,7 +2,7 @@
 
 V overworldu žijí nová divoká zvířata: medvědi, krokodýli, krysy, veverky, kachny, krabi a světlušky. Skoro všechna jdou **ochočit**. Ochočené zvíře je tvůj mazlíček, chodí za tebou a na některých se dá i jezdit.
 
-Zvířata jsou vzácná: v jednom chunku se objeví nejvýš jedno a jen tam, kde zrovna žádný jiný mob není.
+Zvířata jsou vzácnější než vanilla zvěř. Objevují se kolem hráčů v biomech níže, a jen v chunku, kde není víc než jeden jiný mob.
 
 ## Kde je najdeš
 
