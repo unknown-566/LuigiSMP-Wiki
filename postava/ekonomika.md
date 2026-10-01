@@ -48,7 +48,7 @@ U **Výkupčího** na spawnu prodáš věci za peníze. Klikni na něj (nebo nap
 - Nástroje a brnění: čím víc opotřebené, tím levnější.
 - Výkupčí **nebere** věci se jménem, s enchanty, custom itemy ani plné shulkery.
 
-**Cenu vidíš rovnou v popisku itemu** jako řádek „Výkup: $X / ks“. Vidíš ho jen ty, item se nijak nemění. V creativu se nezobrazuje.
+**Cenu zjistíš** přes `/value` (item v ruce), nebo rovnou v menu výkupu, kde vidíš, kolik dostaneš.
 
 **Denní limit:** u každého druhu věci můžeš denně prodat za **$150** (vždy aspoň 16 kusů, nejvýš 512 kusů). Co prodáš nad limit, vykoupí se jen za **10 %** ceny. Limit se obnovuje o půlnoci. Kolik ti zbývá, zjistíš přes `/value`.
 

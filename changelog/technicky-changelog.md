@@ -8,6 +8,9 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ## 2.8.0006b · 1. 10. 2026
 
+### Změny
+* **Výkup:** cena už se neukazuje v popisku itemu (dělala ghost itemy v inventáři). Cenu ukáže `/value` a menu výkupu.
+
 ### Opravy
 * **Zvířata se vůbec nespawnovala.** Teď se objevují kolem hráčů ve dne i v noci (světlušky jen v noci), šance zhruba 3× vyšší než původně: medvědi, pandy a krokodýli 0,4 %, krysy, veverky a kachny 0,6 %, krabi na písku 0,8 % a ve vodě 0,4 %, světlušky 1 %. Zvíře se objeví jen v chunku, kde je nejvýš jeden jiný mob.
 
