@@ -9,6 +9,8 @@
 * [Domovy](postava/domovy.md)
 * [Cestování](postava/cestovani.md)
 * [Ekonomika a peníze](postava/ekonomika.md)
+* [Profil (/profil)](postava/profil.md)
+* [Za co utrácet](postava/utraceni.md)
 
 ## Claimy
 * [Ochrana pozemku](claimy/claimy.md)
@@ -37,6 +39,10 @@
 * [Emeraldová výbava](komunitni-funkce/emeraldova-vybava.md)
 * [Herní mechaniky](komunitni-funkce/mechaniky.md)
 * [Tvůrci](komunitni-funkce/tvurci.md)
+
+## Custom mobové
+* [Přehled](custom-mobove/prehled.md)
+* [Zvířata](custom-mobove/zvirata.md)
 
 ## Zábava
 * [Plyšáci](zabava/plysaci.md)
