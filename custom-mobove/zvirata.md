@@ -35,6 +35,10 @@ Vezmi do ruky správné jídlo a klikni na zvíře **pravým tlačítkem**. Kdy�
 
 Jídlo se spotřebuje i ve chvíli, kdy ochočení nevyjde. Kouř znamená smůlu, srdíčka úspěch.
 
+## Sýr
+
+Upeč **kbelík mléka** v peci nebo udírně a dostaneš sýr (5 hladu). Prázdný kbelík ti zůstane v peci. Sýrem jde krmit a ochočit krysy, stejně jako chlebem. Za první sýr je advancement **Řekni sýr**.
+
 ## Mazlíček
 
 Všechno se dělá **pravým klikem** na tvé zvíře:

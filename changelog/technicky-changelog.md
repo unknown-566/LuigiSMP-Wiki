@@ -9,7 +9,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 ## 2.8.0007b · 2. 10. 2026
 
 ### Nové
-* **Sýr:** upeč kbelík mléka v peci nebo udírně. Prázdný kbelík zůstane v peci. Sýr dává 5 hladu a jde jím krmit a ochočit krysy. Advancement **Řekni sýr**. Viz [Herní mechaniky](../komunitni-funkce/mechaniky.md).
+* **Sýr:** upeč kbelík mléka v peci nebo udírně. Prázdný kbelík zůstane v peci. Sýr dává 5 hladu a jde jím krmit a ochočit krysy. Advancement **Řekni sýr**. Viz [Zvířata](../custom-mobove/zvirata.md).
 
 ### Změny
 * **Zvířata:** objevují se vzácněji. Medvědi a veverky už nežijí na pláních a loukách. Viz [Zvířata](../custom-mobove/zvirata.md).
