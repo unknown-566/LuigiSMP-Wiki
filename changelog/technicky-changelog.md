@@ -34,13 +34,13 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 ## 2.8.0005b · 1. 10. 2026
 
 ### Nové
-* **Ekonomika:** $50 za každou hodinu hraní (AFK se nepočítá), automatické AFK po 5 minutách nečinnosti, **denní úkoly** (`/ukoly`, 3 denně, stejný úkol nejdřív za 7 dní) a peníze za vanilla advancementy ($25 / $60 / $150 podle rámečku, dřívější se vyplatí najednou). Viz [Ekonomika a peníze](../postava/ekonomika.md).
+* **Ekonomika:** $50 za každou hodinu hraní (AFK se nepočítá), automatické AFK po 5 minutách nečinnosti, **denní úkoly** (`/ukoly`, 3 denně, stejný úkol nejdřív za 7 dní) a peníze za vanilla advancementy ($25 / $60 / $150 podle rámečku, dřívější se vyplatí najednou). Viz [Ekonomika a peníze](../ekonomika/jak-vydelat.md).
 * **Výkup u Výkupčího na spawnu** (`/vykup`): prodej věcí za peníze. Vyrobené věci mají cenu podle nejlevnějšího receptu, denní limit $150 za druh (aspoň 16, nejvýš 512 kusů), nad limit 10 % ceny. Cena je vidět rovnou v popisku itemu, `/value` ukáže cenu a zbytek limitu.
-* **`/profil`** (`/profile`): menu se vším, co jde na SMP dělat. Viz [Profil](../postava/profil.md).
+* **`/profil`** (`/profile`): menu se vším, co jde na SMP dělat. Viz [Profil](../hrani/profil.md).
 * **Vylepšení:** domov ($750 +$250), claim ($2 500 +$1 500) a chunk ($250 +$50) navíc, každý další dražší. `/home` ukazuje, kolik domovů je z role a kolik dokoupených.
 * **Pojištění** ($500): při příští smrti v SMP tě vrátí na spawn s věcmi i XP.
 * **Veřejné warpy** (`/warp`, $100 za den, max. 60 dní, 3 na hráče): koule částic a odpočet na místě, prodloužit může kdokoliv.
-* **Kosmetika:** 10 stop při chůzi ($4 000 – $10 000). Viz [Za co utrácet](../postava/utraceni.md).
+* **Kosmetika:** 10 stop při chůzi ($4 000 – $10 000). Viz [Za co utrácet](../ekonomika/za-co-utracet.md).
 * **Custom mobové, zvířata:** medvědi, pandy, krokodýli, krysy, veverky, kachny, krabi a světlušky. Dají se ochočit, na medvědovi a krokodýlovi se dá jezdit. Plus 4 nové advancementy. Viz [Zvířata](../custom-mobove/zvirata.md).
 
 ### Změny

@@ -11,7 +11,7 @@ Server má vlastní měnu na SMP mapě (Rock Bottom má [svoje vlastní peníze]
 | `/vykup` | Výkup u Výkupčího na spawnu |
 | `/value` | Kolik dostaneš za item v ruce |
 
-Všechno najdeš i v menu [`/profil`](profil.md). Za co peníze utratit, je na stránce [Za co utrácet](utraceni.md).
+Všechno najdeš i v menu [`/profil`](../hrani/profil.md). Za co peníze utratit, je na stránce [Za co utrácet](za-co-utracet.md).
 
 ## Jak vydělat
 

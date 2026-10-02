@@ -1,6 +1,6 @@
 # Za co utrácet
 
-Všechno se kupuje v [`/profil`](profil.md). Jak peníze získat, je na stránce [Ekonomika a peníze](ekonomika.md).
+Všechno se kupuje v [`/profil`](../hrani/profil.md). Jak peníze získat, je na stránce [Ekonomika a peníze](jak-vydelat.md).
 
 ## Vylepšení
 

@@ -16,8 +16,8 @@ Otevře menu se všemi nameplaty:
 * **Oak Sign**: koupíš za $50 000.
 * **Donator**: jen pro VIP. Když VIP skončí, jmenovka se sama sundá.
 
-Ceny se platí z tvého SMP zůstatku, viz [Ekonomika](../postava/ekonomika.md). Klikem na koupenou/odemčenou jmenovku ji rovnou equipneš, tlačítko "Vypnout nameplate" ji zase sundá.
+Ceny se platí z tvého SMP zůstatku, viz [Ekonomika](../ekonomika/jak-vydelat.md). Klikem na koupenou/odemčenou jmenovku ji rovnou equipneš, tlačítko "Vypnout nameplate" ji zase sundá.
 
 ## Jestli svůj nameplate vidíš i ty sám/sama
 
-V [Nastavení](../nastaveni/nastaveni.md) je přepínač **Můj nameplate**, ten řeší jen to, jestli svoji equipnutou jmenovku vidíš i ty sám/sama nad vlastní hlavou. Ostatní hráči ji vidí vždycky, bez ohledu na tenhle přepínač.
+V [Nastavení](../zaciname/nastaveni.md) je přepínač **Můj nameplate**, ten řeší jen to, jestli svoji equipnutou jmenovku vidíš i ty sám/sama nad vlastní hlavou. Ostatní hráči ji vidí vždycky, bez ohledu na tenhle přepínač.

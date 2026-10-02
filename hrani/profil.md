@@ -17,4 +17,4 @@
 - **Pojištění**: zachrání tě při příští smrti;
 - **Warpy**: obchody a stavby ostatních hráčů a stavba vlastního warpu.
 
-Co jde v profilu koupit, najdeš na stránce [Za co utrácet](utraceni.md).
+Co jde v profilu koupit, najdeš na stránce [Za co utrácet](../ekonomika/za-co-utracet.md).

@@ -27,15 +27,17 @@ Pokud jsi na našem Discordu, propoj si účet příkazem:
 ```
 /link
 ```
-Propojení se ti připomene i přímo v dialogu s jazykem, pokud ještě nejsi propojený. Proč se to vyplatí? Podívej se na [Odměny za aktivitu](../odmeny/aktivita.md): čím víc píšeš na Discordu, tím lepší výhody na serveru dostáváš (víc domovů, víc claimů...).
+Propojení se ti připomene i přímo v dialogu s jazykem, pokud ještě nejsi propojený. Proč se to vyplatí? Podívej se na [Odměny za aktivitu](odmeny-za-aktivitu.md): čím víc píšeš na Discordu, tím lepší výhody na serveru dostáváš (víc domovů, víc claimů...).
 
 ## 5. Co dál?
 
-* Nastav si první domov → [Domovy](../postava/domovy.md)
-* Zkus si ochránit pozemek → [Claimy](../claimy/claimy.md)
+* Nastav si první domov → [Domovy](../hrani/domovy-a-cestovani.md)
+* Zkus si ochránit pozemek → [Claimy](../hrani/claimy.md)
 * Zajdi se podívat do hlavního gamemode → [Rock Bottom](../rock-bottom/zaklady.md)
 
 ## Užitečné základní příkazy
+
+Úplný přehled je v [Seznamu příkazů](prikazy.md).
 
 | Příkaz | Co dělá |
 |---|---|

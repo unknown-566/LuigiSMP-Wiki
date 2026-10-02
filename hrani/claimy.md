@@ -31,9 +31,9 @@ Smaže celý claim, ve kterém stojíš. Nejde to vrátit, proto musíš pro pot
 
 ## Kolik claimů/chunků můžu mít?
 
-Záleží na tvojí aktivitě na Discordu, viz [Odměny za aktivitu](../odmeny/aktivita.md). Počet chunků je **celkový součet přes všechny tvoje claimy dohromady**, takže si můžeš rozdělit "rozpočet" mezi víc menších území, nebo mít jedno velké.
+Záleží na tvojí aktivitě na Discordu, viz [Odměny za aktivitu](../zaciname/odmeny-za-aktivitu.md). Počet chunků je **celkový součet přes všechny tvoje claimy dohromady**, takže si můžeš rozdělit "rozpočet" mezi víc menších území, nebo mít jedno velké.
 
-Claimy i chunky navíc si můžeš **dokoupit** v `/profil` > Vylepšení (viz [Za co utrácet](../postava/utraceni.md)).
+Claimy i chunky navíc si můžeš **dokoupit** v `/profil` > Vylepšení (viz [Za co utrácet](../ekonomika/za-co-utracet.md)).
 
 ## Správa claimu
 

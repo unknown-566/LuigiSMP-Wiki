@@ -4,25 +4,25 @@
 
 ## Začínáme
 * [První kroky](zaciname/prvni-kroky.md)
-* [Osobní nastavení](nastaveni/nastaveni.md)
-* [Odměny za Discord aktivitu](odmeny/aktivita.md)
+* [Seznam příkazů](zaciname/prikazy.md)
+* [Osobní nastavení](zaciname/nastaveni.md)
+* [Odměny za Discord aktivitu](zaciname/odmeny-za-aktivitu.md)
 
-## Postava a domov
-* [Profil (/profil)](postava/profil.md)
-* [Domovy](postava/domovy.md)
-* [Cestování](postava/cestovani.md)
-* [Claimy](claimy/claimy.md)
-* [Pošta](posta/posta.md)
+## Hraní na SMP
+* [Profil (/profil)](hrani/profil.md)
+* [Domovy a cestování](hrani/domovy-a-cestovani.md)
+* [Claimy](hrani/claimy.md)
+* [Pošta](hrani/posta.md)
 
 ## Ekonomika
-* [Jak vydělat](postava/ekonomika.md)
-* [Za co utrácet](postava/utraceni.md)
+* [Jak vydělat](ekonomika/jak-vydelat.md)
+* [Za co utrácet](ekonomika/za-co-utracet.md)
 
 ## Itemy a mechaniky
-* [Přehled](komunitni-funkce/prehled.md)
-* [Bloky a nástroje](komunitni-funkce/bloky-a-nastroje.md)
-* [Emeraldová výbava](komunitni-funkce/emeraldova-vybava.md)
-* [Herní mechaniky](komunitni-funkce/mechaniky.md)
+* [Přehled](itemy-a-mechaniky/prehled.md)
+* [Bloky a nástroje](itemy-a-mechaniky/bloky-a-nastroje.md)
+* [Emeraldová výbava](itemy-a-mechaniky/emeraldova-vybava.md)
+* [Herní mechaniky](itemy-a-mechaniky/mechaniky.md)
 
 ## Custom mobové
 * [Přehled](custom-mobove/prehled.md)
@@ -31,7 +31,7 @@
 ## Zábava a komunita
 * [Plyšáci](zabava/plysaci.md)
 * [Nameplaty](zabava/nameplaty.md)
-* [Tvůrci](komunitni-funkce/tvurci.md)
+* [Tvůrci](zabava/tvurci.md)
 
 ## Rock Bottom, důl
 * [Základy těžby](rock-bottom/zaklady.md)

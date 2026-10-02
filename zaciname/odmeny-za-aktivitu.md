@@ -25,7 +25,7 @@ VIP role se získává hlavně přes eventy, ne přes tuhle žebříčkovou tabu
 | Král/ovna psaní | 85 | 7 | 340 | 44 |
 | VÁŽNĚ VELKEJ FANOUŠEK | 100 | 8 | 500 | 64 |
 
-**"Chunky celkem"** je součet přes všechny tvoje [claimy](../claimy/claimy.md) dohromady, rozděl si je libovolně mezi svá území.
+**"Chunky celkem"** je součet přes všechny tvoje [claimy](../hrani/claimy.md) dohromady, rozděl si je libovolně mezi svá území.
 
 Od tieru "Hraje hodně často" navíc můžeš upravovat bloky přímo u spawnu (jinak je spawn chráněný).
 
