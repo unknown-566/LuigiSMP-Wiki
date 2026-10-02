@@ -8,12 +8,12 @@ Zvířata jsou vzácnější než vanilla zvěř. Objevují se kolem hráčů v 
 
 | Zvíře | Druhy | Kde žije |
 |---|---|---|
-| 🐻 **Medvěd** | hnědý, černý | pláně, lesy (i březové, tmavé, květinové), tajga, louky, větrné kopce, kamenné vrcholky |
+| 🐻 **Medvěd** | hnědý, černý | lesy (i březové, tmavé, květinové), tajga, větrné kopce |
 | 🐻‍❄️ **Lední medvěd** | – | zasněžené pláně, ledové jehly, zasněžená tajga, háje, zasněžené svahy, ledové a zubaté vrcholky, zamrzlé řeky |
 | 🐼 **Panda** | – | džungle (i bambusová a řídká) |
 | 🐊 **Krokodýl** | mořský, kubánský | bažiny, mangrovové bažiny, džungle |
 | 🐀 **Krysa** | černá, hnědá, šedá | skoro všude venku: pláně, lesy, tajga, louky, kopce, bažiny, savany, badlands |
-| 🐿️ **Veverka** | hnědá, zrzavá, šedá | pláně, lesy, tajga, louky, větrné kopce, savany |
+| 🐿️ **Veverka** | hnědá, zrzavá, šedá | lesy, tajga, větrné kopce, savany |
 | 🦆 **Kachna** | bílá, divoká | u řek a kamenitých břehů, pláně, lesy, louky, savany, bažiny, džungle |
 | 🦀 **Krab** | červený, bahenní, poustevník | na písku u řek, pláží a moří, ve vodě u břehu a v teplých mořích |
 | ✨ **Světluška** | jedna, hejno | jen **v noci**, skoro všude kromě pouště a zasněžených biomů |

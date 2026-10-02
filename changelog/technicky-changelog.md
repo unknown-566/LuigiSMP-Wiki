@@ -12,7 +12,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 * **Výkup:** cena už se neukazuje v popisku itemu (dělala ghost itemy v inventáři). Cenu ukáže `/value` a menu výkupu.
 
 ### Opravy
-* **Zvířata se vůbec nespawnovala.** Teď se objevují kolem hráčů ve dne i v noci (světlušky jen v noci), šance: medvědi a pandy 2 %, krokodýli 1,5 %, krysy, veverky a kachny 3 %, krabi na písku 4 % a ve vodě 2 %, světlušky 5 %. Zvíře se objeví jen v chunku, kde je nejvýš jeden jiný mob.
+* **Zvířata se vůbec nespawnovala.** Teď se objevují kolem hráčů ve dne i v noci (světlušky jen v noci), jsou vzácná. Medvědi a veverky žijí jen v lesích, tajze a kopcích, ne na pláních. Zvíře se objeví jen v chunku, kde je nejvýš jeden jiný mob.
 
 ---
 
