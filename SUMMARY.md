@@ -42,7 +42,6 @@
 * [Artefakty](rock-bottom/artefakty.md)
 * [Boj a eventy](rock-bottom/boj-a-eventy.md)
 * [Obsah a komunita](rock-bottom/obsah-a-komunita.md)
-* [Základna](rock-bottom/zakladna.md)
 * [Seznam příkazů](rock-bottom/prikazy.md)
 
 ## Changelog
