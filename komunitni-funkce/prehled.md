@@ -1,11 +1,11 @@
-# Komunitní funkce
+# Itemy a mechaniky
 
-Věci, co v čisté vanille nenajdeš. Většina z nich vznikla jako **komunitní nápady**, návrhy hráčů z Discordu, které se pak proměnily ve vlastní itemy a mechaniky. Vypadají a fungují jako obyčejné vanilla bloky/předměty, ale mají něco navíc.
+Vlastní itemy, bloky a mechaniky, které v čisté vanille nenajdeš. Vypadají a fungují jako obyčejné vanilla věci, jen umí něco navíc.
 
-* [Bloky a nástroje](bloky-a-nastroje.md)
-* [Emeraldová výbava](emeraldova-vybava.md)
-* [Herní mechaniky](mechaniky.md)
+* [Bloky a nástroje](bloky-a-nastroje.md): autoplacer, vylepšené truhly, mušketa, vrhací cihla
+* [Emeraldová výbava](emeraldova-vybava.md): brnění a nástroje mezi železem a diamantem
+* [Herní mechaniky](mechaniky.md): double jump, rychlé vozíky, ochočená liška, neviditelné rámečky
 
-## Máš vlastní nápad?
+## Komunitní nápady
 
-Napiš ho na Discordu, klidně se z něj časem stane další item na serveru.
+Co má u sebe značku 💡 *Komunitní nápad*, navrhli hráči na Discordu. Máš vlastní nápad? Napiš ho tam, klidně se z něj časem stane další věc na serveru.

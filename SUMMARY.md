@@ -4,22 +4,34 @@
 
 ## Začínáme
 * [První kroky](zaciname/prvni-kroky.md)
+* [Osobní nastavení](nastaveni/nastaveni.md)
+* [Odměny za Discord aktivitu](odmeny/aktivita.md)
 
 ## Postava a domov
+* [Profil (/profil)](postava/profil.md)
 * [Domovy](postava/domovy.md)
 * [Cestování](postava/cestovani.md)
-* [Ekonomika a peníze](postava/ekonomika.md)
-* [Profil (/profil)](postava/profil.md)
+* [Claimy](claimy/claimy.md)
+* [Pošta](posta/posta.md)
+
+## Ekonomika
+* [Jak vydělat](postava/ekonomika.md)
 * [Za co utrácet](postava/utraceni.md)
 
-## Claimy
-* [Ochrana pozemku](claimy/claimy.md)
+## Itemy a mechaniky
+* [Přehled](komunitni-funkce/prehled.md)
+* [Bloky a nástroje](komunitni-funkce/bloky-a-nastroje.md)
+* [Emeraldová výbava](komunitni-funkce/emeraldova-vybava.md)
+* [Herní mechaniky](komunitni-funkce/mechaniky.md)
 
-## Pošta
-* [Systémová pošta](posta/posta.md)
+## Custom mobové
+* [Přehled](custom-mobove/prehled.md)
+* [Zvířata](custom-mobove/zvirata.md)
 
-## Odměny za aktivitu
-* [Discord aktivita → odměny](odmeny/aktivita.md)
+## Zábava a komunita
+* [Plyšáci](zabava/plysaci.md)
+* [Nameplaty](zabava/nameplaty.md)
+* [Tvůrci](komunitni-funkce/tvurci.md)
 
 ## Rock Bottom, důl
 * [Základy těžby](rock-bottom/zaklady.md)
@@ -32,24 +44,6 @@
 * [Obsah a komunita](rock-bottom/obsah-a-komunita.md)
 * [Základna](rock-bottom/zakladna.md)
 * [Seznam příkazů](rock-bottom/prikazy.md)
-
-## Komunitní funkce
-* [Přehled](komunitni-funkce/prehled.md)
-* [Bloky a nástroje](komunitni-funkce/bloky-a-nastroje.md)
-* [Emeraldová výbava](komunitni-funkce/emeraldova-vybava.md)
-* [Herní mechaniky](komunitni-funkce/mechaniky.md)
-* [Tvůrci](komunitni-funkce/tvurci.md)
-
-## Custom mobové
-* [Přehled](custom-mobove/prehled.md)
-* [Zvířata](custom-mobove/zvirata.md)
-
-## Zábava
-* [Plyšáci](zabava/plysaci.md)
-* [Nameplaty](zabava/nameplaty.md)
-
-## Nastavení
-* [Osobní nastavení](nastaveni/nastaveni.md)
 
 ## Changelog
 * [Technický changelog](changelog/technicky-changelog.md)
