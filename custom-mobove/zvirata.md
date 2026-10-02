@@ -40,7 +40,7 @@ Jídlo se spotřebuje i ve chvíli, kdy ochočení nevyjde. Kouř znamená smůl
 Všechno se dělá **pravým klikem** na tvé zvíře:
 
 - **Jídlo** (to samé jako při ochočení): nakrmíš a vyléčíš ho.
-- **Klacek**: sedni / vstaň. Sedící mazlíček zůstane na místě.
+- **Klacek**: sedni / vstaň. Sedící mazlíček zůstane na místě a neteleportuje se za tebou, takhle ho necháš doma. Posazuj ho klackem, ne prázdnou rukou.
 - **Provázek**: vodítko, dalším klikem ho sundáš.
 - **Sedlo** (medvěd, panda, krokodýl): nasadíš ho a pak pravým klikem nasedneš. **Shift + pravý klik** sedlo zase sundá. Na krokodýlovi se dá jezdit i ve vodě.
 - Když se vzdálíš víc než 20 bloků, mazlíček se k tobě sám teleportuje (pokud nesedí).

@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0007b · 2. 10. 2026
+
+### Nové
+* **Sýr:** upeč kbelík mléka v peci nebo udírně. Prázdný kbelík zůstane v peci. Sýr dává 5 hladu a jde jím krmit a ochočit krysy. Advancement **Řekni sýr**. Viz [Herní mechaniky](../komunitni-funkce/mechaniky.md).
+
+### Změny
+* **Zvířata:** objevují se vzácněji. Medvědi a veverky už nežijí na pláních a loukách. Viz [Zvířata](../custom-mobove/zvirata.md).
+
+### Opravy
+* **Ochočená zvířata** se po návratu k nim měnila v psa se jménem zvířete. Teď mají správný model, opraví se i ta už rozbitá.
+* **Mazlíček** nešel po návratu posadit klackem ani osedlat.
+* **Bahenní krab** měl po zahrabání do písku přes sebe model červeného kraba.
+* **Kubánský krokodýl:** chycení hráče do čelistí.
+
+---
 ## 2.8.0006b · 1. 10. 2026
 
 ### Změny
