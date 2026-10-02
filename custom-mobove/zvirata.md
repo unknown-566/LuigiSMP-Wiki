@@ -27,7 +27,7 @@ Vezmi do ruky správné jídlo a klikni na zvíře **pravým tlačítkem**. Kdy�
 | Medvěd, lední medvěd | losos nebo plástev medu | 1 : 4 |
 | Panda | bambus | 1 : 4 |
 | Krokodýl | syrové kuře, hovězí nebo vepřové | 1 : 5 |
-| Krysa | chleba | 1 : 2 |
+| Krysa | chleba nebo sýr | 1 : 2 |
 | Veverka | sladké bobule | 1 : 2 |
 | Kachna | chleba | 1 : 2 |
 | Krab | sušená řasa | 1 : 2 |

@@ -22,3 +22,7 @@ Nakrm divokou lišku bobulemi a se štěstím se ochočí. Pak tě následuje, l
 
 * Splash/lingering lektvar neviditelnosti na armor stand ho zneviditelní (výbava zůstane vidět).
 * Shift + klik skleněnou tabulí na item frame ho zneviditelní.
+
+## Sýr
+
+Upeč **kbelík mléka** v peci nebo udírně a dostaneš sýr (5 hladu). Prázdný kbelík ti zůstane v peci. Sýrem jde krmit a ochočit i [krysy](../custom-mobove/zvirata.md). Za první sýr je advancement **Řekni sýr**.
