@@ -2,11 +2,11 @@
 
 Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na Discordu, tady je seznam všeho menšího, co se změnilo.
 
-**Verze** `2.8.XXXXb`: `2.8` je hlavní verze serveru, `XXXX` číslo buildu (každý zápis sem = +1), `b` znamená beta.
+**Verze** `2.8.XXXX`: `2.8` je hlavní verze serveru, `XXXX` číslo buildu (každý zápis sem = +1). Buildy do 2.8.0004b byly beta (`b` na konci), od 2.8.0005 je verze vydaná.
 
 ---
 
-## 2.8.0008b · 3. 10. 2026
+## 2.8.0008 · 3. 10. 2026
 
 ### Změny
 * **Výpisy v chatu mají jednotný vzhled:** `/baltop`, `/pttop`, `/pt`, `/balance`, `/vip`, `/ukoly`, `/value` a changelog. Barevný proužek podle tématu, top 3 v barvách medailí a tvoje pořadí dole.
@@ -20,7 +20,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 * **WIT** (info o bloku, na který se díváš) se po změně dimenze nebo po připojení zapínal, i když byl v `/nastaveni` vypnutý.
 
 ---
-## 2.8.0007b · 2. 10. 2026
+## 2.8.0007 · 2. 10. 2026
 
 ### Nové
 * **Sýr:** upeč kbelík mléka v peci nebo udírně. Prázdný kbelík zůstane v peci. Sýr dává 5 hladu a jde jím krmit a ochočit krysy. Advancement **Řekni sýr**. Viz [Zvířata](../custom-mobove/zvirata.md).
@@ -35,7 +35,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 * **Kubánský krokodýl:** chycení hráče do čelistí.
 
 ---
-## 2.8.0006b · 1. 10. 2026
+## 2.8.0006 · 1. 10. 2026
 
 ### Změny
 * **Výkup:** cena už se neukazuje v popisku itemu (dělala ghost itemy v inventáři). Cenu ukáže `/value` a menu výkupu.
@@ -45,7 +45,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
-## 2.8.0005b · 1. 10. 2026
+## 2.8.0005 · 1. 10. 2026
 
 ### Nové
 * **Ekonomika:** $50 za každou hodinu hraní (AFK se nepočítá), automatické AFK po 5 minutách nečinnosti, **denní úkoly** (`/ukoly`, 3 denně, stejný úkol nejdřív za 7 dní) a peníze za vanilla advancementy ($25 / $60 / $150 podle rámečku, dřívější se vyplatí najednou). Viz [Ekonomika a peníze](../ekonomika/jak-vydelat.md).
