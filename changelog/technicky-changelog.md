@@ -6,6 +6,20 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0008b · 3. 10. 2026
+
+### Změny
+* **Výpisy v chatu mají jednotný vzhled:** `/baltop`, `/pttop`, `/pt`, `/balance`, `/vip`, `/ukoly`, `/value` a changelog. Barevný proužek podle tématu, top 3 v barvách medailí a tvoje pořadí dole.
+* **`/baltop` a `/pttop`:** 10 hráčů na stránku a klikací šipky na další stránku. `/pt` ukazuje i tvoje pořadí.
+* **Posílání peněz z `/profil`:** částka se zadává do okna místo do chatu.
+* **Posílání peněz:** nejmenší částka je $1.
+* **Zvířata** dostávají knockback jako vanilla zvířata. Krokodýli méně, jsou těžcí.
+
+### Opravy
+* **Posílání peněz z `/profil`** hlásilo „Hráč <none> není online“ a peníze se neposlaly.
+* **WIT** (info o bloku, na který se díváš) se po změně dimenze nebo po připojení zapínal, i když byl v `/nastaveni` vypnutý.
+
+---
 ## 2.8.0007b · 2. 10. 2026
 
 ### Nové
