@@ -6,6 +6,16 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0009 · 11. 10. 2026
+
+### Nové
+* **Halloween 2026** (11. 10. – 2. 11.): Halloween lobby s NPC na spawnu, hledání dýní, Bonbóny, 3 stánky a 5 miniher. Při prvním připojení dostaneš knihu s přehledem a 25 Bonbónů do `/mail` (vyzvednout v Halloween lobby). Za nalezení všech dýní přijde do `/mail` hudební disk **Trick or Treat**. Viz [Přehled eventu](../halloween/prehled.md).
+
+### Změny
+* **Halloween světy:** nevytváří se hroby. Sedět (i na hráčích) jde jen v Halloween lobby.
+
+---
+
 ## 2.8.0008 · 3. 10. 2026
 
 ### Změny
