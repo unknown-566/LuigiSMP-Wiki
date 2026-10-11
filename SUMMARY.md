@@ -33,6 +33,11 @@
 * [Nameplaty](zabava/nameplaty.md)
 * [Tvůrci](zabava/tvurci.md)
 
+## Halloween 2026
+* [Přehled eventu](halloween/prehled.md)
+* [Obchod](halloween/obchod.md)
+* [Minihry](halloween/minihry.md)
+
 ## Rock Bottom, důl
 * [Základy těžby](rock-bottom/zaklady.md)
 * [Postup a odměny](rock-bottom/postup.md)
