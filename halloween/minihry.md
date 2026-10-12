@@ -37,7 +37,14 @@ Stojíš na barevné podlaze 30×30 (8 barev) a vydržíš co nejdéle.
 3. Všechny ostatní dlaždice zmizí. Kdo stojí jinde, propadne a hra končí.
 4. Podlaha se zamíchá a jde další kolo, pokaždé rychlejší (od 5 s až po 1,2 s).
 
-Od 4. kola občas přijde **zrada**:
+Od 4. kola přicházejí **zrady**, čím dál častěji a od vyšších kol i víc naráz:
+
+| Kola | Šance na zradu | Kolik naráz |
+|---|---|---|
+| 4–9 | 25 % | 1 |
+| 10–19 | 45 % | 1, občas 2 |
+| 20–29 | 65 % | 2 |
+| 30+ | 85 % | 2, občas 3 |
 
 | Zrada | Co se stane |
 |---|---|
@@ -46,6 +53,11 @@ Od 4. kola občas přijde **zrada**:
 | Dvě barvy | přežiješ na kterékoliv z obou |
 | Přebarvení | v půlce odpočtu se podlaha znovu zamíchá |
 | Mizející dlaždice | část dlaždic správné barvy je matná (terakota), ty zmizí taky |
+| Záblesk | barva se ukáže jen na půl vteřiny |
+| Zpoždění | barva se ohlásí až v půlce odpočtu |
+| Falešný poplach | v půlce odpočtu se ohlášená barva změní na jinou |
+| Matoucí barva | název barvy je napsaný jinou barvou, **platí slovo** |
+| Cizí jazyk | název barvy je německy, francouzsky, italsky nebo španělsky, **platí barva písma** |
 
 Žádné schopnosti, jen postřeh.
 
