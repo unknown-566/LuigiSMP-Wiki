@@ -45,7 +45,7 @@ Od 4. kola občas přijde **zrada**:
 | Tma | na konci odpočtu oslepneš, musíš si pamatovat, kde barva je |
 | Dvě barvy | přežiješ na kterékoliv z obou |
 | Přebarvení | v půlce odpočtu se podlaha znovu zamíchá |
-| Mizející dlaždice | zmizí i část správných dlaždic |
+| Mizející dlaždice | část dlaždic správné barvy je matná (terakota), ty zmizí taky |
 
 Žádné schopnosti, jen postřeh.
 
