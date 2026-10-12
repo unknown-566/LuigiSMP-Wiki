@@ -49,7 +49,7 @@ Od 4. kola občas přijde **zrada**:
 
 Žádné schopnosti, jen postřeh.
 
-**Odměna:** 1 Bonbón za kolo a +5 za každých 10 kol. Ukládá se tvůj rekord a rekord serveru, nový rekord serveru se oznámí všem.
+**Odměna:** 1 Bonbón za kolo a +2 za každých 10 kol. Ukládá se tvůj rekord a rekord serveru, nový rekord serveru se oznámí všem.
 
 ## Jack-o'-Boom
 
@@ -91,19 +91,19 @@ Honička pro 3-18 hráčů na velké mapě. Jeden hráč je **lovec**, ostatní 
 1. Čekáš na spawnu, od dost hráčů běží 20 s odpočet.
 2. Ruleta vybere lovce. Lovec je pak **60 s zamčený a slepý**, ostatní mají náskok.
 3. Koho lovec praští, **stává se lovcem** (infekce).
-4. Po 7 minutách se hranice mapy začne stahovat ke středu (vždy o 50 bloků za 30 s, pak 2 min pauza).
+4. Po 4 minutách se hranice mapy začne stahovat ke středu (vždy o 50 bloků za 30 s, pak 2 min pauza).
 5. Vyhrává **poslední schovávač**.
 
-Lovci jsou rychlejší a mají **dvojskok** (2× mezerník). Přes hranici mapy nejde projít.
+Lovci jsou rychlejší a mají **dvojskok** (2× mezerník). Schovávači mají kalhoty se **Swift Sneak III** a navzájem se vidí svítit (lovci to nevidí). Přes hranici mapy nejde projít.
 
 | Role | Schopnost | Co dělá | Cooldown |
 |---|---|---|---|
 | Schovávač | Pírko | odraz | 15 s |
-| Schovávač | Kouřová bomba | lovci do 5 bloků na 3 s oslepnou | 30 s |
-| Schovávač | Návnada | figurína s tvou hlavou a jménem, úder lovce ji zničí | 40 s |
+| Schovávač | Výměna (2×) | po 7 s stání na místě tě přenese na tvou návnadu, ta zmizí. Pohyb výměnu zruší a použití se nespotřebuje | — |
+| Schovávač | Návnada | postava s tvým skinem a jménem, zmizí po 30 s, úder ji zničí | 40 s |
 | Schovávač | Duch | 4 s neviditelnost | jednou za hru |
 | Lovec | Skok | výpad dopředu | 10 s |
-| Lovec | Výkřik | všichni schovávači na 3 s svítí | 45 s |
+| Lovec | Výkřik | všichni schovávači i návnady na 3 s svítí | 45 s |
 | Lovec | Past (2×) | neviditelná past, schovávač v ní se zastaví a svítí | — |
 | Chycený lovec | Skok a Kompas | kompas míří na nejbližšího schovávače | — |
 

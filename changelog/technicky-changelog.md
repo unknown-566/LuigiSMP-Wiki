@@ -6,6 +6,22 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0010 · 12. 10. 2026
+
+### Nové
+* **Pumpkin Infection, Výměna** (2×, místo Kouřové bomby): po 7 s stání na místě tě přenese na tvou návnadu. Pohyb výměnu zruší a použití zůstane.
+* **Pumpkin Infection:** schovávači mají kalhoty se Swift Sneak III a navzájem se vidí svítit (lovci to nevidí).
+* **`/plates`:** nameplate Halloween (koupíš v Halloween obchodu).
+
+### Změny
+* **Pumpkin Infection:** hranice se začne stahovat po 4 minutách lovu (dřív 7). Návnada je postava s tvým skinem, při svícení má stejný obrys jako hráč. Výkřik rozsvítí i návnady.
+* **Color Fury:** dlaždice, které při zradě „Mizející dlaždice“ nevydrží, jsou matné (terakota). Bonus za každých 10 kol +2 Bonbóny (dřív +5).
+* **Sbírka z jukeboxu:** počítá se do ní i disk Trick or Treat.
+
+Viz [Halloween minihry](../halloween/minihry.md).
+
+---
+
 ## 2.8.0009 · 11. 10. 2026
 
 ### Nové
