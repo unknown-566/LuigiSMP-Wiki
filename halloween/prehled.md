@@ -28,7 +28,7 @@ Utratíš je u stánků v lobby. Kolik jich máš, ukazuje lišta nahoře v Hall
 Po Halloween lobby jsou schované dýně (hlavy). Klikni na ni:
 
 * každá nová dýně: **+5 Bonbónů**,
-* všechny dýně: **+50 Bonbónů** a hudební disk **Trick or Treat** do `/mail` (vyzvednout v SMP).
+* všechny dýně: **+50 Bonbónů** a hudební disk **Trick or Treat** do `/mail` (vyzvednout v SMP). Disk se počítá do advancementu *Sbírka z jukeboxu*.
 
 Každou dýni jde najít jen jednou. Kolik jich máš, ukáže `/halloween`.
 
