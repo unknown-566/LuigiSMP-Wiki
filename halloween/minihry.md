@@ -123,10 +123,10 @@ Lovci jsou rychlejší, mají **dvojskok** (2× mezerník) a od začátku lovu n
 
 | Za co | Bonbóny |
 |---|---|
-| přežití | 1 za každých 20 s (max. 25), po chycení se zastaví |
-| výhra (poslední schovávač) | +30 |
-| každé chycení | +5 |
-| lovec, který chytil aspoň jednoho a nestál na místě | +5 |
-| první lovec | +10 |
+| přežití | 1 za každých 10 s (max. 60), po chycení se zastaví |
+| výhra (poslední schovávač) | +60 |
+| každé chycení | +10 |
+| lovec, který chytil aspoň jednoho a nestál na místě | +10 |
+| první lovec | +20 |
 
-Lovec, který se 30 s skoro nehýbe, je zpomalený a přijde o bonus +5.
+Lovec, který se 30 s skoro nehýbe, je zpomalený a přijde o bonus +10.
