@@ -22,7 +22,7 @@ Kolem tebe létají dýně a ty je střílíš lukem (nekonečné šípy). Hra t
 |---|---|
 | vyřezávaná dýně | +1 |
 | obyčejná dýně | −1 |
-| svítící zlatá dýně | +3 |
+| svítící zlatá dýně | +4 |
 
 **Kombo:** každých 5 zásahů v řadě přidá +1 bod ke každému dalšímu zásahu (max. +3). Minutí nebo dýně za −1 kombo zruší.
 
