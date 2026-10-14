@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0011 · 14. 10. 2026
+
+### Nové
+* **Color Fury, nové zrady:** Záblesk (barva jen na půl vteřiny), Zpoždění (barva až v půlce odpočtu), Falešný poplach (v půlce se barva změní), Matoucí barva (název jinou barvou, platí slovo) a Cizí jazyk (název v cizím jazyce, platí barva písma).
+* **Pumpkin Infection:** lovec má od začátku lovu nad sebou červený paprsek.
+
+### Změny
+* **Color Fury:** zrady chodí s vyššími koly častěji a od 10. kola i víc naráz.
+* **Pumpkin Infection:** odměny zhruba 4× vyšší (přežití 1 za 6 s až 120, výhra +120, chycení +20, aktivní lovec +20, první lovec +40). Radar hráčů v Xaero's Minimap je ve hře vypnutý.
+* **Pumpkin Hunt:** svítící zlatá dýně dává 4 body (dřív 3).
+
+Viz [Halloween minihry](../halloween/minihry.md).
+
+---
+
 ## 2.8.0010 · 12. 10. 2026
 
 ### Nové
