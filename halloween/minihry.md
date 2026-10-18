@@ -106,7 +106,7 @@ Honička pro 3-18 hráčů na velké mapě. Jeden hráč je **lovec**, ostatní 
 4. Po 4 minutách se hranice mapy začne stahovat ke středu (vždy o 50 bloků za 30 s, pak 2 min pauza).
 5. Vyhrává **poslední schovávač**.
 
-Lovci jsou rychlejší, mají **dvojskok** (2× mezerník) a od začátku lovu nad sebou červený paprsek. Schovávači mají kalhoty se **Swift Sneak III** a navzájem se vidí svítit (lovci to nevidí). Přes hranici mapy nejde projít. Radar hráčů v Xaero's Minimap je ve hře vypnutý.
+Lovci jsou rychlejší, mají **dvojskok** (2× mezerník) a od začátku lovu nad sebou červený paprsek. Schovávači mají kalhoty se **Swift Sneak III**, které nejdou sundat, a navzájem se vidí svítit (lovci to nevidí). Přes hranici mapy nejde projít. Radar hráčů v Xaero's Minimap a ukazatele poškození jsou ve hře vypnuté.
 
 | Role | Schopnost | Co dělá | Cooldown |
 |---|---|---|---|
