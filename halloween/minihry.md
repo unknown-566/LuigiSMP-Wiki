@@ -111,7 +111,7 @@ Lovci jsou rychlejší, mají **dvojskok** (2× mezerník) a od začátku lovu n
 | Role | Schopnost | Co dělá | Cooldown |
 |---|---|---|---|
 | Schovávač | Pírko | odraz | 15 s |
-| Schovávač | Výměna (2×) | kamera se přesune nad tebe, pohledem vybereš svoji návnadu a pravým klikem se na ni přeneseš (návnada zmizí). Tvoje tělo zatím stojí na místě a lovec tě může chytit. Levý klik nebo 15 s = zrušit, použití se pak nespotřebuje | — |
+| Schovávač | Výměna (2×) | kamera se přesune vysoko nad tebe, kolečkem myši přepínáš mezi svými návnadami a pravým klikem se na vybranou přeneseš (návnada zmizí). Tvoje tělo zatím stojí na místě a lovec tě může chytit. Levý klik nebo 15 s = zrušit, použití se pak nespotřebuje | — |
 | Schovávač | Návnada | postava s tvým skinem a jménem, vydrží do konce hry, úder lovce ji zničí. Naživu max 3 naráz | 40 s |
 | Schovávač | Duch | 4 s neviditelnost | jednou za hru |
 | Lovec | Skok | výpad dopředu | 10 s |
