@@ -15,6 +15,7 @@
 
 **Dole:**
 - **Pojištění**: zachrání tě při příští smrti;
-- **Warpy**: obchody a stavby ostatních hráčů a stavba vlastního warpu.
+- **Warpy**: obchody a stavby ostatních hráčů a stavba vlastního warpu;
+- **Pracovní stoly** (jen VIP, i přes `/stoly`): ponk, kovadlina, brusný kámen, kovářský stůl, řezačka kamene, stav, kartografický a očarovací stůl, truhla Enderu, pec, vysoká pec, udírna a varný stojan kdekoliv v SMP světech. Po zavření okna se ti všechno, co v něm zůstalo, vrátí do inventáře. Pece a varný stojan proto pečou jen, dokud máš okno otevřené. Očarovací stůl nemá knihovny, takže dává jen nízké úrovně.
 
 Co jde v profilu koupit, najdeš na stránce [Za co utrácet](../ekonomika/za-co-utracet.md).
