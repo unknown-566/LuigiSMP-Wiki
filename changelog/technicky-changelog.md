@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0012 · 18. 10. 2026
+
+### Nové
+* **VIP, Pracovní stoly:** v `/profil` (nebo `/stoly`) ponk, kovadlina, brusný kámen, kovářský stůl, řezačka kamene, stav, kartografický a očarovací stůl, truhla Enderu, pec, vysoká pec, udírna a varný stojan kdekoliv v SMP světech. Po zavření okna se ti všechno vrátí do inventáře.
+
+### Změny
+* **Pumpkin Infection, Návnada:** vydrží do konce hry, zničí ji jen úder lovce. Naživu max 3 naráz.
+* **Pumpkin Infection, Výměna:** kamera se přesune vysoko nad tebe, kolečkem myši vybereš návnadu a pravým klikem se na ni přeneseš. Tvoje tělo mezitím stojí na místě a lovec tě může chytit. Levý klik nebo 15 s výběr zruší.
+* **Pumpkin Infection:** kalhoty schovávačů nejdou sundat. Ukazatele poškození jsou ve hře vypnuté.
+* **Spleef or Treat a Pumpkin Infection:** soul sand nezpomaluje.
+
+Viz [Halloween minihry](../halloween/minihry.md) a [Profil](../hrani/profil.md).
+
+---
+
 ## 2.8.0011 · 14. 10. 2026
 
 ### Nové

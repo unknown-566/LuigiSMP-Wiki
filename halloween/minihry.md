@@ -82,7 +82,7 @@ Všichni mají **dvojskok** (2× mezerník).
 
 Spleef pro 4-9 hráčů na několika patrech.
 
-* Podlahu (podzol a soul sand) ničíš nástrojem **The Hexbreaker** hned na kliknutí.
+* Podlahu (podzol a soul sand) ničíš nástrojem **The Hexbreaker** hned na kliknutí. Soul sand tě nezpomaluje.
 * Kdo propadne pod poslední patro, vypadává a dívá se jako spectator.
 * Po 60 s se nejvyšší obsazené patro začne zmenšovat od kraje. Okraj, který bliká červeně a žlutě, zmizí.
 * Vyhrává poslední, kdo zůstane.
