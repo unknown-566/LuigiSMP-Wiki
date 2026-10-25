@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0013 · 25. 10. 2026
+
+### Nové
+* **Kosmetika, Velikost:** v `/profil` > Kosmetika můžeš být menší (0,85×) nebo větší (1,1×), každá za $60 000. Normální velikost je zdarma.
+* **Nastavení, HD barvy obrazovek:** v `/nastaveni` si zapneš nebo vypneš resource pack, který obrazovkám dává víc barev.
+* **Nastavení, Bez phantomů:** v `/nastaveni` si vypneš phantomy. Kvůli tobě se pak nespawnují, ani když dlouho nespíš.
+
+### Opravy
+* **Claimy:** zákaz interakce s bloky teď platí i pro tlačítka, páky, zvony a podobné bloky, a to s prázdnou rukou i s itemem. Dřív šlo s itemem v ruce kliknout na cokoliv a prázdná ruka hlásila zákaz stavění.
+* **Kosmetika, stopa Noty:** zase se zobrazuje.
+
+Viz [Profil](../hrani/profil.md), [Za co utrácet](../ekonomika/za-co-utracet.md), [Nastavení](../zaciname/nastaveni.md) a [Claimy](../hrani/claimy.md).
+
+---
+
 ## 2.8.0012 · 18. 10. 2026
 
 ### Nové

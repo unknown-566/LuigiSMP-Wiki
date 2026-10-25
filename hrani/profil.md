@@ -8,7 +8,7 @@
 - peníze: poslat hráči, pravým klikem žebříček;
 - claimy;
 - **Vylepšení**: domov, claim nebo chunk navíc;
-- **Kosmetika**: stopy při chůzi a s VIP i barva jména v chatu a tabu;
+- **Kosmetika**: stopy při chůzi, velikost postavy a s VIP i barva jména v chatu a tabu;
 - denní úkoly, hodnota itemu ve výkupu, žebříčky, jmenovky.
 
 **Ostatní:** pošta, nastavení, jazyk, VIP, propojení s Discordem, novinky a narozeniny.

@@ -39,6 +39,14 @@ Postav si warp k obchodu, farmě nebo stavbě a ostatní se k tobě dostanou př
 
 ## Kosmetika
 
+Všechno najdeš v `/profil` > **Kosmetika**.
+
+### Velikost ($60 000)
+
+Můžeš být **menší** (0,85×) nebo **větší** (1,1×). Každá stojí $60 000, normální velikost je zdarma. Koupenou velikost pak přepínáš zdarma, kdykoliv chceš.
+
+### Stopy
+
 Stopy za tebou při chůzi. Koupíš je jednou, pak je v `/profil` > **Kosmetika** zapínáš a vypínáš (zapnutá je vždy jedna). Ostatní je vidí do 48 bloků.
 
 | Stopa | Cena |

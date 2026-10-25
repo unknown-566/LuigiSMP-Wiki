@@ -18,5 +18,7 @@ Otevře menu s osobním nastavením, přepínáš klikem, uloží se automaticky
 | **Chatové bubliny** | Zprávy se zobrazují i nad hlavou |
 | **WIT nástroj** | Zobrazuje info o bloku/entitě, na kterou se díváš |
 | **Itemy na cedulích** | Shift + pravý klik na ceduli položí na ni item z ruky (item ti zůstane, na ceduli je jen jeho obrázek). Shift + pravý klik prázdnou rukou ho zase sundá. Výchozí stav: vypnuto |
+| **HD barvy obrazovek** | Malý resource pack, díky kterému mají obrazovky na serveru víc barev. Výchozí stav: zapnuto |
+| **Bez phantomů** | Phantomové se kvůli tobě nespawnují, ani když dlouho nespíš. Na ostatní hráče to nemá vliv. Výchozí stav: vypnuto |
 
 Tip: pokud tě otravují časté zvukové efekty nebo notifikace, vypni si je tady místo abys je musel/a snášet.
