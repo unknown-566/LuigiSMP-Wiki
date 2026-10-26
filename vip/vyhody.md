@@ -37,6 +37,10 @@ Až nákup projde, celý server uvidí poděkování a ty dostaneš titulek a ef
 
 U pracovních stolů platí: po zavření okna se ti všechno, co v něm zůstalo, vrátí do inventáře. Pece a varný stojan proto pečou jen, dokud máš okno otevřené. Očarovací stůl nemá knihovny, takže dává jen nízké úrovně.
 
+### Novinky dřív
+
+* **Sneak peeky na připravované updaty.** Uvidíš, na čem se pracuje, dřív než ostatní.
+
 ### Předplatné
 
 * **Výpadek serveru ti čas nesebere.** Když je server vypnutý, předplatné se sice dál platí podle kalendáře, ale o dobu výpadku ti VIP vydrží déle.
