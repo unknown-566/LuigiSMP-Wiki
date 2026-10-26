@@ -11,6 +11,7 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 ### Nové
 * **VIP, vlastní barva jména:** v `/profil` > Kosmetika > Barva jména můžeš kromě 11 barev zadat i vlastní hex (třeba `#FF8800`).
 * **VIP, barva jména na jmenovce:** vybraná barva jména se ukazuje i nad hlavou, na jménu v jmenovce.
+* **VIP, `/rtp`:** cooldown 30 s místo 60.
 * **NPC na spawnu:** klik na odkaz „Podpoř nás zde!“ otevře `/vip`.
 * **Wiki:** nová stránka [VIP](../vip/vyhody.md) se všemi výhodami.
 

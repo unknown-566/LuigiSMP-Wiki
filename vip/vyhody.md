@@ -31,6 +31,7 @@ Až nákup projde, celý server uvidí poděkování a ty dostaneš titulek a ef
 | **Pracovní stoly kdekoliv** | V `/profil` nebo přes `/stoly`: ponk, kovadlina, brusný kámen, kovářský stůl, řezačka kamene, stav, kartografický a očarovací stůl, truhla Enderu, pec, vysoká pec, udírna a varný stojan. Funguje v SMP světech |
 | **Neomezené domovy** | `/sethome` bez limitu |
 | **Rychlý teleport** | Čekání na teleport 1 s místo 4 (domov, spawn, `/rtp`, `/tpa`, `/back`) |
+| **Kratší cooldown `/rtp`** | Náhodný teleport každých 30 s místo 60 |
 | **Víc claimů** | 10 claimů a 600 chunků |
 | **Teleport do claimu** | `/claim tp` a `/claim setspawn`, viz [Claimy](../hrani/claimy.md) |
 
