@@ -14,6 +14,9 @@
 * [Claimy](hrani/claimy.md)
 * [Pošta](hrani/posta.md)
 
+## VIP
+* [Výhody VIP](vip/vyhody.md)
+
 ## Ekonomika
 * [Jak vydělat](ekonomika/jak-vydelat.md)
 * [Za co utrácet](ekonomika/za-co-utracet.md)

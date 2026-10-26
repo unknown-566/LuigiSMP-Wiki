@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0014 · 26. 10. 2026
+
+### Nové
+* **VIP, vlastní barva jména:** v `/profil` > Kosmetika > Barva jména můžeš kromě 11 barev zadat i vlastní hex (třeba `#FF8800`).
+* **VIP, barva jména na jmenovce:** vybraná barva jména se ukazuje i nad hlavou, na jménu v jmenovce.
+* **NPC na spawnu:** klik na odkaz „Podpoř nás zde!“ otevře `/vip`.
+* **Wiki:** nová stránka [VIP](../vip/vyhody.md) se všemi výhodami.
+
+### Opravy
+* **VIP, barva jména:** vybraná barva se nezobrazovala, místo ní zůstávalo animované růžové jméno. Totéž platilo pro odznak ∞ u VIP navždy.
+
+Viz [VIP](../vip/vyhody.md) a [Nameplaty](../zabava/nameplaty.md).
+
+---
+
 ## 2.8.0013 · 25. 10. 2026
 
 ### Nové

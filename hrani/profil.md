@@ -11,7 +11,7 @@
 - **Kosmetika**: stopy při chůzi, velikost postavy a s VIP i barva jména v chatu a tabu;
 - denní úkoly, hodnota itemu ve výkupu, žebříčky, jmenovky.
 
-**Ostatní:** pošta, nastavení, jazyk, VIP, propojení s Discordem, novinky a narozeniny.
+**Ostatní:** pošta, nastavení, jazyk, [VIP](../vip/vyhody.md), propojení s Discordem, novinky a narozeniny.
 
 **Dole:**
 - **Pojištění**: zachrání tě při příští smrti;

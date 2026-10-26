@@ -16,6 +16,8 @@ Otevře menu se všemi nameplaty:
 * **Oak Sign**: koupíš za $50 000.
 * **Donator**: jen pro VIP. Když VIP skončí, jmenovka se sama sundá.
 
+VIP s vybranou barvou jména (`/profil` > Kosmetika > Barva jména) má tu barvu i na jménu v jmenovce, bez ohledu na to, jakou jmenovku má. Viz [VIP](../vip/vyhody.md).
+
 Ceny se platí z tvého SMP zůstatku, viz [Ekonomika](../ekonomika/jak-vydelat.md). Klikem na koupenou/odemčenou jmenovku ji rovnou equipneš, tlačítko "Vypnout nameplate" ji zase sundá.
 
 ## Jestli svůj nameplate vidíš i ty sám/sama

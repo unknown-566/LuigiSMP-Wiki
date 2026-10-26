@@ -54,4 +54,4 @@ U **Výkupčího** na spawnu prodáš věci za peníze. Klikni na něj (nebo nap
 
 ## Webshop
 
-Server má i webshop pro reálné nákupy (kosmetika, VIP a podobně). Odkaz najdeš na webu serveru (`/web`).
+Server má i webshop pro reálné nákupy (kosmetika, VIP a podobně). Odkaz najdeš na webu serveru (`/web`), na VIP i přes `/vip`. Výhody VIP jsou na stránce [VIP](../vip/vyhody.md).
