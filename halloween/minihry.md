@@ -94,7 +94,7 @@ Spleef pro 4-9 hráčů na několika patrech.
 | Odpal | úder odhodí soupeře | 10 s |
 | Duch | 3 s neviditelnost | 25 s |
 
-**Odměna:** 1. místo 30, 2. místo 15, 3. místo 8, ostatní 3. Na konci přijde do chatu celé pořadí.
+**Odměna:** 1. místo 120, 2. místo 60, 3. místo 32, ostatní 12. Na konci přijde do chatu celé pořadí.
 
 ## Pumpkin Infection
 
