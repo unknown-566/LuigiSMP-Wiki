@@ -1,88 +1,118 @@
 # Kuchyně
 
-Vlastní jídla ve stylu Farmer's Delight. Krájí se nožem, peče v peci, udírně nebo na táboráku a vaří v hrnci. Textury nožů, rajčat, hrnce a většiny jídel pochází z módu Farmer's Delight (vectorwing, licence MIT).
+Vlastní jídla ve stylu Farmer's Delight: pěstuješ rajčata, krájíš nožem, pečeš, vaříš v hrnci a skládáš burgery. Názvy itemů na téhle stránce jsou stejné jako ve hře. Nasycení je ve stehýnkách 🍗 jako v liště hladu.
+
+Textury nožů, rajčat, hrnce a většiny jídel pochází z módu Farmer's Delight (vectorwing, licence MIT).
+
+## Rychlý přehled
+
+| Co | Kde |
+|---|---|
+| Semínka rajčat | sniffer, wandering trader, truhly ve vesnicích, veverky, farmář |
+| Krájení | crafting s nožem |
+| Pečení | pec, udírna, táborák |
+| Vaření | hrnec na táboráku |
+| Burgery a sendviče | crafting |
 
 ## Nože
 
 | Nůž | Recept | Výdrž |
 |---|---|---|
-| Flint Knife | pazourek nad klackem | 131 krájení |
-| Iron Knife | železný ingot nad klackem | 250 krájení |
+| **Flint Knife** | Flint nad Stick | 131 krájení |
+| **Iron Knife** | Iron Ingot nad Stick | 250 krájení |
 
 ## Krájení
 
 Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři.
 
-1. Dej do craftingu **nůž** a **surovinu** (na pozici nezáleží).
+1. Dej do craftingu **nůž** a **surovinu**, na pozici nezáleží.
 2. Vezmi si výsledek.
 3. Nůž zůstane v mřížce, jen mu ubude výdrž. Surovina se spotřebuje.
 
-| Dej do craftingu | Dostaneš |
+| Nůž + | Dostaneš |
 |---|---|
-| nůž + syrové hovězí | 2× Minced Beef |
-| nůž + syrové vepřové | 2× Bacon |
-| nůž + Wheat Dough | 2× Raw Pasta |
-| nůž + Oreo | 2× Oreo Crumbs |
-| nůž + Oreo Cheesecake | 4× Oreo Cheesecake Slice |
+| Raw Beef | 2× **Minced Beef** |
+| Raw Porkchop | 2× **Bacon** |
+| Wheat Dough | 2× **Raw Pasta** |
+| Oreo | 2× **Oreo Crumbs** |
+| Oreo Cheesecake | 4× **Oreo Cheesecake Slice** |
 
 ## Rajčata
 
 ### Kde vzít semínka
 
-- **Sniffer**: když něco vyhrabe, občas k tomu vyhrabe i semínko rajčete.
-- **Wandering trader**: některý je prodává, 1 smaragd za 3 semínka.
-- **Truhly** v domech ve vesnicích a v zásobách vraků lodí.
-- **Veverky**: divoká veverka může semínko upustit, ochočená ti ho občas sama přinese.
-- **Farmář**: vesničan farmář, který postoupí na úroveň Apprentice, je může prodávat (1 smaragd za 4 semínka).
+| Zdroj | Jak |
+|---|---|
+| **Sniffer** | když něco vyhrabe, občas k tomu vyhrabe i semínko rajčete |
+| **Wandering trader** | některý je prodává, 1 Emerald za 3 semínka |
+| **Truhly** | v domech ve vesnicích a v zásobách vraků lodí |
+| **Divoká veverka** | může semínko upustit |
+| **Ochočená veverka** | občas ti semínko sama přinese |
+| **Farmář** | vesničan farmář, který postoupí na Apprentice, je může prodávat (1 Emerald za 4 semínka) |
 
 ### Pěstování
 
-Semínka zasaď na **záhon** (jinam nejdou). Rostou ve 4 stádiích, stejně rychle jako pšenice a podle stejných pravidel:
+**Tomato Seeds** zasaď na **záhon**, jinam nejdou. Rostou ve 4 stádiích, stejně rychle jako pšenice a podle stejných pravidel:
 
 - zavlažovaný záhon a záhony kolem rostlinu zrychlují
-- rostliny natěsno vedle sebe (v obou směrech nebo úhlopříčně) rostou pomaleji, nejlepší je sázet v řadách
+- rostliny natěsno (v obou směrech nebo úhlopříčně) rostou pomaleji, nejlepší je sázet v řadách
 - potřebují světlo
-- kostní moučka posune rostlinu o 1 stádium
+- Bone Meal posune rostlinu o 1 stádium
 - rozšlapaný nebo rozbitý záhon rostlinu shodí
 
 ### Sklizeň
 
-- **Pravý klik** na zralé rajče (jako sladké bobule): 2–3 rajčata a 1–2 semínka, rostlina se vrátí do 1. stádia a roste dál.
-- **Rozbití** zralého rajčete: 1–3 rajčata a 1–2 semínka. Nezralé dá jen semínko.
+| Jak | Dostaneš | Rostlina |
+|---|---|---|
+| **pravý klik** na zralé rajče | 2–3 Tomato, 1–2 Tomato Seeds | vrátí se do 1. stádia a roste dál |
+| **rozbití** zralého rajčete | 1–3 Tomato, 1–2 Tomato Seeds | zmizí |
+| **rozbití** nezralého rajčete | 1 Tomato Seeds | zmizí |
 
-## Pečení (pec, udírna, táborák)
+**Tomato** se dá i sníst: 🍗 1,5.
 
-- Beef Patty z mletého hovězího
-- Cooked Bacon ze slaniny
-- Fried Egg z vajíčka
-- Pizza ze syrové pizzy (jen v peci)
-- Sýr z kbelíku mléka (pec, udírna; prázdný kbelík zůstane v peci)
+## Pečení
+
+| Surovina | Výsledek | Kde | Nasytí |
+|---|---|---|---|
+| Minced Beef | **Beef Patty** | pec, udírna, táborák | 🍗 2 |
+| Bacon | **Cooked Bacon** | pec, udírna, táborák | 🍗 2 |
+| Egg | **Fried Egg** | pec, udírna, táborák | 🍗 2 |
+| Raw Pizza | **Pizza** | jen pec | 🍗 3 za dílek |
+| Milk Bucket | **Cheese** | pec, udírna | 🍗 2,5 |
+
+U sýra zůstane prázdný kbelík v peci.
 
 ## Hrnec
 
-**Recept:**
+### Recept na Cooking Pot
 
 | | | |
 |---|---|---|
-| cihla | dřevěná lopata | cihla |
-| železný ingot | kbelík vody | železný ingot |
-| železný ingot | železný ingot | železný ingot |
+| Brick | Wooden Shovel | Brick |
+| Iron Ingot | Water Bucket | Iron Ingot |
+| Iron Ingot | Iron Ingot | Iron Ingot |
 
 Kbelík se ti vrátí prázdný.
 
-Postav hrnec na **zapálený táborák** (stačí i oheň nebo magma) a pravým klikem ho otevři. Vlevo jsou místa na přísady, vpravo výsledek a pod ním místo na misku. Vaří i se zavřeným oknem, šipka ukazuje postup. Omáčka se vaří minutu, polévka a těstoviny s masovými kuličkami minutu a půl. Když hrnec rozbiješ, obsah vypadne.
+### Jak vařit
 
-Každé jídlo potřebuje do slotu na nádobu **misku**.
+1. Postav hrnec na **zapálený táborák** (stačí i oheň nebo magma).
+2. Pravým klikem ho otevři.
+3. Vlevo dej **přísady**, do slotu pod výsledkem dej **Bowl**.
+4. Šipka ukazuje postup. Vaří se i se zavřeným oknem.
+5. Hotové jídlo si vezmi vpravo.
 
-| Jídlo | Přísady | Nasytí |
-|---|---|---|
-| **Tomato Sauce** | 2× Tomato | přísada |
-| **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 🍗 6 |
-| **Pasta with Meatballs** | Minced Beef, Raw Pasta, Tomato Sauce | 🍗 6 |
+Když hrnec rozbiješ, obsah vypadne.
+
+| Jídlo | Přísady | Vaří se | Nasytí |
+|---|---|---|---|
+| **Tomato Sauce** | 2× Tomato | 1 min | přísada |
+| **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 1,5 min | 🍗 6 |
+| **Pasta with Meatballs** | Minced Beef, Raw Pasta, Tomato Sauce | 1,5 min | 🍗 6 |
 
 ## Crafting
 
-Stačí dát suroviny kamkoliv do craftingu, na pozici nezáleží. Názvy jsou stejné jako ve hře.
+Stačí dát suroviny kamkoliv do craftingu, na pozici nezáleží.
 
 ### Burgery a sendviče
 
@@ -102,31 +132,34 @@ Samy se nejí, vyrábí se z nich další jídla.
 
 | Přísada | Suroviny | Na co |
 |---|---|---|
-| **Wheat Dough** | 2× Wheat, Egg | těstoviny (krájení), pizza |
+| **Wheat Dough** | 2× Wheat, Egg | Raw Pasta (krájení), Raw Pizza |
 | **Raw Pizza** | Wheat Dough, Tomato Sauce, Cheese, Tomato | upeč v peci na Pizzu |
 
 ## Pizza
 
-Upečenou pizzu **polož na zem** jako dort a pravým klikem ujídej po dílcích (4 dílky, každý 3 hladu). S plným hladem jíst nejde. Nakousnutou pizzu můžeš rozbít a sebrat (Pizza 3/4, 1/2, 1/4) a položit jinde.
+1. **Pizzu** polož na zem jako dort.
+2. Pravým klikem ujídej po dílcích: 4 dílky, každý 🍗 3. S plným hladem jíst nejde.
+3. Nakousnutou pizzu můžeš rozbít, sebrat (Pizza 3/4, 1/2, 1/4) a položit jinde.
 
 ## Oreo
 
-| Věc | Recept |
-|---|---|
-| 8× Cocoa Cookie | 2× pšenice + 2× kakaové boby |
-| 4× Cream Filling | mléko + cukr + miska |
-| 2× Oreo | 2× Cocoa Cookie + Cream Filling (miska zůstane) |
-| Oreo Milkshake | mléko + 2× Oreo + prázdná láhev |
-| Oreo Cheesecake | sýr + Cream Filling + 2× Oreo Crumbs + cukr + vejce + pšenice |
+| Věc | Suroviny | Nasytí |
+|---|---|---|
+| 8× **Cocoa Cookie** | 2× Wheat, 2× Cocoa Beans | 🍗 1 |
+| 4× **Cream Filling** | Milk Bucket, Sugar, Bowl | přísada |
+| 2× **Oreo** | 2× Cocoa Cookie, Cream Filling (Bowl ti zůstane) | 🍗 1,5 |
+| **Oreo Milkshake** | Milk Bucket, 2× Oreo, Glass Bottle | 🍗 3 |
+| **Oreo Cheesecake** | Cheese, Cream Filling, 2× Oreo Crumbs, Sugar, Egg, Wheat | nakrájej nožem |
+| 4× **Oreo Cheesecake Slice** | nůž + Oreo Cheesecake | 🍗 2 |
 
-Oreo, Cocoa Cookie, dílek cheesecaku a milkshake jdou sníst i s plným hladem.
+Cocoa Cookie, Oreo, Oreo Milkshake a Oreo Cheesecake Slice jdou sníst i s plným hladem.
 
 ## Advancementy
 
 | Advancement | Jak |
 |---|---|
-| Řekni sýr | Získej sýr. |
-| Ostrý jako břitva | Vyrob si kuchyňský nůž. |
-| Polévka dne | Uvař zeleninovou polévku v hrnci. |
-| Mamma mia! *(cíl)* | Upeč pizzu. |
-| Sladká tečka | Vyrob si Oreo milkshake. |
+| **Řekni sýr** | Získej sýr. |
+| **Ostrý jako břitva** | Vyrob si kuchyňský nůž. |
+| **Polévka dne** | Uvař zeleninovou polévku v hrnci. |
+| **Mamma mia!** *(cíl)* | Upeč pizzu. |
+| **Sladká tečka** | Vyrob si Oreo milkshake. |
