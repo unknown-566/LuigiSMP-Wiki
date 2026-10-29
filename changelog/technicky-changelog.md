@@ -6,6 +6,29 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0015 · 29. 10. 2026
+
+### Nové
+* **Objednávky (`/order`):** obchod mezi hráči. Vytvoříš objednávku na item s cenou za kus, peníze se strhnou hned a ostatní ti věci doručí. Vyprší po 7 dnech.
+* **Claimy, útok na moby po skupinách:** zvlášť „Útok na hostilní moby“, „Útok na zvířata“ a nový „Útok na mazlíčky“ (ochočení psi, kočky, papoušci, koně a ochočená divoká zvířata). Divocí medvědi a krokodýli se počítají jako hostilní. Platí i pro šípy, trojzubce, rybářský prut a škodlivé lektvary.
+* **Claimy, ochrana zvenku:** do cizího claimu nejde zvenku tlačit ani tahat bloky pístem, natéct vodou nebo lávou ani střílet a vylévat dispenserem. Hostilní mobové v claimech neničí bloky (enderman, zombie u dveří, wither).
+
+### Změny
+* **Spleef or Treat:** odměny 4× vyšší (1. místo 120, 2. 60, 3. 32, ostatní 12 Bonbónů).
+* **Pumpkin Infection:** bossbar ukazuje počty hráčů jen ve tvém jazyce, během Výměny nepřepisuje návod.
+* **Claimy:** flag „Mobové“ blokuje i slizy, ghasty, phantomy a divoké medvědy a krokodýly.
+
+### Opravy
+* **Claimy, truhly:** šly otevřít zpoza hranice claimu, teď rozhoduje, kde truhla stojí.
+* **Claimy, menu:** návštěvník v cizím claimu si neotevřel `/profil`, VIP pracovní stoly ani jiná menu.
+* **Claimy, dveře:** měděné a bledě dubové dveře, poklopy a branky nebyly chráněné.
+* **Claimy, entity:** loďky a vozíky šly rozbít, loďky, vozíky, stojany, obrazy a rámečky položit, obrazy zbourat šípem nebo výbuchem, ze stojanů brát výbavu a pole rozšlapat.
+* **Claimy, PvP:** v claimu se zapnutým PvP nešlo bít hráče bez povoleného útoku na entity.
+
+Viz [Claimy](../hrani/claimy.md), [Jak vydělat](../ekonomika/jak-vydelat.md) a [Halloween minihry](../halloween/minihry.md).
+
+---
+
 ## 2.8.0014 · 26. 10. 2026
 
 ### Nové

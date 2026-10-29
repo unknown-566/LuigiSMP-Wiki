@@ -53,6 +53,7 @@ Podrobnosti: [Jak vydělat](../ekonomika/jak-vydelat.md).
 | `/send <hráč> <částka>` | Pošle peníze hráči |
 | `/ukoly` | Denní úkoly |
 | `/vykup`, `/value` | Výkup věcí a cena itemu v ruce |
+| `/order` | [Objednávky](../ekonomika/jak-vydelat.md): nákup a prodej mezi hráči |
 
 ## Ostatní
 

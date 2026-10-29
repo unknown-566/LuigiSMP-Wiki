@@ -52,6 +52,16 @@ U **Výkupčího** na spawnu prodáš věci za peníze. Klikni na něj (nebo nap
 
 **Denní limit:** u každého druhu věci můžeš denně prodat za **$150** (vždy aspoň 16 kusů, nejvýš 512 kusů). Co prodáš nad limit, vykoupí se jen za **10 %** ceny. Limit se obnovuje o půlnoci. Kolik ti zbývá, zjistíš přes `/value`.
 
+## Objednávky (`/order`)
+
+Obchod mezi hráči. Kdo něco potřebuje, vytvoří **objednávku**: vybere item, kolik kusů chce a kolik za kus zaplatí. Peníze se mu strhnou hned a čekají v objednávce.
+
+- **Prodej:** v `/order` najdeš objednávky ostatních (řadit jde podle ceny za kus, novosti, počtu doručení…). Klikni na objednávku, vlož věci a peníze dostaneš hned.
+- **Nákup:** v `/order` > **Tvoje objednávky** > **Nová objednávka**. Doručené věci si tam pak vybereš. Objednávku můžeš i zrušit, nevyužité peníze se ti vrátí.
+- Objednávka vyprší po **7 dnech**.
+
+`/orders` funguje stejně.
+
 ## Webshop
 
 Server má i webshop pro reálné nákupy (kosmetika, VIP a podobně). Odkaz najdeš na webu serveru (`/web`), na VIP i přes `/vip`. Výhody VIP jsou na stránce [VIP](../vip/vyhody.md).
