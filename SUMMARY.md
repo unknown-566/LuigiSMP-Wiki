@@ -26,6 +26,7 @@
 * [Bloky a nástroje](itemy-a-mechaniky/bloky-a-nastroje.md)
 * [Emeraldová výbava](itemy-a-mechaniky/emeraldova-vybava.md)
 * [Herní mechaniky](itemy-a-mechaniky/mechaniky.md)
+* [Kuchyně](itemy-a-mechaniky/kuchyne.md)
 
 ## Custom mobové
 * [Přehled](custom-mobove/prehled.md)
