@@ -76,8 +76,8 @@ Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři
 |---|---|---|---|
 | Minced Beef | **Beef Patty** | pec, udírna, táborák | 🍗 2 |
 | Bacon | **Cooked Bacon** | pec, udírna, táborák | 🍗 2 |
-| Egg | **Fried Egg** | pec, udírna, táborák | 🍗 2 |
-| Raw Pizza | **Pizza** | jen pec | 🍗 3 za dílek |
+| Egg | **Fried Egg** | pec, udírna, táborák | 🍗 1,5 |
+| Raw Pizza | **Pizza** | jen pec | 🍗 2,5 za dílek |
 | Milk Bucket | **Cheese** | pec, udírna | 🍗 2,5 |
 
 U sýra zůstane prázdný kbelík v peci.
@@ -107,24 +107,24 @@ Když hrnec rozbiješ, obsah vypadne.
 | Jídlo | Přísady | Vaří se | Nasytí |
 |---|---|---|---|
 | **Tomato Sauce** | 2× Tomato | 1 min | přísada |
-| **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 1,5 min | 🍗 6 |
+| **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 1,5 min | 🍗 5 |
 | **Pasta with Meatballs** | Minced Beef, Raw Pasta, Tomato Sauce | 1,5 min | 🍗 6 |
 
 ## Crafting
 
-Stačí dát suroviny kamkoliv do craftingu, na pozici nezáleží.
+Stačí dát suroviny kamkoliv do craftingu, na pozici nezáleží. Hotové jídlo vždycky nasytí aspoň tolik jako suroviny zvlášť a vydrží ti déle (vyšší saturace).
 
 ### Burgery a sendviče
 
 | Jídlo | Suroviny | Nasytí |
 |---|---|---|
-| **Hamburger** | Bread, Beef Patty, Tomato | 🍗 5,5 |
-| **Cheeseburger** | Bread, Beef Patty, Cheese, Tomato | 🍗 6 |
-| **Bacon Sandwich** | Bread, Cooked Bacon, Tomato | 🍗 5 |
-| **Chicken Sandwich** | Bread, Cooked Chicken, Tomato | 🍗 5 |
-| **Egg Sandwich** | Bread, 2× Fried Egg | 🍗 4 |
-| **Grilled Cheese** | Bread, Cheese | 🍗 4,5 |
-| **Fried Cheese** | Bread, Cheese, Egg | 🍗 4 |
+| **Hamburger** | Bread, Beef Patty, Tomato | 🍗 6 |
+| **Cheeseburger** | Bread, Beef Patty, Cheese, Tomato | 🍗 7 |
+| **Bacon Sandwich** | Bread, Cooked Bacon, Tomato | 🍗 6 |
+| **Chicken Sandwich** | Bread, Cooked Chicken, Tomato | 🍗 7 |
+| **Egg Sandwich** | Bread, 2× Fried Egg | 🍗 5,5 |
+| **Grilled Cheese** | Bread, Cheese | 🍗 5 |
+| **Fried Cheese** | Bread, Cheese, Egg | 🍗 5,5 |
 
 ### Přísady
 
@@ -138,7 +138,7 @@ Samy se nejí, vyrábí se z nich další jídla.
 ## Pizza
 
 1. **Pizzu** polož na zem jako dort.
-2. Pravým klikem ujídej po dílcích: 4 dílky, každý 🍗 3. S plným hladem jíst nejde.
+2. Pravým klikem ujídej po dílcích: 4 dílky, každý 🍗 2,5. S plným hladem jíst nejde.
 3. Nakousnutou pizzu můžeš rozbít, sebrat (Pizza 3/4, 1/2, 1/4) a položit jinde.
 
 ## Oreo
