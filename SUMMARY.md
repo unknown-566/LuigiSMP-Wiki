@@ -19,6 +19,7 @@
 
 ## Ekonomika
 * [Jak vydělat](ekonomika/jak-vydelat.md)
+* [Ceník výkupu](ekonomika/cenik-vykupu.md)
 * [Za co utrácet](ekonomika/za-co-utracet.md)
 
 ## Itemy a mechaniky

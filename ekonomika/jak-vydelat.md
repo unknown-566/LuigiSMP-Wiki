@@ -51,7 +51,7 @@ Výkupčí bere skoro všechno, co jde v survivalu získat: suroviny, bloky, ros
 - Nástroje a brnění: čím víc opotřebené, tím levnější.
 - Výkupčí **nebere** věci se jménem, s enchanty, custom itemy, lektvary, enchantované knihy ani plné shulkery.
 
-**Cenu zjistíš** přes `/value` (item v ruce), nebo rovnou v menu výkupu, kde vidíš, kolik dostaneš.
+**Cenu zjistíš** přes `/value` (item v ruce), rovnou v menu výkupu, kde vidíš, kolik dostaneš, nebo v [Ceníku výkupu](cenik-vykupu.md) se všemi věcmi.
 
 **Denní limit:** u každého druhu věci můžeš denně prodat za **$150** (vždy aspoň 16 kusů, nejvýš 512 kusů). Co prodáš nad limit, vykoupí se jen za **10 %** ceny. Limit se obnovuje o půlnoci. Kolik ti zbývá, zjistíš přes `/value`.
 
