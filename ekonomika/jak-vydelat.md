@@ -42,11 +42,14 @@ Advancementy, které máš splněné z dřívějška, se ti vyplatí **najednou*
 
 U **Výkupčího** na spawnu prodáš věci za peníze. Klikni na něj (nebo napiš `/vykup`, když stojíš do 5 bloků od něj), dej věci do menu, uvidíš, kolik za ně dostaneš, a klikni na **Prodat**. Co výkupčí nebere, ti vrátí.
 
+Výkupčí bere skoro všechno, co jde v survivalu získat: suroviny, bloky, rostliny, květiny, jídlo, nástroje, brnění i vzácnosti jako elytra nebo music disky.
+
 **Ceny:**
-- Suroviny (rudy, dřevo, jídlo z farem…) mají pevnou cenu.
+- Suroviny (rudy, dřevo, květiny, jídlo z farem…) mají pevnou cenu. Rudy vytěžené se Silk Touch stojí tolik jako to, co by z nich padlo.
+- Zoxidovaná a voskovaná měď stojí stejně jako obyčejná, beton stejně jako betonový prášek.
 - Vyrobené věci mají cenu podle surovin z receptu, vždy podle **nejlevnějšího** receptu. Craftěním se tedy vydělat nedá.
 - Nástroje a brnění: čím víc opotřebené, tím levnější.
-- Výkupčí **nebere** věci se jménem, s enchanty, custom itemy ani plné shulkery.
+- Výkupčí **nebere** věci se jménem, s enchanty, custom itemy, lektvary, enchantované knihy ani plné shulkery.
 
 **Cenu zjistíš** přes `/value` (item v ruce), nebo rovnou v menu výkupu, kde vidíš, kolik dostaneš.
 

@@ -6,6 +6,21 @@ Drobné změny serveru po jednotlivých buildech. Velké novinky se oznamují na
 
 ---
 
+## 2.8.0016 · 29. 10. 2026
+
+### Změny
+* **Výkup bere asi 500 dalších věcí:** květiny, listí, tráva, mech, popínavky, korály, ametystové krystaly, sculk, nether rostliny a bloky, rudy vytěžené se Silk Touch (cena podle toho, co z nich padá), kbelíky s vodou, lávou, mlékem a rybami, hlavy, elytra, music disky, pottery sherdy, trim templaty, chainmail a koňská brnění.
+* **Výkup, barevné věci:** díky cenám květin a barviv se vykupuje i barevná vlna, sklo, terakota, beton, postele, svíčky a shulkery ve všech barvách.
+* **Výkup, měď a beton:** zoxidovaná a voskovaná měď stojí stejně jako obyčejná, beton stejně jako betonový prášek.
+* **Výkup, dort:** pevně za $3.
+
+### Opravy
+* **Výkup, oloupané dřevo:** oloupané kmeny a dřevo výkupčí vůbec nebral, i když cenu mít měly.
+
+Viz [Jak vydělat](../ekonomika/jak-vydelat.md).
+
+---
+
 ## 2.8.0015 · 29. 10. 2026
 
 ### Nové
