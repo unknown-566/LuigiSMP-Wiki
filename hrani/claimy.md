@@ -63,6 +63,8 @@ Otevře menu s podrobným nastavením, co smí dělat **trusted** hráči a co *
 
 Pod „stavět" spadá i **vylití kbelíku** (voda, láva, prášek sněhu) a pod „bourat" jejich **nabrání zpátky**, takže ti nikdo cizí nemůže do claimu pustit vodu ani vypustit jezírko.
 
+Útok na moby má dvě nastavení: **„Útok na zvířata“** (zvířata, mazlíčci jako psi a kočky, vesničané a ostatní nehostilní moby) a **„Útok na hostilní moby“** (zombie, creepeři, slizy, phantomové a podobně). Můžeš tak třeba ostatním dovolit čistit claim od hostilních mobů, ale zakázat jim zabíjet tvoje zvířata.
+
 Pod „interakce s bloky" spadá všechno, na co jde kliknout: truhly, tlačítka, páky, zvony, ponk, kovadlina, postele a podobně. Dveře, poklopy a branky mají vlastní nastavení.
 
 ## Fly v claimu
