@@ -61,11 +61,20 @@ Kdo je v claimu trusted, uvidíš v `/claim list` → klik na claim (řádek **T
 ```
 Otevře menu s podrobným nastavením, co smí dělat **trusted** hráči a co **ostatní**: stavět, bourat, otevírat truhly/dveře, sbírat/vyhazovat itemy, útočit na entity, a taky claim-wide nastavení jako PvP, exploze, mobové a šíření ohně.
 
-Pod „stavět" spadá i **vylití kbelíku** (voda, láva, prášek sněhu) a pod „bourat" jejich **nabrání zpátky**, takže ti nikdo cizí nemůže do claimu pustit vodu ani vypustit jezírko.
+Pod „stavět" spadá i **vylití kbelíku** (voda, láva, prášek sněhu), **položení loďky, vozíku, stojanu, obrazu nebo rámečku** a pod „bourat" **nabrání kbelíkem** a **rozšlapání pole nebo želvích vajíček**. Nikdo cizí ti tak do claimu nepustí vodu ani nevypustí jezírko.
 
-Útok na moby má dvě nastavení: **„Útok na zvířata“** (zvířata, mazlíčci jako psi a kočky, vesničané a ostatní nehostilní moby) a **„Útok na hostilní moby“** (zombie, creepeři, slizy, phantomové a podobně). Můžeš tak třeba ostatním dovolit čistit claim od hostilních mobů, ale zakázat jim zabíjet tvoje zvířata.
+Útok na moby má tři nastavení:
+- **„Útok na hostilní moby“:** zombie, creepeři, slizy, phantomové, a z divokých zvířat medvědi a krokodýli
+- **„Útok na zvířata“:** krávy, prasata, vesničané a ostatní nehostilní moby
+- **„Útok na mazlíčky“:** ochočení psi, kočky, papoušci, koně a ochočená divoká zvířata
 
-Pod „interakce s bloky" spadá všechno, na co jde kliknout: truhly, tlačítka, páky, zvony, ponk, kovadlina, postele a podobně. Dveře, poklopy a branky mají vlastní nastavení.
+Můžeš tak třeba ostatním dovolit čistit claim od hostilních mobů a lovit krávy, ale zakázat jim sáhnout na tvého psa. Platí to i pro šípy, trojzubce, rybářský prut a škodlivé lektvary (otrava, slabost, poškození). Léčivé lektvary použít jde.
+
+Pod „interakce s entitami" spadá rozbíjení a používání rámečků, obrazů, stojanů na brnění, loděk a vozíků, obchod s vesničany, vodítko, jízda na cizím zvířeti, krmení a podobně.
+
+Pod „interakce s bloky" spadá všechno, na co jde kliknout: truhly, tlačítka, páky, zvony, ponk, kovadlina, postele a podobně. Rozhoduje, kde truhla stojí, ne kde stojíš ty. Dveře, poklopy a branky mají vlastní nastavení.
+
+**Ochrana zvenku platí vždycky:** do claimu nejde zvenku natlačit ani vytáhnout bloky pístem, natéct vodou nebo lávou, ani nic vystřelit nebo vylít dispenserem. Hostilní mobové (enderman, zombie u dveří, wither) v claimu neničí bloky.
 
 ## Fly v claimu
 
