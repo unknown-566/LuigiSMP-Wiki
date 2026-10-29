@@ -72,25 +72,38 @@ Kbelík se ti vrátí prázdný.
 
 Postav hrnec na **zapálený táborák** (stačí i oheň nebo magma) a pravým klikem ho otevři. Vlevo jsou místa na přísady, vpravo výsledek a pod ním místo na misku. Vaří i se zavřeným oknem, šipka ukazuje postup. Omáčka se vaří minutu, polévka a těstoviny s masovými kuličkami minutu a půl. Když hrnec rozbiješ, obsah vypadne.
 
-| Jídlo | Přísady | Nádoba | Hlad |
-|---|---|---|---|
-| Tomato Sauce | 2× rajče | miska | přísada |
-| Vegetable Soup | mrkev, brambora, řepa, rajče | miska | 12 |
-| Pasta with Meatballs | mleté hovězí, těstoviny, rajčatová omáčka | miska | 12 |
+Každé jídlo potřebuje do slotu na nádobu **misku**.
+
+| Jídlo | Přísady | Nasytí |
+|---|---|---|
+| **Tomato Sauce** | 2× Tomato | přísada |
+| **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 🍗 6 |
+| **Pasta with Meatballs** | Minced Beef, Raw Pasta, Tomato Sauce | 🍗 6 |
 
 ## Crafting
 
-| Jídlo | Recept | Hlad |
+Stačí dát suroviny kamkoliv do craftingu, na pozici nezáleží. Názvy jsou stejné jako ve hře.
+
+### Burgery a sendviče
+
+| Jídlo | Suroviny | Nasytí |
 |---|---|---|
-| Hamburger | chleba + karbanátek + rajče | 11 |
-| Cheeseburger | chleba + karbanátek + sýr + rajče | 12 |
-| Bacon Sandwich | chleba + opečená slanina + rajče | 10 |
-| Chicken Sandwich | chleba + pečené kuře + rajče | 10 |
-| Egg Sandwich | chleba + 2× sázené vejce | 8 |
-| Grilled Cheese | chleba + sýr | 9 |
-| Fried Cheese | sýr + vejce + chleba | 8 |
-| Wheat Dough | 2× pšenice + vejce | přísada |
-| Raw Pizza | těsto + rajčatová omáčka + sýr + rajče | přísada |
+| **Hamburger** | Bread, Beef Patty, Tomato | 🍗 5,5 |
+| **Cheeseburger** | Bread, Beef Patty, Cheese, Tomato | 🍗 6 |
+| **Bacon Sandwich** | Bread, Cooked Bacon, Tomato | 🍗 5 |
+| **Chicken Sandwich** | Bread, Cooked Chicken, Tomato | 🍗 5 |
+| **Egg Sandwich** | Bread, 2× Fried Egg | 🍗 4 |
+| **Grilled Cheese** | Bread, Cheese | 🍗 4,5 |
+| **Fried Cheese** | Bread, Cheese, Egg | 🍗 4 |
+
+### Přísady
+
+Samy se nejí, vyrábí se z nich další jídla.
+
+| Přísada | Suroviny | Na co |
+|---|---|---|
+| **Wheat Dough** | 2× Wheat, Egg | těstoviny (krájení), pizza |
+| **Raw Pizza** | Wheat Dough, Tomato Sauce, Cheese, Tomato | upeč v peci na Pizzu |
 
 ## Pizza
 
