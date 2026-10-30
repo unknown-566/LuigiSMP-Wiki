@@ -28,7 +28,6 @@
 * [Emeraldová výbava](itemy-a-mechaniky/emeraldova-vybava.md)
 * [Herní mechaniky](itemy-a-mechaniky/mechaniky.md)
 * [Kuchyně](itemy-a-mechaniky/kuchyne.md)
-* [LED pásky](itemy-a-mechaniky/led-pasky.md)
 
 ## Custom mobové
 * [Přehled](custom-mobove/prehled.md)
