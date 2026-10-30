@@ -61,3 +61,5 @@ Podrobnosti: [Jak vydělat](../ekonomika/jak-vydelat.md).
 |---|---|
 | `/plate` | [Nameplaty](../zabava/nameplaty.md) |
 | `/tvurce` | [Tvůrci](../zabava/tvurci.md) |
+| `/narozeniny` | Kalendář narozenin všech hráčů |
+| `/narozeniny <den> <měsíc>` | Nastaví tvoje narozeniny (jen jednou), v ten den dostaneš dárek |
