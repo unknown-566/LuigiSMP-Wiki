@@ -1,6 +1,6 @@
 # LED pásky
 
-Svítící pásky v 16 barvách. Dají se položit na **zem, stěnu i strop** a svítí jen tehdy, když dostanou **redstone signál**. Signál se pak rozšíří po celém souvislém pásku, ať je jakkoliv dlouhý.
+Svítící světýlka na drátku (jako vánoční) v 16 barvách. Dají se položit na **zem, stěnu i strop** a svítí jen tehdy, když dostanou **redstone signál**. Signál se pak rozšíří po celém souvislém pásku, ať je jakkoliv dlouhý.
 
 ## Výroba
 
@@ -32,7 +32,7 @@ Jde všech 16 barev barviv. Barevný pásek zpátky na bílý obarvit nejde.
 ## Pokládání
 
 - Pásek polož jako blok: na zem, na stěnu nebo na strop.
-- Na zemi a stropu vede pásek **směrem, kterým se díváš**. Na stěně vede vodorovně.
+- Na zemi a stropu vede pásek **napříč**, tedy kolmo na směr, kterým se díváš. Na stěně vede vodorovně, polož ho při pohledu přímo na stěnu.
 - Kusy, které se dotýkají stranou nebo hranou, tvoří jeden pásek. Pásek tak může jít i přes roh, třeba ze země na stěnu.
 
 ## Svícení
