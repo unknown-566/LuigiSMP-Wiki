@@ -9,6 +9,7 @@ Textury nožů, rajčat, hrnce a většiny jídel pochází z módu Farmer's Del
 | Co | Kde |
 |---|---|
 | Semínka rajčat | sniffer, wandering trader, truhly ve vesnicích, veverky, farmář |
+| Zelí a cibule | pobřeží, květina Allium, kypření motykou, trader, truhly, farmář |
 | Krájení | crafting s nožem |
 | Pečení | pec, udírna, táborák |
 | Vaření | hrnec na táboráku |
@@ -49,6 +50,7 @@ Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři
 | Apple Pie | 4× **Apple Pie Slice** |
 | Chocolate Pie | 4× **Chocolate Pie Slice** |
 | Sweet Berry Cheesecake | 4× **Sweet Berry Cheesecake Slice** |
+| Cabbage | 2× **Cabbage Leaf** |
 
 ## Rajčata
 
@@ -82,6 +84,28 @@ Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři
 | **rozbití** nezralého rajčete | 1 Tomato Seeds | zmizí |
 
 **Tomato** se dá i sníst: 🍗 1,5.
+
+## Zelí a cibule
+
+**Cabbage Seeds** a **Onion** zasaď pravým klikem na **záhon**. Rostou podle stejných pravidel jako rajčata (voda, světlo, řady, Bone Meal) a dozrají za stejnou dobu. Ze začátku vypadají stejně jako mladé rajče, poznáš je až zralé.
+
+| Rostlina | Rozbití zralé | Rozbití nezralé |
+|---|---|---|
+| **Zelí** | 1 Cabbage, 1–2 Cabbage Seeds | 1 Cabbage Seeds |
+| **Cibule** | 2–4 Onion | 1 Onion |
+
+Cibule se sází přímo, semínka nemá. Obojí jde i sníst: 🍗 1.
+
+### Kde je vzít
+
+| Zdroj | Zelí | Cibule |
+|---|---|---|
+| **Pobřeží** | tráva nebo kapradí u písku či vody, v úrovni moře: šance na Cabbage Seeds | |
+| **Allium** | | utržená květina Allium (cibule je stejný rod) občas dá i cibuli |
+| **Kypření motykou** | | když v louce, pláni nebo lese uděláš ze trávy nebo hlíny záhon, občas vyhrabeš divokou cibuli |
+| **Truhly** | zásoby vraků lodí, domy ve vesnicích | domy ve vesnicích |
+| **Wandering trader** | některý prodává 3 semínka za 1 Emerald | některý prodává 4 cibule za 1 Emerald |
+| **Farmář** | jako u rajčat (Apprentice) | jako u rajčat (Apprentice) |
 
 ## Pečení
 
@@ -127,8 +151,13 @@ Když hrnec rozbiješ, obsah vypadne.
 | **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 1,5 min | 🍗 5 |
 | **Pasta with Meatballs** | Minced Beef, Raw Pasta, Tomato Sauce | 1,5 min | 🍗 6 |
 | **Beef Stew** | Raw Beef, Carrot, Potato | 1,5 min | 🍗 6 |
-| **Chicken Soup** | Raw Chicken, Carrot, Potato, Beetroot | 1,5 min | 🍗 6 |
-| **Fish Stew** | Raw Cod nebo Raw Salmon, Tomato Sauce, Potato | 1,5 min | 🍗 6 |
+| **Chicken Soup** | Raw Chicken, Carrot, Cabbage Leaf, Potato | 1,5 min | 🍗 6 |
+| **Fish Stew** | Raw Cod nebo Raw Salmon, Tomato Sauce, Onion | 1,5 min | 🍗 6 |
+| **Onion Soup** | 2× Onion, Bread, Cheese | 1,5 min | 🍗 6 |
+| **Ratatouille** | Tomato, Onion, Beetroot, Carrot | 1,5 min | 🍗 5 |
+| **Noodle Soup** | Raw Pasta, Fried Egg, Dried Kelp, Raw Porkchop | 1,5 min | 🍗 7 |
+| **Cabbage Rolls** *(bez nádoby)* | Cabbage Leaf, Minced Beef | 1 min | 🍗 2,5 |
+| **Dumplings** *(bez nádoby)* | Wheat Dough, Cabbage Leaf, Onion, Minced Beef | 1 min | 🍗 4 |
 | **Pumpkin Soup** | Pumpkin Slice, Raw Porkchop, Milk Bottle, Carrot | 1,5 min | 🍗 7 |
 | **Baked Cod Stew** | Raw Cod, Potato, Egg, Tomato | 1,5 min | 🍗 7 |
 | **Pasta with Mutton Chop** | Raw Mutton, Raw Pasta, Tomato Sauce | 1,5 min | 🍗 6 |
@@ -176,7 +205,8 @@ Po snědení ti zůstane miska (u špízu klacek).
 | **Roasted Mutton Chops** | 2× Cooked Mutton Chops, Beetroot, Baked Potato, Bowl | 🍗 7 |
 | **Fruit Salad** | Apple, 2× Melon Slice, 2× Sweet Berries, Pumpkin Slice, Bowl | 🍗 3, chvíli regenerace |
 | **Nether Salad** | Crimson Fungus, Warped Fungus, Bowl | 🍗 2,5, občas zamotá hlavu |
-| **Barbecue on a Stick** | Stick, Tomato, Cooked Chicken Cuts, Cooked Bacon | 🍗 4 |
+| **Barbecue on a Stick** | Stick, Tomato, Onion, Cooked Chicken Cuts | 🍗 4 |
+| **Mixed Salad** | Cabbage, Tomato, Beetroot, Bowl | 🍗 3, chvíli regenerace |
 | **Stuffed Potato** | Baked Potato, Steak, Milk Bottle (láhev ti zůstane) | 🍗 5 |
 
 ### Pití
