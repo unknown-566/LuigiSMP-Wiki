@@ -20,6 +20,9 @@ Textury nožů, rajčat, hrnce a většiny jídel pochází z módu Farmer's Del
 |---|---|---|
 | **Flint Knife** | Flint nad Stick | 131 krájení |
 | **Iron Knife** | Iron Ingot nad Stick | 250 krájení |
+| **Golden Knife** | Gold Ingot nad Stick | 32 krájení |
+| **Diamond Knife** | Diamond nad Stick | 1561 krájení |
+| **Netherite Knife** | Diamond Knife + Netherite Ingot (crafting) | 2031 krájení |
 
 ## Krájení
 
@@ -36,6 +39,16 @@ Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři
 | Wheat Dough | 2× **Raw Pasta** |
 | Oreo | 2× **Oreo Crumbs** |
 | Oreo Cheesecake | 4× **Oreo Cheesecake Slice** |
+| Raw Chicken | 2× **Raw Chicken Cuts** |
+| Raw Cod | 2× **Raw Cod Slice** |
+| Raw Salmon | 2× **Raw Salmon Slice** |
+| Raw Mutton | 2× **Raw Mutton Chops** |
+| Pumpkin | 4× **Pumpkin Slice** |
+| Cake | 7× **Cake Slice** |
+| Pumpkin Pie | 4× **Pumpkin Pie Slice** |
+| Apple Pie | 4× **Apple Pie Slice** |
+| Chocolate Pie | 4× **Chocolate Pie Slice** |
+| Sweet Berry Cheesecake | 4× **Sweet Berry Cheesecake Slice** |
 
 ## Rajčata
 
@@ -78,6 +91,10 @@ Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři
 | Bacon | **Cooked Bacon** | pec, udírna, táborák | 🍗 2 |
 | Egg | **Fried Egg** | pec, udírna, táborák | 🍗 1,5 |
 | Raw Pizza | **Pizza** | jen pec | 🍗 2,5 za dílek |
+| Raw Chicken Cuts | **Cooked Chicken Cuts** | pec, udírna, táborák | 🍗 1,5 |
+| Raw Cod Slice | **Cooked Cod Slice** | pec, udírna, táborák | 🍗 1,5 |
+| Raw Salmon Slice | **Cooked Salmon Slice** | pec, udírna, táborák | 🍗 1,5 |
+| Raw Mutton Chops | **Cooked Mutton Chops** | pec, udírna, táborák | 🍗 1,5 |
 | Milk Bucket | **Cheese** | pec, udírna | 🍗 2,5 |
 
 U sýra zůstane prázdný kbelík v peci.
@@ -98,7 +115,7 @@ Kbelík se ti vrátí prázdný.
 
 1. Postav hrnec na **zapálený táborák** (stačí i oheň nebo magma).
 2. Pravým klikem ho otevři.
-3. Vlevo dej **přísady**, do slotu pod výsledkem dej **Bowl**.
+3. Vlevo dej **přísady**, do slotu pod výsledkem dej **Bowl** (u pití **Glass Bottle**).
 4. Šipka ukazuje postup. Vaří se i se zavřeným oknem.
 5. Hotové jídlo si vezmi vpravo.
 
@@ -109,6 +126,18 @@ Když hrnec rozbiješ, obsah vypadne.
 | **Tomato Sauce** | 2× Tomato | 1 min | přísada |
 | **Vegetable Soup** | Carrot, Potato, Beetroot, Tomato | 1,5 min | 🍗 5 |
 | **Pasta with Meatballs** | Minced Beef, Raw Pasta, Tomato Sauce | 1,5 min | 🍗 6 |
+| **Beef Stew** | Raw Beef, Carrot, Potato | 1,5 min | 🍗 6 |
+| **Chicken Soup** | Raw Chicken, Carrot, Potato, Beetroot | 1,5 min | 🍗 6 |
+| **Fish Stew** | Raw Cod nebo Raw Salmon, Tomato Sauce, Potato | 1,5 min | 🍗 6 |
+| **Pumpkin Soup** | Pumpkin Slice, Raw Porkchop, Milk Bottle, Carrot | 1,5 min | 🍗 7 |
+| **Baked Cod Stew** | Raw Cod, Potato, Egg, Tomato | 1,5 min | 🍗 7 |
+| **Pasta with Mutton Chop** | Raw Mutton, Raw Pasta, Tomato Sauce | 1,5 min | 🍗 6 |
+| **Bone Broth** | Bone + Glow Berries, Brown Mushroom nebo Red Mushroom | 1 min | 🍗 4 |
+| **Hot Cocoa** *(Glass Bottle)* | Milk Bottle, Sugar, 2× Cocoa Beans | 1 min | odstraní špatné efekty |
+| **Apple Cider** *(Glass Bottle)* | 2× Apple, Sugar | 1 min | Absorpce na 1 min |
+| **Glow Berry Custard** *(Glass Bottle)* | Glow Berries, Milk Bottle, Egg, Sugar | 1 min | 🍗 3,5, krátce svítíš |
+
+Po snědení ti zůstane miska nebo láhev.
 
 ## Crafting
 
@@ -135,11 +164,64 @@ Samy se nejí, vyrábí se z nich další jídla.
 | **Wheat Dough** | 2× Wheat, Egg | Raw Pasta (krájení), Raw Pizza |
 | **Raw Pizza** | Wheat Dough, Tomato Sauce, Cheese, Tomato | upeč v peci na Pizzu |
 
+### Hotová jídla
+
+Po snědení ti zůstane miska (u špízu klacek).
+
+| Jídlo | Suroviny | Nasytí |
+|---|---|---|
+| **Bacon and Eggs** | 2× Cooked Bacon, 2× Fried Egg, Bowl | 🍗 5 |
+| **Steak and Potatoes** | Steak, Baked Potato, Carrot, Bowl | 🍗 6 |
+| **Grilled Salmon** | 2× Cooked Salmon Slice, Sweet Berries, Carrot, Bowl | 🍗 7 |
+| **Roasted Mutton Chops** | 2× Cooked Mutton Chops, Beetroot, Baked Potato, Bowl | 🍗 7 |
+| **Fruit Salad** | Apple, 2× Melon Slice, 2× Sweet Berries, Pumpkin Slice, Bowl | 🍗 3, chvíli regenerace |
+| **Nether Salad** | Crimson Fungus, Warped Fungus, Bowl | 🍗 2,5, občas zamotá hlavu |
+| **Barbecue on a Stick** | Stick, Tomato, Cooked Chicken Cuts, Cooked Bacon | 🍗 4 |
+| **Stuffed Potato** | Baked Potato, Steak, Milk Bottle (láhev ti zůstane) | 🍗 5 |
+
+### Pití
+
+| Pití | Suroviny | Co dělá |
+|---|---|---|
+| 4× **Milk Bottle** | Milk Bucket, 4× Glass Bottle | jako mléko, odstraní všechny efekty |
+| **Melon Juice** | 4× Melon Slice, Sugar, Glass Bottle | vyléčí 2 ❤ |
+
+Další pití (Hot Cocoa, Apple Cider) se vaří v hrnci. Po vypití ti zůstane prázdná láhev.
+
+### Koláče
+
+Celý koláč nakrájej nožem na 4 dílky. Každý dílek nasytí 🍗 1,5 a na 30 s tě zrychlí.
+
+| | Suroviny |
+|---|---|
+| **Pie Crust** | 3× Wheat, Milk Bottle (láhev ti zůstane) |
+| **Apple Pie** | nahoře 3× Wheat, uprostřed 3× Apple, dole Sugar, Pie Crust, Sugar |
+| **Chocolate Pie** | nahoře 3× Cocoa Beans, uprostřed 3× Milk Bottle, dole Sugar, Pie Crust, Sugar |
+| **Sweet Berry Cheesecake** | nahoře 3× Sweet Berries, uprostřed 3× Milk Bottle, dole Pie Crust uprostřed |
+
+Nožem jde nakrájet i vanilla **Pumpkin Pie** (4 dílky) a **Cake** (7× Cake Slice, 🍗 1 a zrychlení na 20 s).
+
+### Sladkosti
+
+| Sladkost | Suroviny | Nasytí |
+|---|---|---|
+| 8× **Sweet Berry Cookie** | 2× Wheat, Sweet Berries | 🍗 1 |
+| 8× **Honey Cookie** | 2× Wheat, Honey Bottle | 🍗 1 |
+| **Melon Popsicle** | 3× Melon Slice, Ice, Stick | 🍗 1,5, jde sníst i s plným hladem |
+
 ## Pizza
 
 1. **Pizzu** polož na zem jako dort.
 2. Pravým klikem ujídej po dílcích: 4 dílky, každý 🍗 2,5. S plným hladem jíst nejde.
 3. Nakousnutou pizzu můžeš rozbít, sebrat (Pizza 3/4, 1/2, 1/4) a položit jinde.
+
+## Roast Chicken
+
+**Recept:** Cooked Chicken, Bread, Carrot, 2× Baked Potato, Bowl.
+
+1. Pečené kuře polož na zem.
+2. Pravým klikem ujídej: 4 dílky, každý 🍗 3. S plným hladem jíst nejde.
+3. Po posledním dílku zůstanou zbytky. Když je rozbiješ, dostaneš kosti. Nakousnuté kuře už sebrat nejde, rozbitím z něj padnou taky jen kosti.
 
 ## Oreo
 
