@@ -227,6 +227,8 @@ Po snědení ti zůstane miska (u špízu klacek).
 
 Další pití (Hot Cocoa, Apple Cider) se vaří v hrnci. Po vypití ti zůstane prázdná láhev.
 
+Pití (i Oreo Milkshake) jde položit na stůl: **Shift + pravý klik** na horní stranu bloku. Prázdnou rukou ho zase vezmeš, rozbitím vypadne.
+
 ### Koláče
 
 Celý koláč nakrájej na prkénku na 4 dílky. Každý dílek nasytí 🍗 1,5 a na 30 s tě zrychlí.
