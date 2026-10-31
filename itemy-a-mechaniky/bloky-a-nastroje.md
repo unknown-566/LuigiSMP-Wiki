@@ -59,3 +59,18 @@ Historická palná zbraň, nabíjí se ve dvou krocích (nejdřív Prachový pyt
 💡 *Komunitní nápad.*
 
 Házecí předmět (na bázi sněhové koule), zasáhne poškozením a šancí na zpomalení, a má malou šanci rozbít poblíž skleněnou tabuli.
+
+
+## Polštáře
+Polštáře jako v Minecraftu 26.3, ve všech 16 barvách vlny.
+
+| Recept | Výsledek |
+|---|---|
+| 3 koberce stejné barvy v řadě | 1 polštář dané barvy |
+| polštář + barvivo | polštář v barvě barviva |
+
+* Polož ho na zem a **pravým klikem si na něj sedneš**. Vstaneš Shiftem.
+* Jde přes něj projít, nemá kolizi.
+* Rozbiješ ho jedním úderem a vždycky vypadne celý.
+* Když rozbiješ blok pod ním, polštář spadne jako item.
+* V jednom stacku jich uneseš 16.
