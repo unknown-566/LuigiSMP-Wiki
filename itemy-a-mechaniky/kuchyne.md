@@ -10,7 +10,7 @@ Textury nožů, rajčat, hrnce a většiny jídel pochází z módu Farmer's Del
 |---|---|
 | Semínka rajčat | sniffer, wandering trader, truhly ve vesnicích, veverky, farmář |
 | Zelí a cibule | pobřeží, květina Allium, kypření motykou, trader, truhly, farmář |
-| Krájení | crafting s nožem |
+| Krájení | nůž na krájecím prkénku |
 | Pečení | pec, udírna, táborák |
 | Vaření | hrnec na táboráku |
 | Burgery a sendviče | crafting |
@@ -27,13 +27,22 @@ Textury nožů, rajčat, hrnce a většiny jídel pochází z módu Farmer's Del
 
 ## Krájení
 
-Krájí se v obyčejném craftingu, stačí i malá mřížka 2×2 v inventáři.
+Krájí se na **Cutting Board** (krájecím prkénku).
 
-1. Dej do craftingu **nůž** a **surovinu**, na pozici nezáleží.
-2. Vezmi si výsledek.
-3. Nůž zůstane v mřížce, jen mu ubude výdrž. Surovina se spotřebuje.
+**Recept:** Stick a 2 prkna (jakákoliv), dvakrát pod sebou:
 
-| Nůž + | Dostaneš |
+| | | |
+|---|---|---|
+| Stick | Planks | Planks |
+| Stick | Planks | Planks |
+
+1. Polož prkénko na blok.
+2. Pravým klikem na něj polož **surovinu** (1 kus). Položit jde jen to, co se dá nakrájet.
+3. Pravým klikem **nožem** ji nakrájej. Výsledek vypadne na prkénku a nůž ztratí 1 výdrž.
+
+Položenou surovinu vezmeš zpátky pravým klikem prázdnou rukou. Když prkénko rozbiješ, surovina vypadne.
+
+| Surovina | Dostaneš |
 |---|---|
 | Raw Beef | 2× **Minced Beef** |
 | Raw Porkchop | 2× **Bacon** |
@@ -220,7 +229,7 @@ Další pití (Hot Cocoa, Apple Cider) se vaří v hrnci. Po vypití ti zůstane
 
 ### Koláče
 
-Celý koláč nakrájej nožem na 4 dílky. Každý dílek nasytí 🍗 1,5 a na 30 s tě zrychlí.
+Celý koláč nakrájej na prkénku na 4 dílky. Každý dílek nasytí 🍗 1,5 a na 30 s tě zrychlí.
 
 | | Suroviny |
 |---|---|
@@ -229,7 +238,7 @@ Celý koláč nakrájej nožem na 4 dílky. Každý dílek nasytí 🍗 1,5 a na
 | **Chocolate Pie** | nahoře 3× Cocoa Beans, uprostřed 3× Milk Bottle, dole Sugar, Pie Crust, Sugar |
 | **Sweet Berry Cheesecake** | nahoře 3× Sweet Berries, uprostřed 3× Milk Bottle, dole Pie Crust uprostřed |
 
-Nožem jde nakrájet i vanilla **Pumpkin Pie** (4 dílky) a **Cake** (7× Cake Slice, 🍗 1 a zrychlení na 20 s).
+Na prkénku jde nakrájet i vanilla **Pumpkin Pie** (4 dílky) a **Cake** (7× Cake Slice, 🍗 1 a zrychlení na 20 s).
 
 ### Sladkosti
 
@@ -261,7 +270,7 @@ Nožem jde nakrájet i vanilla **Pumpkin Pie** (4 dílky) a **Cake** (7× Cake S
 | 4× **Cream Filling** | Milk Bucket, Sugar, Bowl | přísada |
 | 2× **Oreo** | 2× Cocoa Cookie, Cream Filling (Bowl ti zůstane) | 🍗 1,5 |
 | **Oreo Milkshake** | Milk Bucket, 2× Oreo, Glass Bottle | 🍗 3 |
-| **Oreo Cheesecake** | Cheese, Cream Filling, 2× Oreo Crumbs, Sugar, Egg, Wheat | nakrájej nožem |
+| **Oreo Cheesecake** | Cheese, Cream Filling, 2× Oreo Crumbs, Sugar, Egg, Wheat | nakrájej na prkénku |
 | 4× **Oreo Cheesecake Slice** | nůž + Oreo Cheesecake | 🍗 2 |
 
 Cocoa Cookie, Oreo, Oreo Milkshake a Oreo Cheesecake Slice jdou sníst i s plným hladem.
